@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Corse",
+    "id": "FR-H",
+    "NAME_ENG": "Corsica",
+    "CNTRY": "France",
+    "TYPE": "Metropolitan Region"
+  },
+  {
+    "name": "Malta",
+    "id": "MT",
+    "NAME_ENG": "Malta",
+    "CNTRY": "Malta",
+    "TYPE": "Nation"
+  },
+  {
+    "name": "San Marino",
+    "id": "SM",
+    "NAME_ENG": "San Marino",
+    "CNTRY": "San Marino",
+    "TYPE": "Nation"
+  },
+  {
+    "name": "Vatican City",
+    "id": "VA",
+    "NAME_ENG": "Vatican City",
+    "CNTRY": "Vatican City",
+    "TYPE": "Nation"
+  },
+  {
+    "name": "Piemonte",
+    "id": "IT-21",
+    "NAME_ENG": "Piedmont",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Valle d'Aosta",
+    "id": "IT-23",
+    "NAME_ENG": "Aosta Valley",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Lombardia",
+    "id": "IT-25",
+    "NAME_ENG": "Lombardy",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Trentino-Alto Adige",
+    "id": "IT-32",
+    "NAME_ENG": "Trentino-South Tyrol",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Veneto",
+    "id": "IT-34",
+    "NAME_ENG": "Veneto",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Friuli-Venezia Giulia",
+    "id": "IT-36",
+    "NAME_ENG": "Friuli-Venezia Giulia",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Liguria",
+    "id": "IT-42",
+    "NAME_ENG": "Liguria",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Emilia-Romagna",
+    "id": "IT-45",
+    "NAME_ENG": "Emilia-Romagna",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Toscana",
+    "id": "IT-52",
+    "NAME_ENG": "Tuscany",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Umbria",
+    "id": "IT-55",
+    "NAME_ENG": "Umbria",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Marche",
+    "id": "IT-57",
+    "NAME_ENG": "Marche",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Lazio",
+    "id": "IT-62",
+    "NAME_ENG": "Lazio",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Abruzzo",
+    "id": "IT-65",
+    "NAME_ENG": "Abruzzo",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Molise",
+    "id": "IT-67",
+    "NAME_ENG": "Molise",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Campania",
+    "id": "IT-72",
+    "NAME_ENG": "Campania",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Puglia",
+    "id": "IT-75",
+    "NAME_ENG": "Apulia",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Basilicata",
+    "id": "IT-77",
+    "NAME_ENG": "Basilicata",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Calabria",
+    "id": "IT-78",
+    "NAME_ENG": "Calabria",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Sicilia",
+    "id": "IT-82",
+    "NAME_ENG": "Sicily",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Sardegna",
+    "id": "IT-88",
+    "NAME_ENG": "Sardinia",
+    "CNTRY": "Italy",
+    "TYPE": "Region"
+  }
+]

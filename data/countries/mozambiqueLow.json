@@ -1,0 +1,79 @@
+[
+  {
+    "id": "MZ-N",
+    "name": "Nampula",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province",
+    "CNTRY": "Mozambique"
+  },
+  {
+    "id": "MZ-S",
+    "name": "Sofala",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province",
+    "CNTRY": "Mozambique"
+  },
+  {
+    "id": "MZ-I",
+    "name": "Inhambane",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province",
+    "CNTRY": "Mozambique"
+  },
+  {
+    "id": "MZ-MPM",
+    "name": "Maputo",
+    "TYPE": "City",
+    "TYPE_ENG": "City",
+    "CNTRY": "Mozambique"
+  },
+  {
+    "id": "MZ-Q",
+    "name": "Zambézia",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province",
+    "CNTRY": "Mozambique"
+  },
+  {
+    "id": "MZ-G",
+    "name": "Gaza",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province",
+    "CNTRY": "Mozambique"
+  },
+  {
+    "id": "MZ-B",
+    "name": "Manica",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province",
+    "CNTRY": "Mozambique"
+  },
+  {
+    "id": "MZ-T",
+    "name": "Tete",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province",
+    "CNTRY": "Mozambique"
+  },
+  {
+    "id": "MZ-A",
+    "name": "Niassa",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province",
+    "CNTRY": "Mozambique"
+  },
+  {
+    "id": "MZ-P",
+    "name": "Cabo Delgado",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province",
+    "CNTRY": "Mozambique"
+  },
+  {
+    "id": "MZ-L",
+    "name": "Maputo",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province",
+    "CNTRY": "Mozambique"
+  }
+]

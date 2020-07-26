@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Northern",
+    "id": "MT-NO",
+    "CNTRY": "Malta",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Central",
+    "id": "MT-CE",
+    "CNTRY": "Malta",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Southern",
+    "id": "MT-SO",
+    "CNTRY": "Malta",
+    "TYPE": "Region"
+  },
+  {
+    "name": "South Eastern",
+    "id": "MT-SE",
+    "CNTRY": "Malta",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Gozo",
+    "id": "MT-GO",
+    "CNTRY": "Malta",
+    "TYPE": "Region"
+  }
+]

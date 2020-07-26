@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Lamu",
+    "id": "KE-21",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Baringo",
+    "id": "KE-01",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Bomet",
+    "id": "KE-02",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Bungoma",
+    "id": "KE-03",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Busia",
+    "id": "KE-04",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Elgeyo-Marakwet",
+    "id": "KE-05",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Embu",
+    "id": "KE-06",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Garissa",
+    "id": "KE-07",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Homa Bay",
+    "id": "KE-08",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Isiolo",
+    "id": "KE-09",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kajiado",
+    "id": "KE-10",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kakamega",
+    "id": "KE-11",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kericho",
+    "id": "KE-12",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kiambu",
+    "id": "KE-13",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kilifi",
+    "id": "KE-14",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kirinyaga",
+    "id": "KE-15",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kisii",
+    "id": "KE-16",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kisumu",
+    "id": "KE-17",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kitui",
+    "id": "KE-18",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kwale",
+    "id": "KE-19",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Laikipia",
+    "id": "KE-20",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Machakos",
+    "id": "KE-22",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Makueni",
+    "id": "KE-23",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Mandera",
+    "id": "KE-24",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Marsabit",
+    "id": "KE-25",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Meru",
+    "id": "KE-26",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Migori",
+    "id": "KE-27",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Mombasa",
+    "id": "KE-28",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Murang'a",
+    "id": "KE-29",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Nairobi City",
+    "id": "KE-30",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Nakuru",
+    "id": "KE-31",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Nandi",
+    "id": "KE-32",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Narok",
+    "id": "KE-33",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Nyamira",
+    "id": "KE-34",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Nyandarua",
+    "id": "KE-35",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Nyeri",
+    "id": "KE-36",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Samburu",
+    "id": "KE-37",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Siaya",
+    "id": "KE-38",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Taita-Taveta",
+    "id": "KE-39",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Tana River",
+    "id": "KE-40",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Tharaka-Nithi",
+    "id": "KE-41",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Trans Nzoia",
+    "id": "KE-42",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Turkana",
+    "id": "KE-43",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Uasin Gishu",
+    "id": "KE-44",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Vihiga",
+    "id": "KE-45",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "Wajir",
+    "id": "KE-46",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  },
+  {
+    "name": "West Pokot",
+    "id": "KE-47",
+    "CNTRY": "Kenya",
+    "TYPE": "County"
+  }
+]

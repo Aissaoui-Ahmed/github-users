@@ -1,0 +1,72 @@
+[
+  {
+    "id": "SR-BR",
+    "name": "Brokopondo",
+    "TYPE": "Distrikt",
+    "TYPE_ENG": "District",
+    "CNTRY": "Suriname"
+  },
+  {
+    "id": "SR-PR",
+    "name": "Para",
+    "TYPE": "Distrikt",
+    "TYPE_ENG": "District",
+    "CNTRY": "Suriname"
+  },
+  {
+    "id": "SR-CM",
+    "name": "Commewijne",
+    "TYPE": "Distrikt",
+    "TYPE_ENG": "District",
+    "CNTRY": "Suriname"
+  },
+  {
+    "id": "SR-PM",
+    "name": "Paramaribo",
+    "TYPE": "Distrikt",
+    "TYPE_ENG": "District",
+    "CNTRY": "Suriname"
+  },
+  {
+    "id": "SR-WA",
+    "name": "Wanica",
+    "TYPE": "Distrikt",
+    "TYPE_ENG": "District",
+    "CNTRY": "Suriname"
+  },
+  {
+    "id": "SR-SA",
+    "name": "Saramacca",
+    "TYPE": "Distrikt",
+    "TYPE_ENG": "District",
+    "CNTRY": "Suriname"
+  },
+  {
+    "id": "SR-CR",
+    "name": "Coronie",
+    "TYPE": "Distrikt",
+    "TYPE_ENG": "District",
+    "CNTRY": "Suriname"
+  },
+  {
+    "id": "SR-MA",
+    "name": "Marowijne",
+    "TYPE": "Distrikt",
+    "TYPE_ENG": "District",
+    "CNTRY": "Suriname"
+  },
+  {
+    "id": "SR-NI",
+    "name": "Nickerie",
+    "TYPE": "Distrikt",
+    "TYPE_ENG": "District",
+    "CNTRY": "Suriname"
+  },
+  {
+    "id": "SR-SI",
+    "name": "Sipaliwini",
+    "TYPE": "Distrikt",
+    "TYPE_ENG": "District",
+    "CNTRY": "Suriname"
+  }
+]

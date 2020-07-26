@@ -1,0 +1,44 @@
+[
+  {
+    "id": "KW-FA",
+    "name": "Al Farwānīyah",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate",
+    "CNTRY": "Kuwait"
+  },
+  {
+    "id": "KW-MU",
+    "name": "Mubārak al Kabīr",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate",
+    "CNTRY": "Kuwait"
+  },
+  {
+    "id": "KW-HA",
+    "name": "Ḩawallī",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate",
+    "CNTRY": "Kuwait"
+  },
+  {
+    "id": "KW-KU",
+    "name": "Al ‘Āşimah",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate",
+    "CNTRY": "Kuwait"
+  },
+  {
+    "id": "KW-AH",
+    "name": "Al Aḩmadī",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate",
+    "CNTRY": "Kuwait"
+  },
+  {
+    "id": "KW-JA",
+    "name": "Al Jahrā’",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate",
+    "CNTRY": "Kuwait"
+  }
+]

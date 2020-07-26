@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Yauco",
+    "id": "PR-YU",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Yabucoa",
+    "id": "PR-YB",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Villalba",
+    "id": "PR-VL",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vieques",
+    "id": "PR-VQ",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vega Baja",
+    "id": "PR-VB",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vega Alta",
+    "id": "PR-VA",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Utuado",
+    "id": "PR-UT",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Trujillo Alto",
+    "id": "PR-TJ",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Toa Baja",
+    "id": "PR-TB",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Toa Alta",
+    "id": "PR-TA",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Santa Isabel",
+    "id": "PR-SI",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "San Sebastián",
+    "id": "PR-SS",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "San Lorenzo",
+    "id": "PR-SL",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "San Juan",
+    "id": "PR-SJ",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "San Germán",
+    "id": "PR-SG",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Salinas",
+    "id": "PR-SA",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sabana Grande",
+    "id": "PR-SB",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Río Grande",
+    "id": "PR-RG",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rincón",
+    "id": "PR-RC",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Quebradillas",
+    "id": "PR-QB",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ponce",
+    "id": "PR-PO",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Peñuelas",
+    "id": "PR-PN",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Patillas",
+    "id": "PR-PT",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Orocovis",
+    "id": "PR-OR",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Naranjito",
+    "id": "PR-NR",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Naguabo",
+    "id": "PR-NG",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Morovis",
+    "id": "PR-MV",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Moca",
+    "id": "PR-MC",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mayagüez",
+    "id": "PR-MG",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Maunabo",
+    "id": "PR-MB",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Maricao",
+    "id": "PR-MR",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Manatí",
+    "id": "PR-MT",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Luquillo",
+    "id": "PR-LQ",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Loíza",
+    "id": "PR-LZ",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Las Piedras",
+    "id": "PR-LP",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Las Marías",
+    "id": "PR-LM",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Lares",
+    "id": "PR-LR",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Lajas",
+    "id": "PR-LJ",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Juncos",
+    "id": "PR-JC",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Juana Díaz",
+    "id": "PR-JD",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Jayuya",
+    "id": "PR-JY",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Isabela",
+    "id": "PR-IS",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Humacao",
+    "id": "PR-HU",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Hormigueros",
+    "id": "PR-HO",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Hatillo",
+    "id": "PR-HA",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Gurabo",
+    "id": "PR-GR",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Guaynabo",
+    "id": "PR-GB",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Guayanilla",
+    "id": "PR-GL",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Guayama",
+    "id": "PR-GM",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Guánica",
+    "id": "PR-GC",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Florida",
+    "id": "PR-FL",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Fajardo",
+    "id": "PR-FJ",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dorado",
+    "id": "PR-DO",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Culebra",
+    "id": "PR-CU",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Corozal",
+    "id": "PR-CZ",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Comerío",
+    "id": "PR-CM",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Coamo",
+    "id": "PR-CO",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cidra",
+    "id": "PR-CD",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ciales",
+    "id": "PR-CL",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ceiba",
+    "id": "PR-CB",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cayey",
+    "id": "PR-CY",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cataño",
+    "id": "PR-CT",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Carolina",
+    "id": "PR-CN",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Canóvanas",
+    "id": "PR-CV",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Camuy",
+    "id": "PR-CA",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Caguas",
+    "id": "PR-CG",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cabo Rojo",
+    "id": "PR-CR",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Bayamón",
+    "id": "PR-BY",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Barranquitas",
+    "id": "PR-BQ",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Barceloneta",
+    "id": "PR-BC",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Arroyo",
+    "id": "PR-AR",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Arecibo",
+    "id": "PR-AC",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Añasco",
+    "id": "PR-AN",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Aibonito",
+    "id": "PR-AI",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Aguas Buenas",
+    "id": "PR-AB",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Aguadilla",
+    "id": "PR-AL",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Aguada",
+    "id": "PR-AD",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Adjuntas",
+    "id": "PR-AJ",
+    "CNTRY": "Puerto Rico",
+    "TYPE": "Municipality"
+  }
+]

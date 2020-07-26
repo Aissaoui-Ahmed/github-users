@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GW-BM",
+    "name": "Biombo",
+    "TYPE": "Region",
+    "CNTRY": "Guinea-Bissau"
+  },
+  {
+    "id": "GW-BL",
+    "name": "Bolama",
+    "TYPE": "Region",
+    "CNTRY": "Guinea-Bissau"
+  },
+  {
+    "id": "GW-QU",
+    "name": "Quinara",
+    "TYPE": "Region",
+    "CNTRY": "Guinea-Bissau"
+  },
+  {
+    "id": "GW-BS",
+    "name": "Bissau",
+    "TYPE": "Autonomous Sector",
+    "CNTRY": "Guinea-Bissau"
+  },
+  {
+    "id": "GW-CA",
+    "name": "Cacheu",
+    "TYPE": "Region",
+    "CNTRY": "Guinea-Bissau"
+  },
+  {
+    "id": "GW-OI",
+    "name": "Oio",
+    "TYPE": "Region",
+    "CNTRY": "Guinea-Bissau"
+  },
+  {
+    "id": "GW-BA",
+    "name": "Bafatá",
+    "TYPE": "Region",
+    "CNTRY": "Guinea-Bissau"
+  },
+  {
+    "id": "GW-TO",
+    "name": "Tombali",
+    "TYPE": "Region",
+    "CNTRY": "Guinea-Bissau"
+  },
+  {
+    "id": "GW-GA",
+    "name": "Gabú",
+    "TYPE": "Region",
+    "CNTRY": "Guinea-Bissau"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "MM-18",
+    "name": "Nay Pyi Taw",
+    "TYPE": "Union Territory",
+    "TYPE_EN": "Union Territory",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-16",
+    "name": "Rakhine",
+    "TYPE": "Pyine",
+    "TYPE_EN": "State",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-14",
+    "name": "Chin",
+    "TYPE": "Pyine",
+    "TYPE_EN": "State",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-11",
+    "name": "Kachin",
+    "TYPE": "Pyine",
+    "TYPE_EN": "State",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-01",
+    "name": "Sagaing",
+    "TYPE": "Yin",
+    "TYPE_EN": "Region",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-17",
+    "name": "Shan",
+    "TYPE": "Pyine",
+    "TYPE_EN": "State",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-12",
+    "name": "Kayah",
+    "TYPE": "Pyine",
+    "TYPE_EN": "State",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-13",
+    "name": "Kayin",
+    "TYPE": "Pyine",
+    "TYPE_EN": "State",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-15",
+    "name": "Mon",
+    "TYPE": "Pyine",
+    "TYPE_EN": "State",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-05",
+    "name": "Tanintharyi",
+    "TYPE": "Yin",
+    "TYPE_EN": "Region",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-07",
+    "name": "Ayeyarwady",
+    "TYPE": "Yin",
+    "TYPE_EN": "Region",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-06",
+    "name": "Yangon",
+    "TYPE": "Yin",
+    "TYPE_EN": "Region",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-02",
+    "name": "Bago",
+    "TYPE": "Yin",
+    "TYPE_EN": "Region",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-03",
+    "name": "Magway",
+    "TYPE": "Yin",
+    "TYPE_EN": "Region",
+    "CNTRY": "Myanmar"
+  },
+  {
+    "id": "MM-04",
+    "name": "Mandalay",
+    "TYPE": "Yin",
+    "TYPE_EN": "Region",
+    "CNTRY": "Myanmar"
+  }
+]

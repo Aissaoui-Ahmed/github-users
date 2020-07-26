@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Vichada",
+    "id": "CO-VID",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Vaupés",
+    "id": "CO-VAU",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Valle del Cauca",
+    "id": "CO-VAC",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Tolima",
+    "id": "CO-TOL",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Sucre",
+    "id": "CO-SUC",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "San Andrés, Providencia y Santa Catalina",
+    "id": "CO-SAP",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Santander",
+    "id": "CO-SAN",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Risaralda",
+    "id": "CO-RIS",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Quindio",
+    "id": "CO-QUI",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Putumayo",
+    "id": "CO-PUT",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Norde de Santander",
+    "id": "CO-NSA",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Nariño",
+    "id": "CO-NAR",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Meta",
+    "id": "CO-MET",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Magdalena",
+    "id": "CO-MAG",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "La Guajira",
+    "id": "CO-LAG",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Huila",
+    "id": "CO-HUI",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Guaviare",
+    "id": "CO-GUV",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Guainia",
+    "id": "CO-GUA",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Distrito Capital de Bogotá",
+    "id": "CO-DC",
+    "CNTRY": "Colombia",
+    "TYPE": "Capital District"
+  },
+  {
+    "name": "Cundinamarca",
+    "id": "CO-CUN",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Córdoba",
+    "id": "CO-COR",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Chocó",
+    "id": "CO-CHO",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Cesar",
+    "id": "CO-CES",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Cauca",
+    "id": "CO-CAU",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Casanare",
+    "id": "CO-CAS",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Caquetá",
+    "id": "CO-CAQ",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Caldas",
+    "id": "CO-CAL",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Boyacá",
+    "id": "CO-BOY",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Bolívar",
+    "id": "CO-BOL",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Atlántico",
+    "id": "CO-ATL",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Arauca",
+    "id": "CO-ARA",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Antioquia",
+    "id": "CO-ANT",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Amazonas",
+    "id": "CO-AMA",
+    "CNTRY": "Colombia",
+    "TYPE": "Department"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ajman",
+    "id": "AE-AJ",
+    "CNTRY": "United Arab Emirates",
+    "TYPE": "Emirate"
+  },
+  {
+    "name": "Abu Dhabi",
+    "id": "AE-AZ",
+    "CNTRY": "United Arab Emirates",
+    "TYPE": "Emirate"
+  },
+  {
+    "name": "Dubai",
+    "id": "AE-DU",
+    "CNTRY": "United Arab Emirates",
+    "TYPE": "Emirate"
+  },
+  {
+    "name": "Fujayrah",
+    "id": "AE-FU",
+    "CNTRY": "United Arab Emirates",
+    "TYPE": "Emirate"
+  },
+  {
+    "name": "Ras Al Khaimah",
+    "id": "AE-RK",
+    "CNTRY": "United Arab Emirates",
+    "TYPE": "Emirate"
+  },
+  {
+    "name": "Sharjah",
+    "id": "AE-SH",
+    "CNTRY": "United Arab Emirates",
+    "TYPE": "Emirate"
+  },
+  {
+    "name": "Umm Al Quwain",
+    "id": "AE-UQ",
+    "CNTRY": "United Arab Emirates",
+    "TYPE": "Emirate"
+  },
+  {
+    "name": "Musandam (Omani enclave)",
+    "id": "OM-MU",
+    "CNTRY": "United Arab Emirates",
+    "TYPE": "Emirate"
+  },
+  {
+    "name": "Neutral Zone 1",
+    "id": "AE-NZ1",
+    "CNTRY": "United Arab Emirates",
+    "TYPE": "Emirate"
+  },
+  {
+    "name": "Neutral Zone 2",
+    "id": "AE-NZ2",
+    "CNTRY": "United Arab Emirates",
+    "TYPE": "Emirate"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bulawayo",
+    "id": "ZW-BU",
+    "CNTRY": "Zimbabwe",
+    "TYPE": "City"
+  },
+  {
+    "name": "Harare",
+    "id": "ZW-HA",
+    "CNTRY": "Zimbabwe",
+    "TYPE": "City"
+  },
+  {
+    "name": "Manicaland",
+    "id": "ZW-MA",
+    "CNTRY": "Zimbabwe",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Mashonaland Central",
+    "id": "ZW-MC",
+    "CNTRY": "Zimbabwe",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Mashonaland East",
+    "id": "ZW-ME",
+    "CNTRY": "Zimbabwe",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Midlands",
+    "id": "ZW-MI",
+    "CNTRY": "Zimbabwe",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Matabeleland North",
+    "id": "ZW-MN",
+    "CNTRY": "Zimbabwe",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Matabeleland South",
+    "id": "ZW-MS",
+    "CNTRY": "Zimbabwe",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Masvingo",
+    "id": "ZW-MV",
+    "CNTRY": "Zimbabwe",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Mashonaland West",
+    "id": "ZW-MW",
+    "CNTRY": "Zimbabwe",
+    "TYPE": "Province"
+  }
+]

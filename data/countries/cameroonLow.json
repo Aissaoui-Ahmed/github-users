@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Adamaoua",
+    "id": "CM-AD",
+    "CNTRY": "Cameroon",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Centre",
+    "id": "CM-CE",
+    "CNTRY": "Cameroon",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Far North",
+    "id": "CM-EN",
+    "CNTRY": "Cameroon",
+    "TYPE": "Province"
+  },
+  {
+    "name": "East",
+    "id": "CM-ES",
+    "CNTRY": "Cameroon",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Littoral",
+    "id": "CM-LT",
+    "CNTRY": "Cameroon",
+    "TYPE": "Province"
+  },
+  {
+    "name": "North",
+    "id": "CM-NO",
+    "CNTRY": "Cameroon",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nord-West",
+    "id": "CM-NW",
+    "CNTRY": "Cameroon",
+    "TYPE": "Province"
+  },
+  {
+    "name": "West",
+    "id": "CM-OU",
+    "CNTRY": "Cameroon",
+    "TYPE": "Province"
+  },
+  {
+    "name": "South",
+    "id": "CM-SU",
+    "CNTRY": "Cameroon",
+    "TYPE": "Province"
+  },
+  {
+    "name": "South-West",
+    "id": "CM-SW",
+    "CNTRY": "Cameroon",
+    "TYPE": "Province"
+  }
+]

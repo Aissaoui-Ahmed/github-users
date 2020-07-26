@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Dog Island",
+    "id": "AI-DGI",
+    "CNTRY": "Anguilla",
+    "TYPE": "Island"
+  },
+  {
+    "name": "Seal Island",
+    "id": "AI-SEI",
+    "CNTRY": "Anguilla",
+    "TYPE": "Island"
+  },
+  {
+    "name": "Prickly Pear East",
+    "id": "AI-PPE",
+    "CNTRY": "Anguilla",
+    "TYPE": "Island"
+  },
+  {
+    "name": "Prickly Pear West",
+    "id": "AI-PPW",
+    "CNTRY": "Anguilla",
+    "TYPE": "Island"
+  },
+  {
+    "name": "Sombrero Island",
+    "id": "AI-SOI",
+    "CNTRY": "Anguilla",
+    "TYPE": "Island"
+  },
+  {
+    "name": "Island Harbour",
+    "id": "AI-IH",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "Scrub Island",
+    "id": "AI-SCI",
+    "CNTRY": "Anguilla",
+    "TYPE": "Island"
+  },
+  {
+    "name": "West End",
+    "id": "AI-WE",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "Blowing Point",
+    "id": "AI-BP",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "South Hill",
+    "id": "AI-SO",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "Stoney Ground",
+    "id": "AI-ST",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "North Side",
+    "id": "AI-NS",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "Sandy Ground",
+    "id": "AI-SG",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "North Hill",
+    "id": "AI-NH",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "George Hill",
+    "id": "AI-GH",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "The Valley",
+    "id": "AI-TV",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "The Quarter",
+    "id": "AI-TQ",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "The Farrington",
+    "id": "AI-TF",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "Sandy Hill",
+    "id": "AI-SH",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  },
+  {
+    "name": "East End",
+    "id": "AI-EE",
+    "CNTRY": "Anguilla",
+    "TYPE": "District"
+  }
+]

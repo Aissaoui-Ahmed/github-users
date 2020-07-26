@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Dakhla-Oued Ed-Dahab",
+    "id": "MA-12",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "Laâyoune-Sakia El Hamra",
+    "id": "MA-11",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "Guelmim-Oued Noun",
+    "id": "MA-10",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "Souss-Massa",
+    "id": "MA-09",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "Drâa-Tafilalet",
+    "id": "MA-08",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "Marrakech-Safi",
+    "id": "MA-07",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "Casablanca-Settat",
+    "id": "MA-06",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "Béni-Mellal-Khénifra",
+    "id": "MA-05",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "Rabat-Salé-Kénitra",
+    "id": "MA-04",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "Fès- Meknès",
+    "id": "MA-03",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "L'Oriental",
+    "id": "MA-02",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  },
+  {
+    "name": "Tanger-Tétouan-Al Hoceïma",
+    "id": "MA-01",
+    "TYPE": "Region",
+    "CNTRY": "Morooco"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Western",
+    "id": "AS-WT",
+    "CNTRY": "American Samoa",
+    "TYPE": "District",
+    "TYPE2": "US County Equivalent"
+  },
+  {
+    "name": "Swains Island",
+    "id": "AS-SW",
+    "CNTRY": "American Samoa",
+    "TYPE": "Atoll",
+    "TYPE2": "US County Equivalent"
+  },
+  {
+    "name": "Rose Atoll",
+    "id": "AS-RI",
+    "CNTRY": "American Samoa",
+    "TYPE": "Atoll",
+    "TYPE2": "US County Equivalent"
+  },
+  {
+    "name": "Manu'a",
+    "id": "AS-MA",
+    "CNTRY": "American Samoa",
+    "TYPE": "District",
+    "TYPE2": "US County Equivalent"
+  },
+  {
+    "name": "Eatern",
+    "id": "AS-ET",
+    "CNTRY": "American Samoa",
+    "TYPE": "District",
+    "TYPE2": "US County Equivalent"
+  }
+]

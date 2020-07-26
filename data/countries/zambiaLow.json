@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Western",
+    "id": "ZM-01",
+    "CNTRY": "Zambia",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Central",
+    "id": "ZM-02",
+    "CNTRY": "Zambia",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Eastern",
+    "id": "ZM-03",
+    "CNTRY": "Zambia",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Luapula",
+    "id": "ZM-04",
+    "CNTRY": "Zambia",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Northern",
+    "id": "ZM-05",
+    "CNTRY": "Zambia",
+    "TYPE": "Province"
+  },
+  {
+    "name": "North-Western",
+    "id": "ZM-06",
+    "CNTRY": "Zambia",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Southern",
+    "id": "ZM-07",
+    "CNTRY": "Zambia",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Copperbelt",
+    "id": "ZM-08",
+    "CNTRY": "Zambia",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Lusaka",
+    "id": "ZM-09",
+    "CNTRY": "Zambia",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Muchinga",
+    "id": "ZM-10",
+    "CNTRY": "Zambia",
+    "TYPE": "Province"
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "name": "Lai Châu",
+    "id": "VN-01",
+    "NAME_ENG": "Lai Chau",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Lào Cai",
+    "id": "VN-02",
+    "NAME_ENG": "Lao Cai",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Hà Giang",
+    "id": "VN-03",
+    "NAME_ENG": "Ha Giang",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Cao Bằng",
+    "id": "VN-04",
+    "NAME_ENG": "Cao Bang",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sơn La",
+    "id": "VN-05",
+    "NAME_ENG": "Son La",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Yên Bái",
+    "id": "VN-06",
+    "NAME_ENG": "Yen Bai",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tuyên Quang",
+    "id": "VN-07",
+    "NAME_ENG": "Tuyen Quang",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Lạng Sơn",
+    "id": "VN-09",
+    "NAME_ENG": "Lang Son",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Quảng Ninh",
+    "id": "VN-13",
+    "NAME_ENG": "Quang Ninh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Hòa Bình",
+    "id": "VN-14",
+    "NAME_ENG": "Hoa Binh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Hà Tây",
+    "id": "VN-15",
+    "NAME_ENG": "Ha Tay",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Ninh Bình",
+    "id": "VN-18",
+    "NAME_ENG": "Ninh Binh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Thái Bình",
+    "id": "VN-20",
+    "NAME_ENG": "Thai Binh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Thanh Hóa",
+    "id": "VN-21",
+    "NAME_ENG": "Thanh Hoa",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Nghệ An",
+    "id": "VN-22",
+    "NAME_ENG": "Nghe An",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Hà Tĩnh",
+    "id": "VN-23",
+    "NAME_ENG": "Ha Tinh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Quảng Bình",
+    "id": "VN-24",
+    "NAME_ENG": "Quang Binh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Quảng Trị",
+    "id": "VN-25",
+    "NAME_ENG": "Quang Tri",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Thừa Thiên–Huế",
+    "id": "VN-26",
+    "NAME_ENG": "Thua Thien - Hue",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Quảng Nam",
+    "id": "VN-27",
+    "NAME_ENG": "Quang Nam",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Kon Tum",
+    "id": "VN-28",
+    "NAME_ENG": "Kon Tum",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Quảng Ngãi",
+    "id": "VN-29",
+    "NAME_ENG": "Quang Ngai",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Gia Lai",
+    "id": "VN-30",
+    "NAME_ENG": "Gia Lai",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bình Định",
+    "id": "VN-31",
+    "NAME_ENG": "Binh Dinh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Phú Yên",
+    "id": "VN-32",
+    "NAME_ENG": "Phu Yen",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Đắk Lắk",
+    "id": "VN-33",
+    "NAME_ENG": "Dak Lak|Dac Lac",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Khánh Hòa",
+    "id": "VN-34",
+    "NAME_ENG": "Khanh Hoa",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Lâm Đồng",
+    "id": "VN-35",
+    "NAME_ENG": "Lam Dong",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Ninh Thuận",
+    "id": "VN-36",
+    "NAME_ENG": "Ninh Thuan",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tây Ninh",
+    "id": "VN-37",
+    "NAME_ENG": "Tay Ninh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Đồng Nai",
+    "id": "VN-39",
+    "NAME_ENG": "Dong Nai",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bình Thuận",
+    "id": "VN-40",
+    "NAME_ENG": "Binh Thuan",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Long An",
+    "id": "VN-41",
+    "NAME_ENG": "Long An",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bà Rịa–Vũng Tàu",
+    "id": "VN-43",
+    "NAME_ENG": "Ba Ria-Vung Tau",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "An Giang",
+    "id": "VN-44",
+    "NAME_ENG": "An Giang",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Đồng Tháp",
+    "id": "VN-45",
+    "NAME_ENG": "Dong Thap",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tiền Giang",
+    "id": "VN-46",
+    "NAME_ENG": "Tien Giang",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Kiên Giang",
+    "id": "VN-47",
+    "NAME_ENG": "Kien Giang",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Vĩnh Long",
+    "id": "VN-49",
+    "NAME_ENG": "Vinh Long",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bến Tre",
+    "id": "VN-50",
+    "NAME_ENG": "Ben Tre",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Trà Vinh",
+    "id": "VN-51",
+    "NAME_ENG": "Tra Vinh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sóc Trăng",
+    "id": "VN-52",
+    "NAME_ENG": "Soc Trang",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bắc Kạn",
+    "id": "VN-53",
+    "NAME_ENG": "Bac Kan",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bắc Giang",
+    "id": "VN-54",
+    "NAME_ENG": "Bac Giang",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bạc Liêu",
+    "id": "VN-55",
+    "NAME_ENG": "Bac Lieu",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bắc Ninh",
+    "id": "VN-56",
+    "NAME_ENG": "Bac Ninh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bình Dương",
+    "id": "VN-57",
+    "NAME_ENG": "Binh Duong",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bình Phước",
+    "id": "VN-58",
+    "NAME_ENG": "Binh Phuoc",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Cà Mau",
+    "id": "VN-59",
+    "NAME_ENG": "Ca Mau",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Hải Dương",
+    "id": "VN-61",
+    "NAME_ENG": "Hai Duong",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Hà Nam",
+    "id": "VN-63",
+    "NAME_ENG": "Ha Nam",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Hưng Yên",
+    "id": "VN-66",
+    "NAME_ENG": "Hung Yen",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Nam Định",
+    "id": "VN-67",
+    "NAME_ENG": "Nam Dinh",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Phú Thọ",
+    "id": "VN-68",
+    "NAME_ENG": "Phu Tho",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Thái Nguyên",
+    "id": "VN-69",
+    "NAME_ENG": "Thai Nguyen",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Vĩnh Phúc",
+    "id": "VN-70",
+    "NAME_ENG": "Vinh Phuc",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Điện Biên",
+    "id": "VN-71",
+    "NAME_ENG": "Dien Bien",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Đắk Nông",
+    "id": "VN-72",
+    "NAME_ENG": "Dac Nong",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Hậu Giang",
+    "id": "VN-73",
+    "NAME_ENG": "Hau Giang",
+    "CNTRY": "Vietnam",
+    "TYPE": "Tỉnh",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Cần Thơ",
+    "id": "VN-CT",
+    "NAME_ENG": "Can Tho",
+    "CNTRY": "Vietnam",
+    "TYPE": "thành phố trực thuộc trung ương",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Đà Nẵng",
+    "id": "VN-DN",
+    "NAME_ENG": "Da Nang",
+    "CNTRY": "Vietnam",
+    "TYPE": "thành phố trực thuộc trung ương",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Hà Nội",
+    "id": "VN-HN",
+    "NAME_ENG": "Hanoi",
+    "CNTRY": "Vietnam",
+    "TYPE": "thành phố trực thuộc trung ương",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Hải Phòng",
+    "id": "VN-HP",
+    "NAME_ENG": "Haiphong",
+    "CNTRY": "Vietnam",
+    "TYPE": "thành phố trực thuộc trung ương",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Hồ Chí Minh",
+    "id": "VN-SG",
+    "NAME_ENG": "Ho Chi Minh",
+    "CNTRY": "Vietnam",
+    "TYPE": "thành phố trực thuộc trung ương",
+    "TYPE_ENG": "Municipality"
+  }
+]

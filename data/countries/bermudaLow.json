@@ -1,0 +1,68 @@
+[
+  {
+    "name": "St. George's Town",
+    "id": "BM-SG",
+    "CNTRY": "Bermuda",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Smiths",
+    "id": "BM-SM",
+    "CNTRY": "Bermuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Devonshire",
+    "id": "BM-DE",
+    "CNTRY": "Bermuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Hamilton",
+    "id": "BM-HC",
+    "CNTRY": "Bermuda",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "St. George's",
+    "id": "BM-SC",
+    "CNTRY": "Bermuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Hamilton",
+    "id": "BM-HA",
+    "CNTRY": "Bermuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Pembroke",
+    "id": "BM-PE",
+    "CNTRY": "Bermuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Paget",
+    "id": "BM-PA",
+    "CNTRY": "Bermuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Warwick",
+    "id": "BM-WA",
+    "CNTRY": "Bermuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Southampton",
+    "id": "BM-SO",
+    "CNTRY": "Bermuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Sandys",
+    "id": "BM-SA",
+    "CNTRY": "Bermuda",
+    "TYPE": "Parish"
+  }
+]

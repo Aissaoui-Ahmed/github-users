@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Alberta",
+    "id": "CA-AB",
+    "CNTRY": "Canada",
+    "TYPE": "Province"
+  },
+  {
+    "name": "British Columbia",
+    "id": "CA-BC",
+    "CNTRY": "Canada",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Manitoba",
+    "id": "CA-MB",
+    "CNTRY": "Canada",
+    "TYPE": "Province"
+  },
+  {
+    "name": "New Brunswick",
+    "id": "CA-NB",
+    "CNTRY": "Canada",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Newfoundland and Labrador",
+    "id": "CA-NL",
+    "CNTRY": "Canada",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nova Scotia",
+    "id": "CA-NS",
+    "CNTRY": "Canada",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Northwest Territories",
+    "id": "CA-NT",
+    "CNTRY": "Canada",
+    "TYPE": "Territory"
+  },
+  {
+    "name": "Nunavut",
+    "id": "CA-NU",
+    "CNTRY": "Canada",
+    "TYPE": "Territory"
+  },
+  {
+    "name": "Ontario",
+    "id": "CA-ON",
+    "CNTRY": "Canada",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Prince Edward Island",
+    "id": "CA-PE",
+    "CNTRY": "Canada",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Quebec",
+    "id": "CA-QC",
+    "CNTRY": "Canada",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Saskatchewan",
+    "id": "CA-SK",
+    "CNTRY": "Canada",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Yukon",
+    "id": "CA-YT",
+    "CNTRY": "Canada",
+    "TYPE": "Territory"
+  }
+]

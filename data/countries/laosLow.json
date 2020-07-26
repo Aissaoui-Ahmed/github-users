@@ -1,0 +1,121 @@
+[
+  {
+    "id": "LA-AT",
+    "name": "Attapu",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-XE",
+    "name": "Xékong",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-XI",
+    "name": "Xiangkhoang",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-HO",
+    "name": "Houaphan",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-LP",
+    "name": "Louangphrabang",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-CH",
+    "name": "Champasak",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-VI",
+    "name": "Viangchan",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-VT",
+    "name": "Viangchan",
+    "TYPE": "Kampeng Nakhon",
+    "TYPE_EN": "Prefecture",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-SL",
+    "name": "Salavan",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-SV",
+    "name": "Savannakhét",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-KH",
+    "name": "Khammouan",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-BL",
+    "name": "Bolikhamxai",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-XA",
+    "name": "Xaignabouli",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-BK",
+    "name": "Bokèo",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-LM",
+    "name": "Louang Namtha",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-OU",
+    "name": "Oudômxai",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  },
+  {
+    "id": "LA-PH",
+    "name": "Phôngsali",
+    "TYPE": "Khoueng",
+    "TYPE_EN": "Province",
+    "CNTRY": "Laos"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Israel",
+    "id": "IL",
+    "NAME_ENG": "Israel",
+    "TYPE": "Nation",
+    "CNTRY": "Israel"
+  },
+  {
+    "name": "Rafaḩ",
+    "id": "PS-RFH",
+    "NAME_ENG": "Rafah",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Khān Yūnis",
+    "id": "PS-KYS",
+    "NAME_ENG": "Khan Yunis",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Dayr al Balaḩ",
+    "id": "PS-DEB",
+    "NAME_ENG": "Deir Al-Balah",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Ghazzah",
+    "id": "PS-GZA",
+    "NAME_ENG": "Gaza",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Shamāl Ghazzah",
+    "id": "PS-NGZ",
+    "NAME_ENG": "North Gaza",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Al Khalīl",
+    "id": "PS-HBN",
+    "NAME_ENG": "Hebron",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Bayt Laḩm",
+    "id": "PS-BTH",
+    "NAME_ENG": "Bethlehem",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Al Quds",
+    "id": "PS-JEM",
+    "NAME_ENG": "Jerusalem",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Ramallah",
+    "id": "PS-RBH",
+    "NAME_ENG": "Rām Allāh wal Bīrah",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Salfīt",
+    "id": "PS-SLT",
+    "NAME_ENG": "Salfit",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Qalqīlyah",
+    "id": "PS-QQA",
+    "NAME_ENG": "Qalqilya",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Nāblus",
+    "id": "PS-NBS",
+    "NAME_ENG": "Nablus",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Ţūbās",
+    "id": "PS-TBS",
+    "NAME_ENG": "Tubas",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Ţūlkarm",
+    "id": "PS-TKM",
+    "NAME_ENG": "Tulkarm",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Janīn",
+    "id": "PS-JEN",
+    "NAME_ENG": "Jenin",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  },
+  {
+    "name": "Arīḩā wal Aghwār",
+    "id": "PS-JRH",
+    "NAME_ENG": "Jericho and Al Aghwar",
+    "TYPE": "Governorate",
+    "CNTRY": "State of Palestine"
+  }
+]

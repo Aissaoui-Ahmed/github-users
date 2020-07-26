@@ -1,0 +1,86 @@
+[
+  {
+    "name": "East Macedonia and Thrace",
+    "id": "GR-A",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Central Macedonia",
+    "id": "GR-B",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "West Macedonia",
+    "id": "GR-C",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Epirus",
+    "id": "GR-D",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Thessaly",
+    "id": "GR-E",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ionian Islands",
+    "id": "GR-F",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Western Greece",
+    "id": "GR-G",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Central Greece",
+    "id": "GR-H",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Attica",
+    "id": "GR-I",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Peloponnese",
+    "id": "GR-J",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Northern Aegean",
+    "id": "GR-K",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Southern Aegean",
+    "id": "GR-L",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Crete",
+    "id": "GR-M",
+    "CNTRY": "Greece",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Mount Athos",
+    "id": "GR-69",
+    "CNTRY": "Greece",
+    "TYPE": "Autonomous State"
+  }
+]

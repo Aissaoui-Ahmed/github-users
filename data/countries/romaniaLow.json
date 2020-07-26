@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Alba",
+    "id": "RO-AB",
+    "NAME_ENG": "Alba",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Argeş",
+    "id": "RO-AG",
+    "NAME_ENG": "Arges",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Arad",
+    "id": "RO-AR",
+    "NAME_ENG": "Arad",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Bacău",
+    "id": "RO-BC",
+    "NAME_ENG": "Bacau",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Bihor",
+    "id": "RO-BH",
+    "NAME_ENG": "Bihor",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Bistriţa-Năsăud",
+    "id": "RO-BN",
+    "NAME_ENG": "Bistrita-Nasaud",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Brăila",
+    "id": "RO-BR",
+    "NAME_ENG": "Braila",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Botoşani",
+    "id": "RO-BT",
+    "NAME_ENG": "Botosani",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "București",
+    "id": "RO-B",
+    "NAME_ENG": "Bucharest",
+    "CNTRY": "Romania",
+    "TYPE": "Municipality",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Braşov",
+    "id": "RO-BV",
+    "NAME_ENG": "Brasov",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Buzău",
+    "id": "RO-BZ",
+    "NAME_ENG": "Buzau",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Cluj",
+    "id": "RO-CJ",
+    "NAME_ENG": "Cluj",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Călăraşi",
+    "id": "RO-CL",
+    "NAME_ENG": "Calarasi",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Caraş-Severin",
+    "id": "RO-CS",
+    "NAME_ENG": "Caras-Severin",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Constanţa",
+    "id": "RO-CT",
+    "NAME_ENG": "Constanta",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Covasna",
+    "id": "RO-CV",
+    "NAME_ENG": "Covasna",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Dâmboviţa",
+    "id": "RO-DB",
+    "NAME_ENG": "Dîmbovita",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Dolj",
+    "id": "RO-DJ",
+    "NAME_ENG": "Dolj",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Gorj",
+    "id": "RO-GJ",
+    "NAME_ENG": "Gorj",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Galaţi",
+    "id": "RO-GL",
+    "NAME_ENG": "Galati",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Giurgiu",
+    "id": "RO-GR",
+    "NAME_ENG": "Giurgiu",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Hunedoara",
+    "id": "RO-HD",
+    "NAME_ENG": "Hunedoara",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Harghita",
+    "id": "RO-HR",
+    "NAME_ENG": "Harghita",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Ilfov",
+    "id": "RO-IF",
+    "NAME_ENG": "",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Ialomiţa",
+    "id": "RO-IL",
+    "NAME_ENG": "Ialomita",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Iaşi",
+    "id": "RO-IS",
+    "NAME_ENG": "Iasi",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Mehedinţi",
+    "id": "RO-MH",
+    "NAME_ENG": "Mehedinti",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Maramureş",
+    "id": "RO-MM",
+    "NAME_ENG": "Maramures",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Mureş",
+    "id": "RO-MS",
+    "NAME_ENG": "Mures",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Neamţ",
+    "id": "RO-NT",
+    "NAME_ENG": "Neamt",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Olt",
+    "id": "RO-OT",
+    "NAME_ENG": "Olt",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Prahova",
+    "id": "RO-PH",
+    "NAME_ENG": "Prahova",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Sibiu",
+    "id": "RO-SB",
+    "NAME_ENG": "Sibiu",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Sălaj",
+    "id": "RO-SJ",
+    "NAME_ENG": "Sàlaj",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Satu Mare",
+    "id": "RO-SM",
+    "NAME_ENG": "Satu Mare",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Suceava",
+    "id": "RO-SV",
+    "NAME_ENG": "Suceava",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Tulcea",
+    "id": "RO-TL",
+    "NAME_ENG": "Tulcea",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Timiş",
+    "id": "RO-TM",
+    "NAME_ENG": "Timis",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Teleorman",
+    "id": "RO-TR",
+    "NAME_ENG": "Teleorman",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Vâlcea",
+    "id": "RO-VL",
+    "NAME_ENG": "Vîlcea",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Vrancea",
+    "id": "RO-VN",
+    "NAME_ENG": "Vrancea",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Vaslui",
+    "id": "RO-VS",
+    "NAME_ENG": "Vaslui",
+    "CNTRY": "Romania",
+    "TYPE": "Judet",
+    "TYPE_ENG": "County"
+  }
+]

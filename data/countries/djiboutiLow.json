@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Arta",
+    "id": "DJ-AR",
+    "CNTRY": "Djibouti",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ali Sabieh",
+    "id": "DJ-AS",
+    "CNTRY": "Djibouti",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Dikhil",
+    "id": "DJ-DI",
+    "CNTRY": "Djibouti",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Djibouti",
+    "id": "DJ-DJ",
+    "CNTRY": "Djibouti",
+    "TYPE": "City"
+  },
+  {
+    "name": "Obock",
+    "id": "DJ-OB",
+    "CNTRY": "Djibouti",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Tadjourah",
+    "id": "DJ-TA",
+    "CNTRY": "Djibouti",
+    "TYPE": "Region"
+  }
+]

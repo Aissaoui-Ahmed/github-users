@@ -1,0 +1,44 @@
+[
+  {
+    "id": "TM-S",
+    "name": "Aşgabat",
+    "TYPE": "Velayat",
+    "TYPE_ENG": "City",
+    "CNTRY": "Turkmenistan"
+  },
+  {
+    "id": "TM-B",
+    "name": "Balkan",
+    "TYPE": "Welayat",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Turkmenistan"
+  },
+  {
+    "id": "TM-D",
+    "name": "Daşoguz",
+    "TYPE": "Welayat",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Turkmenistan"
+  },
+  {
+    "id": "TM-A",
+    "name": "Ahal",
+    "TYPE": "Welayat",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Turkmenistan"
+  },
+  {
+    "id": "TM-M",
+    "name": "Mary",
+    "TYPE": "Welayat",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Turkmenistan"
+  },
+  {
+    "id": "TM-L",
+    "name": "Lebap",
+    "TYPE": "Welayat",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Turkmenistan"
+  }
+]

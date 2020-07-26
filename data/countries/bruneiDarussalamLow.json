@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Belait",
+    "id": "BN-BE",
+    "CNTRY": "Brunei Darussalam",
+    "TYPE": "District"
+  },
+  {
+    "name": "Brunei-Mua",
+    "id": "BN-BM",
+    "CNTRY": "Brunei Darussalam",
+    "TYPE": "District"
+  },
+  {
+    "name": "Temburong",
+    "id": "BN-TE",
+    "CNTRY": "Brunei Darussalam",
+    "TYPE": "District"
+  },
+  {
+    "name": "Tutong",
+    "id": "BN-TU",
+    "CNTRY": "Brunei Darussalam",
+    "TYPE": "District"
+  }
+]

@@ -1,0 +1,428 @@
+[
+  {
+    "id": "MK-72",
+    "name": "Struga",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-78",
+    "name": "Centar Župa",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-21",
+    "name": "Debar",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-50",
+    "name": "Mavrovo i Rostuša",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-19",
+    "name": "Gostivar",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-12",
+    "name": "Vevčani",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-58",
+    "name": "Ohrid",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-22",
+    "name": "Debarca",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-66",
+    "name": "Resen",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-56",
+    "name": "Novo Selo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-26",
+    "name": "Dojran",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-10",
+    "name": "Valandovo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-73",
+    "name": "Strumica",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-05",
+    "name": "Bogdanci",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-18",
+    "name": "Gevgelija",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-36",
+    "name": "Kavadarci",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-55",
+    "name": "Novaci",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-62",
+    "name": "Prilep",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-04",
+    "name": "Bitola",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-48",
+    "name": "Lipkovo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-82",
+    "name": "Čučer Sandevo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-35",
+    "name": "Jegunovce",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-75",
+    "name": "Tearce",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-76",
+    "name": "Tetovo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-06",
+    "name": "Bogovinje",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-16",
+    "name": "Vrapčište",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-44",
+    "name": "Kriva Palanka",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-65",
+    "name": "Rankovce",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-71",
+    "name": "Staro Nagoričane",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-47",
+    "name": "Kumanovo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-23",
+    "name": "Delčevo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-51",
+    "name": "Makedonska Kamenica",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-03",
+    "name": "Berovo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-60",
+    "name": "Pehčevo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-30",
+    "name": "Želino",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-08",
+    "name": "Brvenica",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-52",
+    "name": "Makedonski Brod",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-70",
+    "name": "Sopište",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-85",
+    "name": "Skopje",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-27",
+    "name": "Dolneni",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-45",
+    "name": "Krivogaštani",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-53",
+    "name": "Mogila",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-80",
+    "name": "Čaška",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-67",
+    "name": "Rosoman",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-54",
+    "name": "Negotino",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-46",
+    "name": "Kruševo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-25",
+    "name": "Demir Hisar",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-74",
+    "name": "Studeničani",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-63",
+    "name": "Probištip",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-81",
+    "name": "Češinovo-Obleševo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-02",
+    "name": "Aračinovo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-32",
+    "name": "Zelenikovo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-40",
+    "name": "Kičevo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-61",
+    "name": "Plasnica",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-59",
+    "name": "Petrovec",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-49",
+    "name": "Lozovo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-69",
+    "name": "Sveti Nikole",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-20",
+    "name": "Gradsko",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-43",
+    "name": "Kratovo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-34",
+    "name": "Ilinden",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-37",
+    "name": "Karbinci",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-83",
+    "name": "Štip",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-42",
+    "name": "Kočani",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-33",
+    "name": "Zrnovci",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-13",
+    "name": "Veles",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-24",
+    "name": "Demir Kapija",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-14",
+    "name": "Vinica",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-07",
+    "name": "Bosilovo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-64",
+    "name": "Radoviš",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-11",
+    "name": "Vasilevo",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  },
+  {
+    "id": "MK-41",
+    "name": "Konče",
+    "TYPE": "Municipality",
+    "CNTRY": "North Macedonia"
+  }
+]

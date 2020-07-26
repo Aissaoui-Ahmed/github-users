@@ -1,0 +1,1486 @@
+[
+  {
+    "name": "Metlika",
+    "id": "SI-073",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ajdovščina",
+    "id": "SI-001",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ankaran",
+    "id": "SI-213",
+    "REGION": "Obalno-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Apače",
+    "id": "SI-195",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Beltinci",
+    "id": "SI-002",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Benedikt",
+    "id": "SI-148",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Bistrica ob Sotli",
+    "id": "SI-149",
+    "REGION": "Posavska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Bled",
+    "id": "SI-003",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Bloke",
+    "id": "SI-150",
+    "REGION": "Notranjsko-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Bohinj",
+    "id": "SI-004",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Borovnica",
+    "id": "SI-005",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Bovec",
+    "id": "SI-006",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Braslovče",
+    "id": "SI-151",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Brda",
+    "id": "SI-007",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Brezovica",
+    "id": "SI-008",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Brežice",
+    "id": "SI-009",
+    "REGION": "Posavska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cankova",
+    "id": "SI-152",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Celje",
+    "id": "SI-011",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Cerklje na Gorenjskem",
+    "id": "SI-012",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cerknica",
+    "id": "SI-013",
+    "REGION": "Notranjsko-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cerkno",
+    "id": "SI-014",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cerkvenjak",
+    "id": "SI-152",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cirkulane",
+    "id": "SI-196",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Destrnik",
+    "id": "SI-018",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Divača",
+    "id": "SI-019",
+    "REGION": "Obalno-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dobje",
+    "id": "SI-154",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dobrepolje",
+    "id": "SI-020",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dobrna",
+    "id": "SI-155",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dobrova-Polhov Gradec",
+    "id": "SI-021",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dobrovnik",
+    "id": "SI-156",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dol pri Ljubljani",
+    "id": "SI-022",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dolenjske Toplice",
+    "id": "SI-157",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Domžale",
+    "id": "SI-023",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dornava",
+    "id": "SI-024",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dravograd",
+    "id": "SI-025",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Duplek",
+    "id": "SI-026",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Gorenja vas-Poljane",
+    "id": "SI-027",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Gori?nica",
+    "id": "SI-028",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Gorje",
+    "id": "SI-207",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Gornja Radgona",
+    "id": "SI-029",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Gornji Grad",
+    "id": "SI-030",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Gornji Petrovci",
+    "id": "SI-031",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Grad",
+    "id": "SI-158",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Grosuplje",
+    "id": "SI-032",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Hajdina",
+    "id": "SI-159",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Hodoš",
+    "id": "SI-161",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Horjul",
+    "id": "SI-162",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Hoče–Slivnica",
+    "id": "SI-160",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Hrastnik",
+    "id": "SI-034",
+    "REGION": "Zasavska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Hrpelje-Kozina",
+    "id": "SI-035",
+    "REGION": "Obalno-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Idrija",
+    "id": "SI-036",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ig",
+    "id": "SI-037",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ilirska Bistrica",
+    "id": "SI-038",
+    "REGION": "Notranjsko-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ivančna Gorica",
+    "id": "SI-039",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Izola",
+    "id": "SI-040",
+    "REGION": "Obalno-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Jesenice",
+    "id": "SI-041",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Jezersko",
+    "id": "SI-163",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Juršinci",
+    "id": "SI-042",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kamnik",
+    "id": "SI-043",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kanal",
+    "id": "SI-044",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kidričevo",
+    "id": "SI-045",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kobarid",
+    "id": "SI-046",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kobilje",
+    "id": "SI-047",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Komen",
+    "id": "SI-049",
+    "REGION": "Obalno-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Komenda",
+    "id": "SI-164",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Koper",
+    "id": "SI-050",
+    "REGION": "Obalno-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Kostanjevica na Krki",
+    "id": "SI-197",
+    "REGION": "Posavska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kostel",
+    "id": "SI-165",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kozje",
+    "id": "SI-051",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kočevje",
+    "id": "SI-048",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kranj",
+    "id": "SI-052",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Kranjska Gora",
+    "id": "SI-053",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Križevci",
+    "id": "SI-166",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Krško",
+    "id": "SI-054",
+    "REGION": "Posavska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kungota",
+    "id": "SI-055",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kuzma",
+    "id": "SI-056",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Laško",
+    "id": "SI-057",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Lenart",
+    "id": "SI-058",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Lendava",
+    "id": "SI-059",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Litija",
+    "id": "SI-060",
+    "REGION": "Zasavska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ljubljana",
+    "id": "SI-061",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Ljubno",
+    "id": "SI-062",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ljutomer",
+    "id": "SI-063",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Log-Dragomer",
+    "id": "SI-208",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Logatec",
+    "id": "SI-064",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Lovrenc na Pohorju",
+    "id": "SI-167",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Loška Dolina",
+    "id": "SI-065",
+    "REGION": "Notranjsko-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Loški Potok",
+    "id": "SI-066",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Lukovica",
+    "id": "SI-068",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Luče",
+    "id": "SI-067",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Majšperk",
+    "id": "SI-069",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Makole",
+    "id": "SI-198",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Maribor",
+    "id": "SI-070",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Markovci",
+    "id": "SI-168",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Medvode",
+    "id": "SI-071",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mengeš",
+    "id": "SI-072",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mežica",
+    "id": "SI-074",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Miklavž na Dravskem Polju",
+    "id": "SI-169",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Miren-Kostanjevica",
+    "id": "SI-075",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mirna",
+    "id": "SI-212",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mirna Peč",
+    "id": "SI-170",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mislinja",
+    "id": "SI-076",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mokronog-Trebelno",
+    "id": "SI-199",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Moravske Toplice",
+    "id": "SI-078",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Moravče",
+    "id": "SI-077",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mozirje",
+    "id": "SI-079",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Murska Sobota",
+    "id": "SI-080",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Muta",
+    "id": "SI-081",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Naklo",
+    "id": "SI-082",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Nazarje",
+    "id": "SI-083",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Nova Gorica",
+    "id": "SI-084",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Novo Mesto",
+    "id": "SI-085",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Odranci",
+    "id": "SI-086",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Oplotnica",
+    "id": "SI-171",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ormož",
+    "id": "SI-087",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Osilnica",
+    "id": "SI-088",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Pesnica",
+    "id": "SI-089",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Piran",
+    "id": "SI-090",
+    "REGION": "Obalno-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Pivka",
+    "id": "SI-091",
+    "REGION": "Notranjsko-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Podlehnik",
+    "id": "SI-172",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Podvelka",
+    "id": "SI-093",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Podčetrtek",
+    "id": "SI-092",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Poljčane",
+    "id": "SI-200",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Polzela",
+    "id": "SI-173",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Postojna",
+    "id": "SI-094",
+    "REGION": "Notranjsko-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Prebold",
+    "id": "SI-174",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Preddvor",
+    "id": "SI-095",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Prevalje",
+    "id": "SI-175",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ptuj",
+    "id": "SI-096",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Puconci",
+    "id": "SI-097",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Radenci",
+    "id": "SI-100",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Radeče",
+    "id": "SI-099",
+    "REGION": "Posavska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Radlje ob Dravi",
+    "id": "SI-100",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Radovljica",
+    "id": "SI-102",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ravne na Koroškem",
+    "id": "SI-103",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Razkrižje",
+    "id": "SI-176",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rače–Fram",
+    "id": "SI-098",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Renče–Vogrsko",
+    "id": "SI-201",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rečica ob Savinji",
+    "id": "SI-209",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ribnica",
+    "id": "SI-104",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ribnica na Pohorju",
+    "id": "SI-177",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rogatec",
+    "id": "SI-107",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rogaška Slatina",
+    "id": "SI-106",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rogašovci",
+    "id": "SI-105",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ruše",
+    "id": "SI-108",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Selnica ob Dravi",
+    "id": "SI-178",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Semič",
+    "id": "SI-109",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sevnica",
+    "id": "SI-110",
+    "REGION": "Posavska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sežana",
+    "id": "SI-111",
+    "REGION": "Obalno-kraška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Slovenj Gradec",
+    "id": "SI-112",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Slovenska Bistrica",
+    "id": "SI-113",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Slovenske Konjice",
+    "id": "SI-114",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sodražica",
+    "id": "SI-179",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Solčava",
+    "id": "SI-180",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Središče ob Dravi",
+    "id": "SI-202",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Starše",
+    "id": "SI-115",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Straža",
+    "id": "SI-203",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sveta Trojica v Slovenskih Goricah",
+    "id": "SI-204",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sveta Ana",
+    "id": "SI-181",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sveti Andraž v Slovenskih Goricah",
+    "id": "SI-182",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sveti Jurij ob Ščavnici",
+    "id": "SI-116",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sveti Jurij v Slovenskih Goricah",
+    "id": "SI-210",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sveti Tomaž",
+    "id": "SI-205",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Tabor",
+    "id": "SI-184",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Tišina",
+    "id": "SI-010",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Tolmin",
+    "id": "SI-128",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Trbovlje",
+    "id": "SI-129",
+    "REGION": "Zasavska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Trebnje",
+    "id": "SI-130",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Trnovska Vas",
+    "id": "SI-185",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Trzin",
+    "id": "SI-186",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Tržič",
+    "id": "SI-131",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Turnišče",
+    "id": "SI-132",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Velenje",
+    "id": "SI-133",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "City Municipality"
+  },
+  {
+    "name": "Velika Polana",
+    "id": "SI-187",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Velike Lašče",
+    "id": "SI-134",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Veržej",
+    "id": "SI-188",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Videm",
+    "id": "SI-135",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vipava",
+    "id": "SI-136",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vitanje",
+    "id": "SI-137",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vodice",
+    "id": "SI-138",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vojnik",
+    "id": "SI-139",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vransko",
+    "id": "SI-189",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vrhnika",
+    "id": "SI-140",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vuzenica",
+    "id": "SI-141",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Zagorje ob Savi",
+    "id": "SI-142",
+    "REGION": "Zasavska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Zavrč",
+    "id": "SI-143",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Zreče",
+    "id": "SI-144",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Črenšovci",
+    "id": "SI-015",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Črna na Koroškem",
+    "id": "SI-016",
+    "REGION": "Koroška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Črnomelj",
+    "id": "SI-017",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šalovci",
+    "id": "SI-033",
+    "REGION": "Pomurska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šempeter-Vrtojba",
+    "id": "SI-183",
+    "REGION": "Goriška",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šentilj",
+    "id": "SI-118",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šentjernej",
+    "id": "SI-119",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šentjur",
+    "id": "SI-120",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šentrupert",
+    "id": "SI-211",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šenčur",
+    "id": "SI-117",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Škocjan",
+    "id": "SI-121",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Škofja Loka",
+    "id": "SI-122",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Škofljica",
+    "id": "SI-123",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šmarje pri Jelšah",
+    "id": "SI-124",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šmarješke Toplice",
+    "id": "SI-206",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šmartno ob Paki",
+    "id": "SI-125",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šmartno pri Litiji",
+    "id": "SI-194",
+    "REGION": "Osrednjeslovenska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Šoštanj",
+    "id": "SI-126",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Štore",
+    "id": "SI-127",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Žalec",
+    "id": "SI-190",
+    "REGION": "Savinjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Železniki",
+    "id": "SI-146",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Žetale",
+    "id": "SI-191",
+    "REGION": "Podravska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Žiri",
+    "id": "SI-147",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Žirovnica",
+    "id": "SI-192",
+    "REGION": "Gorenjska",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Žužemberk",
+    "id": "SI-193",
+    "REGION": "Jugovzhodna Slovenija",
+    "CNTRY": "Slovenia",
+    "TYPE": "Municipality"
+  }
+]

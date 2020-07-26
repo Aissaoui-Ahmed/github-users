@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Västerbotten",
+    "id": "SE-AC",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Stockholm",
+    "id": "SE-AB",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Norrbotten",
+    "id": "SE-BD",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Uppsala",
+    "id": "SE-C",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Södermanland",
+    "id": "SE-D",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Östergötland",
+    "id": "SE-E",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Jönköping",
+    "id": "SE-F",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Kronoberg",
+    "id": "SE-G",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Kalmar",
+    "id": "SE-H",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Gotland",
+    "id": "SE-I",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Blekinge",
+    "id": "SE-K",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Skåne",
+    "id": "SE-M",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Halland",
+    "id": "SE-N",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Västra Götaland",
+    "id": "SE-O",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Värmland",
+    "id": "SE-S",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Örebro",
+    "id": "SE-T",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Västmanland",
+    "id": "SE-U",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Dalarna",
+    "id": "SE-W",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Gävleborg",
+    "id": "SE-X",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Västernorrland",
+    "id": "SE-Y",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  },
+  {
+    "name": "Jämtland",
+    "id": "SE-Z",
+    "CNTRY": "Sweden",
+    "TYPE": "län",
+    "TYPE_ENG": "County"
+  }
+]

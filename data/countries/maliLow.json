@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ménaka",
+    "id": "ML-9",
+    "CNTRY": "Mali",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Kidal",
+    "id": "ML-8",
+    "CNTRY": "Mali",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Gao",
+    "id": "ML-7",
+    "CNTRY": "Mali",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Tombouctou",
+    "id": "ML-6",
+    "CNTRY": "Mali",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Mopti",
+    "id": "ML-5",
+    "CNTRY": "Mali",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ségou",
+    "id": "ML-4",
+    "CNTRY": "Mali",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Sikasso",
+    "id": "ML-3",
+    "CNTRY": "Mali",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Koulikoro",
+    "id": "ML-2",
+    "CNTRY": "Mali",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Kayes",
+    "id": "ML-1",
+    "CNTRY": "Mali",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Bamako",
+    "id": "ML-BKO",
+    "CNTRY": "Mali",
+    "TYPE": "District"
+  }
+]

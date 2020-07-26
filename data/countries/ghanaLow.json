@@ -1,0 +1,98 @@
+[
+  {
+    "id": "GH-NE",
+    "name": "North East",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-NP",
+    "name": "Northern",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-UE",
+    "name": "Upper East",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-UW",
+    "name": "Upper West",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-OT",
+    "name": "Oti",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-BE",
+    "name": "Bono East",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-AH",
+    "name": "Ashanti",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-BO",
+    "name": "Bono",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-AF",
+    "name": "Ahafo",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-EP",
+    "name": "Eastern",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-TV",
+    "name": "Volta",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-CP",
+    "name": "Central",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-WN",
+    "name": "Western North",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-AA",
+    "name": "Greater Accra",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-WP",
+    "name": "Western",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  },
+  {
+    "id": "GH-SV",
+    "name": "Savannah",
+    "TYPE": "Region",
+    "CNTRY": "Ghana"
+  }
+]

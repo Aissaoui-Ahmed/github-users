@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Paro",
+    "id": "BT-11",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Chhukha",
+    "id": "BT-12",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Haa",
+    "id": "BT-13",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Samtse",
+    "id": "BT-14",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Thimphu",
+    "id": "BT-15",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Tsirang",
+    "id": "BT-21",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Dagana",
+    "id": "BT-22",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Punakha",
+    "id": "BT-23",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Wangdue Phodrang",
+    "id": "BT-24",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Sarpang",
+    "id": "BT-31",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Trongsa",
+    "id": "BT-32",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Bumthang",
+    "id": "BT-33",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Zhemgang",
+    "id": "BT-34",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Trashigang",
+    "id": "BT-41",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Monggar",
+    "id": "BT-42",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Pemagatshel",
+    "id": "BT-43",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Lhuentse",
+    "id": "BT-44",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Samdrup Jongkhar",
+    "id": "BT-45",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Gasa",
+    "id": "BT-GA",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  },
+  {
+    "name": "Trashi Yangtse",
+    "id": "BT-TY",
+    "TYPE": "District",
+    "CNTRY": "Bhutan"
+  }
+]

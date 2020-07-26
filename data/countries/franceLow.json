@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Provence-Alpes-Côte d'Azur",
+    "id": "FR-PAC",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Pays de la Loire",
+    "id": "FR-PDL",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Occitanie",
+    "id": "FR-OCC",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Nouvelle-Aquitaine",
+    "id": "FR-NAQ",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Normandie",
+    "id": "FR-NOR",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Île-de-France",
+    "id": "FR-IDF",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Hauts-de-France",
+    "id": "FR-HDF",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Grand Est",
+    "id": "FR-GES",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Corse",
+    "id": "FR-COR",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Centre-Val de Loire",
+    "id": "FR-CVL",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Bretagne",
+    "id": "FR-BRE",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Bourgogne-Franche-Comté",
+    "id": "FR-BFC",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  },
+  {
+    "name": "Auvergne-Rhône-Alpes",
+    "id": "FR-ARA",
+    "CNTRY": "France",
+    "TYPE": "metropolitan region"
+  }
+]

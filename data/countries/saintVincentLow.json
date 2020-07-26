@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Charlotte",
+    "id": "VC-01",
+    "CNTRY": "Saint Vincent and the Grenadines",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Saint Andrew",
+    "id": "VC-02",
+    "CNTRY": "Saint Vincent and the Grenadines",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Saint David",
+    "id": "VC-03",
+    "CNTRY": "Saint Vincent and the Grenadines",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Saint George",
+    "id": "VC-04",
+    "CNTRY": "Saint Vincent and the Grenadines",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Saint Patrick",
+    "id": "VC-05",
+    "CNTRY": "Saint Vincent and the Grenadines",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Grenadines",
+    "id": "VC-06",
+    "CNTRY": "Saint Vincent and the Grenadines",
+    "TYPE": "Parish"
+  }
+]

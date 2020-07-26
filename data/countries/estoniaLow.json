@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Harjumaa",
+    "id": "EE-37",
+    "NAME_ENG": "Harju",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Hiiumaa",
+    "id": "EE-39",
+    "NAME_ENG": "Hiiu",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Ida-Virumaa",
+    "id": "EE-44",
+    "NAME_ENG": "Ida-Viru",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Jõgevamaa",
+    "id": "EE-49",
+    "NAME_ENG": "Jõgeva",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Järvamaa",
+    "id": "EE-51",
+    "NAME_ENG": "Järva",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Läänemaa",
+    "id": "EE-57",
+    "NAME_ENG": "Lääne",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Lääne-Virumaa",
+    "id": "EE-59",
+    "NAME_ENG": "Lääne-Viru",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Põlvamaa",
+    "id": "EE-65",
+    "NAME_ENG": "Põlva",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Pärnumaa",
+    "id": "EE-67",
+    "NAME_ENG": "Pärnu",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Raplamaa",
+    "id": "EE-70",
+    "NAME_ENG": "Rapla",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Saaremaa",
+    "id": "EE-74",
+    "NAME_ENG": "Saare",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Tartumaa",
+    "id": "EE-78",
+    "NAME_ENG": "Tartu",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Valgamaa",
+    "id": "EE-82",
+    "NAME_ENG": "Valga",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Viljandimaa",
+    "id": "EE-84",
+    "NAME_ENG": "Viljandi",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Võrumaa",
+    "id": "EE-86",
+    "NAME_ENG": "Võru",
+    "CNTRY": "Estonia",
+    "TYPE": "County"
+  }
+]

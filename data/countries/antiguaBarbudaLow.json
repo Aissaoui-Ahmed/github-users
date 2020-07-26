@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Saint Philip",
+    "id": "AG-08",
+    "CNTRY": "Antigua and Barbuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Saint Peter",
+    "id": "AG-07",
+    "CNTRY": "Antigua and Barbuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Saint Paul",
+    "id": "AG-06",
+    "CNTRY": "Antigua and Barbuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Saint Mary",
+    "id": "AG-05",
+    "CNTRY": "Antigua and Barbuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Saint John",
+    "id": "AG-04",
+    "CNTRY": "Antigua and Barbuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Saint George",
+    "id": "AG-03",
+    "CNTRY": "Antigua and Barbuda",
+    "TYPE": "Parish"
+  },
+  {
+    "name": "Redonda",
+    "id": "AG-11",
+    "CNTRY": "Antigua and Barbuda",
+    "TYPE": "Dependency"
+  },
+  {
+    "name": "Barbuda",
+    "id": "AG-10",
+    "CNTRY": "Antigua and Barbuda",
+    "TYPE": "Dependency"
+  }
+]

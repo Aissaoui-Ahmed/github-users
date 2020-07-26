@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Ar Rayyān",
+    "id": "QA-RA",
+    "NAME_ENG": "Al Rayyan",
+    "CNTRY": "Qatar",
+    "TYPE": "Baladiyah",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Ad Dawḩah",
+    "id": "QA-DA",
+    "NAME_ENG": "Doha",
+    "CNTRY": "Qatar",
+    "TYPE": "Baladiyah",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Al Khawr wa adh Dhakhīrah",
+    "id": "QA-KH",
+    "NAME_ENG": "Al Khor",
+    "CNTRY": "Qatar",
+    "TYPE": "Baladiyah",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Ash Shamāl",
+    "id": "QA-MS",
+    "NAME_ENG": "Al Shamal",
+    "CNTRY": "Qatar",
+    "TYPE": "Baladiyah",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Ash Shīḩānīyah",
+    "id": "QA-SH",
+    "NAME_ENG": "Al Shahaniya",
+    "CNTRY": "Qatar",
+    "TYPE": "Baladiyah",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Umm Şalāl",
+    "id": "QA-US",
+    "NAME_ENG": "Umm Salal",
+    "CNTRY": "Qatar",
+    "TYPE": "Baladiyah",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Al Wakrah",
+    "id": "QA-WA",
+    "NAME_ENG": "Al Wakrah",
+    "CNTRY": "Qatar",
+    "TYPE": "Baladiyah",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Az̧ Za̧`āyin",
+    "id": "QA-ZA",
+    "NAME_ENG": "Al Daayen",
+    "CNTRY": "Qatar",
+    "TYPE": "Baladiyah",
+    "TYPE_ENG": "Municipality"
+  }
+]

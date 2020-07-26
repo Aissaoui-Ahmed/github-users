@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Northern Territory",
+    "id": "AU-NT",
+    "CNTRY_NAME": "Australia",
+    "TYPE": "Territory"
+  },
+  {
+    "name": "Western Australia",
+    "id": "AU-WA",
+    "CNTRY_NAME": "Australia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Australian Capital Territory",
+    "id": "AU-ACT",
+    "CNTRY_NAME": "Australia",
+    "TYPE": "Territory"
+  },
+  {
+    "name": "New South Wales",
+    "id": "AU-NSW",
+    "CNTRY_NAME": "Australia",
+    "TYPE": "State"
+  },
+  {
+    "name": "South Australia",
+    "id": "AU-SA",
+    "CNTRY_NAME": "Australia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Victoria",
+    "id": "AU-VIC",
+    "CNTRY_NAME": "Australia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Queensland",
+    "id": "AU-QLD",
+    "CNTRY_NAME": "Australia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Tasmania",
+    "id": "AU-TAS",
+    "CNTRY_NAME": "Australia",
+    "TYPE": "State"
+  }
+]

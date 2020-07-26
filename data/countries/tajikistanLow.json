@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dushanbe",
+    "id": "TJ-DU",
+    "CNTRY": "Tajikistan",
+    "TYPE": "Capital Territory"
+  },
+  {
+    "name": "Khatlon",
+    "id": "TJ-KT",
+    "CNTRY": "Tajikistan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "nohiyahoi tobei jumhurí",
+    "id": "TJ-RA",
+    "CNTRY": "Tajikistan",
+    "TYPE": "districts under republic administration"
+  },
+  {
+    "name": "Sughd",
+    "id": "TJ-SU",
+    "CNTRY": "Tajikistan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Gorno-Badakhshan",
+    "id": "TJ-GB",
+    "CNTRY": "Tajikistan",
+    "TYPE": "Autonomous Region"
+  }
+]

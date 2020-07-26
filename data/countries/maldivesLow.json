@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Huvadhu Atholhu Dhekunubu",
+    "id": "MV-28",
+    "LocalName": "Gaafu Dhaal",
+    "NAME_ENG": "South Huvadhu Atoll",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Ari Atholhu Dhekunuburi",
+    "id": "MV-00",
+    "LocalName": "Alif Dhaal",
+    "NAME_ENG": "South Ari Atoll",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Ariatholhu Uthuruburi",
+    "id": "MV-02",
+    "LocalName": "Alifu Alifu",
+    "NAME_ENG": "North Ari Atoll",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Nilandhe Atholhu Uthurubu",
+    "id": "MV-14",
+    "LocalName": "Faafu",
+    "NAME_ENG": "North Nilandhe Atoll",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Nilandhe Atholhu Dhekunub",
+    "id": "MV-17",
+    "LocalName": "Dhaalu",
+    "NAME_ENG": "South Nilandhe Atoll",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Haddhunmathi",
+    "id": "MV-05",
+    "LocalName": "Laamu",
+    "NAME_ENG": "Hahdhunmathi",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Mulak Atholhu",
+    "id": "MV-12",
+    "LocalName": "Meemu",
+    "NAME_ENG": "Mulaku Atoll",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Felidheatholhu",
+    "id": "MV-04",
+    "LocalName": "Vaavu",
+    "NAME_ENG": "Felidhu Atoll",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Maale",
+    "id": "MV-MLE",
+    "LocalName": "Malé",
+    "NAME_ENG": "Malé",
+    "TYPE": "City",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Maaleatholhu",
+    "id": "MV-26",
+    "LocalName": "Kaafu",
+    "NAME_ENG": "Malé Atoll",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Kolhumadulu",
+    "id": "MV-08",
+    "LocalName": "Thaa",
+    "NAME_ENG": "Kolhumadulu",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Faadhippolhu",
+    "id": "MV-03",
+    "LocalName": "Lhaviyani",
+    "NAME_ENG": "Faadhippolhu",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Maalhosmadulu Dhekunuburi",
+    "id": "MV-20",
+    "LocalName": "Baa",
+    "NAME_ENG": "South Maalhosmadulu",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Miladhunmadulu Dhekunubur",
+    "id": "MV-25",
+    "LocalName": "Noonu",
+    "NAME_ENG": "South Miladhunmadulu",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Maalhosmadulu Uthuruburi",
+    "id": "MV-13",
+    "LocalName": "Raa",
+    "NAME_ENG": "North Maalhosmadulu",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Thiladhunmathee Dhekunubu",
+    "id": "MV-23",
+    "LocalName": "Haa Dhaalu",
+    "NAME_ENG": "South Thiladhunmathi",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Thiladhunmathee Uthurubur",
+    "id": "MV-07",
+    "LocalName": "Haa Alifu",
+    "NAME_ENG": "North Thiladhunmathi",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Addu Atholhu",
+    "id": "MV-01",
+    "LocalName": "Addu",
+    "NAME_ENG": "Addu City",
+    "TYPE": "City",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Fuvahmulah",
+    "id": "MV-29",
+    "LocalName": "Gnaviyani",
+    "NAME_ENG": "Fuvammulah",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Huvadhu Atholhu Uthurubur",
+    "id": "MV-27",
+    "LocalName": "Gaafu Alifu",
+    "NAME_ENG": "North Huvadhu Atoll",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  },
+  {
+    "name": "Miladhunmadulu Uthuruburi",
+    "id": "MV-24",
+    "LocalName": "Shaviyani",
+    "NAME_ENG": "North Miladhunmadulu",
+    "TYPE": "Administrative Atoll",
+    "CNTRY": "Maldives"
+  }
+]

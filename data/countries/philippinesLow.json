@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Basilan",
+    "id": "PH-BAS",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Zambales",
+    "id": "PH-ZMB",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Surigao del Sur",
+    "id": "PH-SUR",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Tarlac",
+    "id": "PH-TAR",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Tawi-Tawi",
+    "id": "PH-TAW",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Zamboanga del Norte",
+    "id": "PH-ZAN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Zamboanga Sibugay",
+    "id": "PH-ZSI",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Abra",
+    "id": "PH-ABR",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Agusan del Norte",
+    "id": "PH-AGN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Agusan del Sur",
+    "id": "PH-AGS",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Aklan",
+    "id": "PH-AKL",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Albay",
+    "id": "PH-ALB",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Antique",
+    "id": "PH-ANT",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Apayao",
+    "id": "PH-APA",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Aurora",
+    "id": "PH-AUR",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bataan",
+    "id": "PH-BAN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Batanes",
+    "id": "PH-BTN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Batangas",
+    "id": "PH-BTG",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Benguet",
+    "id": "PH-BEN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Biliran",
+    "id": "PH-BIL",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bohol",
+    "id": "PH-BOH",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bukidnon",
+    "id": "PH-BUK",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bulacan",
+    "id": "PH-BUL",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Cagayan",
+    "id": "PH-CAG",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Camarines Norte",
+    "id": "PH-CAN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Camarines Sur",
+    "id": "PH-CAS",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Camiguin",
+    "id": "PH-CAM",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Capiz",
+    "id": "PH-CAP",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Catanduanes",
+    "id": "PH-CAT",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Cavite",
+    "id": "PH-CAV",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Cebu",
+    "id": "PH-CEB",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Compostela Valley",
+    "id": "PH-COM",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Davao Oriental",
+    "id": "PH-DAO",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Davao del Sur",
+    "id": "PH-DAS",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Davao del Norte",
+    "id": "PH-DAV",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Davao Occidental",
+    "id": "PH-DVO",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Dinagat Islands",
+    "id": "PH-DIN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Eastern Samar",
+    "id": "PH-EAS",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Guimaras",
+    "id": "PH-GUI",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ifugao",
+    "id": "PH-IFU",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ilocos Norte",
+    "id": "PH-ILN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ilocos Sur",
+    "id": "PH-ILS",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Iloilo",
+    "id": "PH-ILI",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Isabela",
+    "id": "PH-ISA",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kalinga",
+    "id": "PH-KAL",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "La Union",
+    "id": "PH-LUN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Laguna",
+    "id": "PH-LAG",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Lanao del Norte",
+    "id": "PH-LAN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Lanao del Sur",
+    "id": "PH-LAS",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Leyte",
+    "id": "PH-LEY",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Maguindanao",
+    "id": "PH-MAG",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Marinduque",
+    "id": "PH-MAD",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Masbate",
+    "id": "PH-MAS",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Metropolitan Manila",
+    "id": "PH-00",
+    "CNTRY": "Philippines",
+    "TYPE": "Capital Region"
+  },
+  {
+    "name": "Misamis Occidental",
+    "id": "PH-MSC",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Misamis Oriental",
+    "id": "PH-MSR",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Mountain Province",
+    "id": "PH-MOU",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Negros Occidental",
+    "id": "PH-NEC",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Negros Oriental",
+    "id": "PH-NER",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Cotabato",
+    "id": "PH-NCO",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Northern Samar",
+    "id": "PH-NSA",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nueva Ecija",
+    "id": "PH-NUE",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nueva Vizcaya",
+    "id": "PH-NUV",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Occidental Mindoro",
+    "id": "PH-MDC",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Oriental Mindoro",
+    "id": "PH-MDR",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Palawan",
+    "id": "PH-PLW",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Pampanga",
+    "id": "PH-PAM",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Pangasinan",
+    "id": "PH-PAN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Quezon",
+    "id": "PH-QUE",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Quirino",
+    "id": "PH-QUI",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Rizal",
+    "id": "PH-RIZ",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Romblon",
+    "id": "PH-ROM",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Samar",
+    "id": "PH-WSA",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sarangani",
+    "id": "PH-SAR",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Siquijor",
+    "id": "PH-SIG",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sorsogon",
+    "id": "PH-SOR",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "South Cotabato",
+    "id": "PH-SCO",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Southern Leyte",
+    "id": "PH-SLE",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sultan Kudarat",
+    "id": "PH-SUK",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sulu",
+    "id": "PH-SLU",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Surigao del Norte",
+    "id": "PH-SUN",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Zamboanga del Sur",
+    "id": "PH-ZAS",
+    "CNTRY": "Philippines",
+    "TYPE": "Province"
+  }
+]

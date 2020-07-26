@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Alajuela",
+    "id": "CR-A",
+    "CNTRY": "Costa Rica",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Cartago",
+    "id": "CR-C",
+    "CNTRY": "Costa Rica",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Guanacaste",
+    "id": "CR-G",
+    "CNTRY": "Costa Rica",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Heredia",
+    "id": "CR-H",
+    "CNTRY": "Costa Rica",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Limón",
+    "id": "CR-L",
+    "CNTRY": "Costa Rica",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Lake Arenal",
+    "id": "CR-LA",
+    "CNTRY": "Costa Rica",
+    "TYPE": "Lake"
+  },
+  {
+    "name": "Puntarenas",
+    "id": "CR-P",
+    "CNTRY": "Costa Rica",
+    "TYPE": "Province"
+  },
+  {
+    "name": "San José",
+    "id": "CR-SJ",
+    "CNTRY": "Costa Rica",
+    "TYPE": "Province"
+  }
+]

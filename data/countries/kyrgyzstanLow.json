@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Ysyk-Köl",
+    "id": "KG-Y",
+    "CNTRY": "Kyrgyzstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Talas",
+    "id": "KG-T",
+    "CNTRY": "Kyrgyzstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Osh",
+    "id": "KG-GO",
+    "CNTRY": "Kyrgyzstan",
+    "TYPE": "City"
+  },
+  {
+    "name": "Osh",
+    "id": "KG-O",
+    "CNTRY": "Kyrgyzstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Naryn",
+    "id": "KG-N",
+    "CNTRY": "Kyrgyzstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Jalal-Abad",
+    "id": "KG-J",
+    "CNTRY": "Kyrgyzstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Chüy",
+    "id": "KG-C",
+    "CNTRY": "Kyrgyzstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Bishkek",
+    "id": "KG-GB",
+    "CNTRY": "Kyrgyzstan",
+    "TYPE": "City"
+  },
+  {
+    "name": "Batken",
+    "id": "KG-B",
+    "CNTRY": "Kyrgyzstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Chon-Qora",
+    "id": "UZ-FA-CQ",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Territory"
+  },
+  {
+    "name": "Sokh",
+    "id": "UZ-FA-SO",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Town"
+  },
+  {
+    "name": "Vorukh",
+    "id": "TJ-SU-V",
+    "CNTRY": "Tajikistan",
+    "TYPE": "Jamoat"
+  },
+  {
+    "name": "Shohimardon",
+    "id": "UZ-FA-SH",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Town"
+  }
+]

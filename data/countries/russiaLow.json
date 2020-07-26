@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Crimea",
+    "id": "RU-KR",
+    "TYPE": "Autonomous Republic",
+    "TYPE_ENG": "Autonomous Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Zabaykalsky",
+    "id": "RU-ZAB",
+    "TYPE": "Kray",
+    "TYPE_ENG": "Territory",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Yevrey",
+    "id": "RU-YEV",
+    "TYPE": "Avtonomnaya Oblast",
+    "TYPE_ENG": "Autonomous Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Yaroslavl",
+    "id": "RU-YAR",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Yamalo-Nenets",
+    "id": "RU-YAN",
+    "TYPE": "Avtonomnyy Okrug",
+    "TYPE_ENG": "Autonomous Province",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Voronezh",
+    "id": "RU-VOR",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Vologda",
+    "id": "RU-VLG",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Volgograd",
+    "id": "RU-VGG",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Vladimir",
+    "id": "RU-VLA",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Ulyanovsk",
+    "id": "RU-ULY",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Udmurt",
+    "id": "RU-UD",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Tyumen",
+    "id": "RU-TYU",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Tver",
+    "id": "RU-TVE",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Tuva",
+    "id": "RU-TY",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Tula",
+    "id": "RU-TUL",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Tomsk",
+    "id": "RU-TOM",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Tatarstan",
+    "id": "RU-TT",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Tambov",
+    "id": "RU-TAM",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Sverdlovsk",
+    "id": "RU-SVE",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Stavropol",
+    "id": "RU-STA",
+    "TYPE": "Kray",
+    "TYPE_ENG": "Territory",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Smolensk",
+    "id": "RU-SMO",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Saratov",
+    "id": "RU-SAR",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Samara",
+    "id": "RU-SAM",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Sakhalin",
+    "id": "RU-SAK",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Sakha",
+    "id": "RU-SA",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Ryazan",
+    "id": "RU-RYA",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Rostov",
+    "id": "RU-ROS",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Pskov",
+    "id": "RU-PSK",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Primorsky",
+    "id": "RU-PRI",
+    "TYPE": "Kray",
+    "TYPE_ENG": "Territory",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Perm",
+    "id": "RU-PER",
+    "TYPE": "Kray",
+    "TYPE_ENG": "Territory",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Penza",
+    "id": "RU-PNZ",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Orenburg",
+    "id": "RU-ORE",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Oryol",
+    "id": "RU-ORL",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Omsk",
+    "id": "RU-OMS",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Novosibirsk",
+    "id": "RU-NVS",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Novgorod",
+    "id": "RU-NGR",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "North Ossetia-Alania",
+    "id": "RU-SE",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Nizhegorod",
+    "id": "RU-NIZ",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Nenets",
+    "id": "RU-NEN",
+    "TYPE": "Avtonomnyy Okrug",
+    "TYPE_ENG": "Autonomous Province",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Murmansk",
+    "id": "RU-MUR",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Moskva",
+    "id": "RU-MOS",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Moscow City",
+    "id": "RU-MOW",
+    "TYPE": "Gorod",
+    "TYPE_ENG": "City",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Mordovia",
+    "id": "RU-MO",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Mariy-El",
+    "id": "RU-ME",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Magadan",
+    "id": "RU-MAG",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Lipetsk",
+    "id": "RU-LIP",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Leningrad",
+    "id": "RU-LEN",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Kursk",
+    "id": "RU-KRS",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Kurgan",
+    "id": "RU-KGN",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Krasnoyarsk",
+    "id": "RU-KYA",
+    "TYPE": "Kray",
+    "TYPE_ENG": "Territory",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Krasnodar",
+    "id": "RU-KDA",
+    "TYPE": "Kray",
+    "TYPE_ENG": "Territory",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Kostroma",
+    "id": "RU-KOS",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Komi",
+    "id": "RU-KO",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Kirov",
+    "id": "RU-KIR",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Khanty-Mansiysk",
+    "id": "RU-KHM",
+    "TYPE": "Avtonomnyy Okrug",
+    "TYPE_ENG": "Autonomous Province",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Khakassia",
+    "id": "RU-KK",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Khabarovsk",
+    "id": "RU-KHA",
+    "TYPE": "Kray",
+    "TYPE_ENG": "Territory",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Kemerovo",
+    "id": "RU-KEM",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Karelia",
+    "id": "RU-KR",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Karachay-Cherkess",
+    "id": "RU-KC",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Kamchatka",
+    "id": "RU-KAM",
+    "TYPE": "Kray",
+    "TYPE_ENG": "Territory",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Kaluga",
+    "id": "RU-KLU",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Kalmykia",
+    "id": "RU-KL",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Kaliningrad",
+    "id": "RU-KGD",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Kabardino-Balkar",
+    "id": "RU-KB",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Ivanovo",
+    "id": "RU-IVA",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Irkutsk",
+    "id": "RU-IRK",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Ingushetia",
+    "id": "RU-IN",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Gorno-Altay",
+    "id": "RU-GA?",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Dagestan",
+    "id": "RU-DA",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "St. Petersburg",
+    "id": "RU-SPE",
+    "TYPE": "Gorsovet",
+    "TYPE_ENG": "City",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Chuvash",
+    "id": "RU-CU",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Chukotka",
+    "id": "RU-CHU",
+    "TYPE": "Avtonomnyy Okrug",
+    "TYPE_ENG": "Autonomous Province",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Chelyabinsk",
+    "id": "RU-CHE",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Chechnya",
+    "id": "RU-CE",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Buryatiya",
+    "id": "RU-BU",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Bryansk",
+    "id": "RU-BRY",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Belgorod",
+    "id": "RU-BEL",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Bashkortostan",
+    "id": "RU-BA",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Astrakhan",
+    "id": "RU-AST",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Arkhangelsk",
+    "id": "RU-ARK",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Amur",
+    "id": "RU-AMU",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Altay",
+    "id": "RU-ALT",
+    "TYPE": "Kray",
+    "TYPE_ENG": "Territory",
+    "CNTRY": "Russia"
+  },
+  {
+    "name": "Adygeya",
+    "id": "RU-AD",
+    "TYPE": "Respublika",
+    "TYPE_ENG": "Republic",
+    "CNTRY": "Russia"
+  }
+]

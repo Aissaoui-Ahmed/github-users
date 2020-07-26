@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Aqmola oblysy",
+    "id": "KZ-AKM",
+    "NAME_ALT": "Akmola",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Aqtöbe oblysy",
+    "id": "KZ-AKT",
+    "NAME_ALT": "Aktobe",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Almaty oblysy",
+    "id": "KZ-ALM",
+    "NAME_ALT": "Almaty",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Atyraū oblysy",
+    "id": "KZ-ATY",
+    "NAME_ALT": "Atyrau",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Qaraghandy oblysy",
+    "id": "KZ-KAR",
+    "NAME_ALT": "Karaganda",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Qostanay oblysy",
+    "id": "KZ-KUS",
+    "NAME_ALT": "Kostanay",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Qyzylorda oblysy",
+    "id": "KZ-KZY",
+    "NAME_ALT": "Kyzylorda",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Mangghystaū oblysy",
+    "id": "KZ-MAN",
+    "NAME_ALT": "Mangystau",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Pavlodar oblysy",
+    "id": "KZ-PAV",
+    "NAME_ALT": "Pavlodar",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Soltüstik Qazaqstan oblysy",
+    "id": "KZ-SEV",
+    "NAME_ALT": "North Kazakhstan",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Shyghys Qazaqstan oblysy",
+    "id": "KZ-VOS",
+    "NAME_ALT": "East Kazakhstan",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ongtüstik Qazaqstan oblysy",
+    "id": "KZ-YUZ",
+    "NAME_ALT": "Turkistan",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Batys Qazaqstan oblysy",
+    "id": "KZ-ZAP",
+    "NAME_ALT": "West Kazakhstan",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Zhambyl oblysy",
+    "id": "KZ-ZHA",
+    "NAME_ALT": "Jambyl",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Aral Sea",
+    "id": "KZ-ALS",
+    "NAME_ALT": "Aral Sea",
+    "CNTRY": "Kazakhstan",
+    "TYPE": "Sea"
+  }
+]

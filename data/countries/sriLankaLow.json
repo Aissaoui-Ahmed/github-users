@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Colombo",
+    "id": "LK-11",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Western",
+    "ID_PROVINC": "LK-1"
+  },
+  {
+    "name": "Gampaha",
+    "id": "LK-12",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Western",
+    "ID_PROVINC": "LK-1"
+  },
+  {
+    "name": "Kalutara",
+    "id": "LK-13",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Western",
+    "ID_PROVINC": "LK-1"
+  },
+  {
+    "name": "Kandy",
+    "id": "LK-21",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Central",
+    "ID_PROVINC": "LK-2"
+  },
+  {
+    "name": "Matale",
+    "id": "LK-22",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Central",
+    "ID_PROVINC": "LK-2"
+  },
+  {
+    "name": "Nuwara Eliya",
+    "id": "LK-23",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Central",
+    "ID_PROVINC": "LK-2"
+  },
+  {
+    "name": "Galle",
+    "id": "LK-31",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Southern",
+    "ID_PROVINC": "LK-3"
+  },
+  {
+    "name": "Matara",
+    "id": "LK-32",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Southern",
+    "ID_PROVINC": "LK-3"
+  },
+  {
+    "name": "Hambantota",
+    "id": "LK-33",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Southern",
+    "ID_PROVINC": "LK-3"
+  },
+  {
+    "name": "Jaffna",
+    "id": "LK-41",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Northern",
+    "ID_PROVINC": "LK-4"
+  },
+  {
+    "name": "Kilinochchi",
+    "id": "LK-42",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Northern",
+    "ID_PROVINC": "LK-4"
+  },
+  {
+    "name": "Mannar",
+    "id": "LK-43",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Northern",
+    "ID_PROVINC": "LK-4"
+  },
+  {
+    "name": "Vavuniya",
+    "id": "LK-44",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Northern",
+    "ID_PROVINC": "LK-4"
+  },
+  {
+    "name": "Mullaitivu",
+    "id": "LK-45",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Northern",
+    "ID_PROVINC": "LK-4"
+  },
+  {
+    "name": "Batticaloa",
+    "id": "LK-51",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Eastern",
+    "ID_PROVINC": "LK-5"
+  },
+  {
+    "name": "Ampara",
+    "id": "LK-52",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Eastern",
+    "ID_PROVINC": "LK-5"
+  },
+  {
+    "name": "Trincomalee",
+    "id": "LK-53",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Eastern",
+    "ID_PROVINC": "LK-5"
+  },
+  {
+    "name": "Kurunegala",
+    "id": "LK-61",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "North Western",
+    "ID_PROVINC": "LK-6"
+  },
+  {
+    "name": "Puttalam",
+    "id": "LK-62",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "North Western",
+    "ID_PROVINC": "LK-6"
+  },
+  {
+    "name": "Anuradhapura",
+    "id": "LK-71",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "North Central",
+    "ID_PROVINC": "LK-7"
+  },
+  {
+    "name": "Polonnaruwa",
+    "id": "LK-72",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "North Central",
+    "ID_PROVINC": "LK-7"
+  },
+  {
+    "name": "Badulla",
+    "id": "LK-81",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Uva",
+    "ID_PROVINC": "LK-8"
+  },
+  {
+    "name": "Monaragala",
+    "id": "LK-82",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Uva",
+    "ID_PROVINC": "LK-8"
+  },
+  {
+    "name": "Ratnapura",
+    "id": "LK-91",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Sabaragamuwa",
+    "ID_PROVINC": "LK-9"
+  },
+  {
+    "name": "Kegalla",
+    "id": "LK-92",
+    "CNTRY": "Sri Lanka",
+    "TYPE": "Distrikkaya",
+    "TYPE_ENG": "District",
+    "PROVINCE": "Sabaragamuwa",
+    "ID_PROVINC": "LK-9"
+  }
+]

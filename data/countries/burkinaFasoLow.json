@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Sud-Ouest",
+    "id": "BF-13",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sahel",
+    "id": "BF-12",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Plateau-Central",
+    "id": "BF-11",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nord",
+    "id": "BF-10",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Hauts-Bassins",
+    "id": "BF-09",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Est",
+    "id": "BF-08",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Centre-Sud",
+    "id": "BF-07",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Centre-Ouest",
+    "id": "BF-06",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Centre-Nord",
+    "id": "BF-05",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Centre-Est",
+    "id": "BF-04",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Centre",
+    "id": "BF-03",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Cascades",
+    "id": "BF-02",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Boucle du Mouhoun",
+    "id": "BF-01",
+    "CNTRY": "Burkina Faso",
+    "TYPE": "Province"
+  }
+]

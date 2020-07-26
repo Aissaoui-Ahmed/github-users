@@ -1,0 +1,146 @@
+[
+  {
+    "name": "An Nīl al Abyaḑ",
+    "id": "SD-NW",
+    "NAME_ENG": "White Nile",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Al Qaḑārif",
+    "id": "SD-GD",
+    "NAME_ENG": "Gedaref",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Al Kharţūm",
+    "id": "SD-KH",
+    "NAME_ENG": "Khartoum",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Nahr an Nīl",
+    "id": "SD-NR",
+    "NAME_ENG": "River Nile",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Wasaţ Dārfūr Zālinja",
+    "id": "SD-DC",
+    "NAME_ENG": "Central Darfur",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Sharq Dārfūr",
+    "id": "SD-DE",
+    "NAME_ENG": "East Darfur",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Shamāl Dārfūr",
+    "id": "SD-DN",
+    "NAME_ENG": "North Darfur",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Janūb Dārfūr",
+    "id": "SD-DS",
+    "NAME_ENG": "South Darfur",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Gharb Dārfūr",
+    "id": "SD-DW",
+    "NAME_ENG": "West Darfur",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Gharb Kurdufān",
+    "id": "SD-GK",
+    "NAME_ENG": "West Kordofan",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Al Jazīrah",
+    "id": "SD-GZ",
+    "NAME_ENG": "Gezira",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Kassalā",
+    "id": "SD-KA",
+    "NAME_ENG": "Kassala",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Shiamāl Kurdufān",
+    "id": "SD-KN",
+    "NAME_ENG": "North Kordofan",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Janūb Kurdufān",
+    "id": "SD-KS",
+    "NAME_ENG": "South Kordofan",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "An Nīl al Azraq",
+    "id": "SD-NB",
+    "NAME_ENG": "Blue Nile",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Ash Shamālīyah",
+    "id": "SD-NO",
+    "NAME_ENG": "Northern",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Al Baḩr al Aḩmar",
+    "id": "SD-RS",
+    "NAME_ENG": "Red Sea",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Sinnār",
+    "id": "SD-SI",
+    "NAME_ENG": "Sennar",
+    "CNTRY": "Sudan",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "State"
+  }
+]

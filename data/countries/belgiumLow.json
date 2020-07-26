@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Antwerpen",
+    "id": "BE-VAN",
+    "CNTRY": "Belgium",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Walloon Brabant",
+    "id": "BE-WBR",
+    "CNTRY": "Belgium",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Brussels Capital Region",
+    "id": "BE-BRU",
+    "CNTRY": "Belgium",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Hainaut",
+    "id": "BE-WHT",
+    "CNTRY": "Belgium",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Liège",
+    "id": "BE-WLG",
+    "CNTRY": "Belgium",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Limburg",
+    "id": "BE-VLI",
+    "CNTRY": "Belgium",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Luxembourg",
+    "id": "BE-WLX",
+    "CNTRY": "Belgium",
+    "TYPE": "Province"
+  },
+  {
+    "name": "East Flanders",
+    "id": "BE-VOV",
+    "CNTRY": "Belgium",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Namur",
+    "id": "BE-WNA",
+    "CNTRY": "Belgium",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Flemish Brabant",
+    "id": "BE-VBR",
+    "CNTRY": "Belgium",
+    "TYPE": "Province"
+  },
+  {
+    "name": "West Flanders",
+    "id": "BE-VWV",
+    "CNTRY": "Belgium",
+    "TYPE": "Province"
+  }
+]

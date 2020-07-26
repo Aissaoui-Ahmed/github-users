@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Nampho",
+    "id": "KP-14",
+    "NAME_ENG": "Nampo",
+    "TYPE": "Metropolitan City",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Phyeongyang",
+    "id": "KP-01",
+    "NAME_ENG": "Pyongyang",
+    "TYPE": "Capital City",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Phyeongannamto",
+    "id": "KP-02",
+    "NAME_ENG": "South Pyongan",
+    "TYPE": "Province",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Phyeonganpukto",
+    "id": "KP-03",
+    "NAME_ENG": "North Pyongan",
+    "TYPE": "Province",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Jakangto",
+    "id": "KP-04",
+    "NAME_ENG": "Chagang",
+    "TYPE": "Province",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Hwanghainamto",
+    "id": "KP-05",
+    "NAME_ENG": "South Hwanghae",
+    "TYPE": "Province",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Hwanghaipukto",
+    "id": "KP-06",
+    "NAME_ENG": "North Hwanghae",
+    "TYPE": "Province",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Kangweonto",
+    "id": "KP-07",
+    "NAME_ENG": "Kangwon",
+    "TYPE": "Province",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Hamkyeongnamto",
+    "id": "KP-08",
+    "NAME_ENG": "South Hamgyong",
+    "TYPE": "Province",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Hamkyeongpukto",
+    "id": "KP-09",
+    "NAME_ENG": "North Hamgyong",
+    "TYPE": "Province",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Ryangkangto",
+    "id": "KP-10",
+    "NAME_ENG": "Ryanggang",
+    "TYPE": "Province",
+    "CNTRY": "North Korea"
+  },
+  {
+    "name": "Raseon",
+    "id": "KP-13",
+    "NAME_ENG": "Rason",
+    "TYPE": "Special City",
+    "CNTRY": "North Korea"
+  }
+]

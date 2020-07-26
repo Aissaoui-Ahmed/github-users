@@ -1,0 +1,32 @@
+[
+  {
+    "name": "South West",
+    "id": "SG-05",
+    "CNTRY": "Singapore",
+    "DIVISION": "District"
+  },
+  {
+    "name": "South East",
+    "id": "SG-04",
+    "CNTRY": "Singapore",
+    "DIVISION": "District"
+  },
+  {
+    "name": "North West",
+    "id": "SG-03",
+    "CNTRY": "Singapore",
+    "DIVISION": "District"
+  },
+  {
+    "name": "North East",
+    "id": "SG-02",
+    "CNTRY": "Singapore",
+    "DIVISION": "District"
+  },
+  {
+    "name": "Central Singapore",
+    "id": "SG-01",
+    "CNTRY": "Singapore",
+    "DIVISION": "District"
+  }
+]

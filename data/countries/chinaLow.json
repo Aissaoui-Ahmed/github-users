@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Anhui",
+    "id": "CN-AH",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Beijing",
+    "id": "CN-BJ",
+    "TYPE": "Municipality",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Chongqing",
+    "id": "CN-CQ",
+    "TYPE": "Municipality",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Fujian",
+    "id": "CN-FJ",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Guangdong",
+    "id": "CN-GD",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Gansu",
+    "id": "CN-GS",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Guangxi Zhuang",
+    "id": "CN-GX",
+    "TYPE": "Autonomous Region",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Guizhou",
+    "id": "CN-GZ",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Henan",
+    "id": "CN-HA",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Hubei",
+    "id": "CN-HB",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Hebei",
+    "id": "CN-HE",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Hainan",
+    "id": "CN-HI",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Hong Kong",
+    "id": "CN-HK",
+    "TYPE": "Special Administrative Region",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Heilongjiang",
+    "id": "CN-HL",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Hunan",
+    "id": "CN-HN",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Jilin",
+    "id": "CN-JL",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Jiangsu",
+    "id": "CN-JX",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Jiangxi",
+    "id": "CN-36",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Liaoning",
+    "id": "CN-LN",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Macau",
+    "id": "CN-MO",
+    "TYPE": "Special Administrative Region",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Nei Mongol",
+    "id": "CN-NM",
+    "TYPE": "Autonomous Region",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Ningxia Hui",
+    "id": "CN-NX",
+    "TYPE": "Autonomous Region",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Qinghai",
+    "id": "CN-QH",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Sichuan",
+    "id": "CN-SC",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Shandong",
+    "id": "CN-SD",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Shanghai",
+    "id": "CN-SH",
+    "TYPE": "Municipality",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Shaanxi",
+    "id": "CN-SN",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Shanxi",
+    "id": "CN-SX",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Tianjin",
+    "id": "CN-TJ",
+    "TYPE": "Municipality",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Taiwan",
+    "id": "CN-TW",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Xinjiang Uygur",
+    "id": "CN-XJ",
+    "TYPE": "Autonomous Region",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Xizang (Tibet)",
+    "id": "CN-XZ",
+    "TYPE": "Autonomous Region",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Yunnan",
+    "id": "CN-YN",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  },
+  {
+    "name": "Zhejiang",
+    "id": "CN-ZJ",
+    "TYPE": "Province",
+    "CNTRY": "China"
+  }
+]

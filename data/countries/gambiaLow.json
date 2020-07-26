@@ -1,0 +1,50 @@
+[
+  {
+    "id": "GM-JA",
+    "name": "Janjanbureh",
+    "TYPE": "Division",
+    "CNTRY": "Gambia"
+  },
+  {
+    "id": "GM-KA",
+    "name": "Kanifing",
+    "TYPE": "Division",
+    "CNTRY": "Gambia"
+  },
+  {
+    "id": "GM-BJ",
+    "name": "Banjul",
+    "TYPE": "National Capital",
+    "CNTRY": "Gambia"
+  },
+  {
+    "id": "GM-UR",
+    "name": "Basse",
+    "TYPE": "Division",
+    "CNTRY": "Gambia"
+  },
+  {
+    "id": "GM-LR",
+    "name": "Mansa Konko",
+    "TYPE": "Division",
+    "CNTRY": "Gambia"
+  },
+  {
+    "id": "GM-WE",
+    "name": "Brikama",
+    "TYPE": "Division",
+    "CNTRY": "Gambia"
+  },
+  {
+    "id": "GM-NB",
+    "name": "Kerewan",
+    "TYPE": "Division",
+    "CNTRY": "Gambia"
+  },
+  {
+    "id": "GM-KU",
+    "name": "Kuntaur",
+    "TYPE": "Division",
+    "CNTRY": "Gambia"
+  }
+]

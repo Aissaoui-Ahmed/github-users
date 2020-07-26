@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Adrar",
+    "id": "MR-07",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Assaba",
+    "id": "MR-03",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Brakna",
+    "id": "MR-05",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Dakhlet Nouâdhibou",
+    "id": "MR-08",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Gorgol",
+    "id": "MR-04",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Guidimaka",
+    "id": "MR-10",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Hodh ech Chargui",
+    "id": "MR-01",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Hodh el Gharbi",
+    "id": "MR-02",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Inchiri",
+    "id": "MR-12",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Nouakchott",
+    "id": "MR-13",
+    "CNTRY": "Mauritania",
+    "TYPE": "Capital District",
+    "TYPE_ENG": "Capital District"
+  },
+  {
+    "name": "Tagant",
+    "id": "MR-09",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Tiris Zemmour",
+    "id": "MR-11",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Trarza",
+    "id": "MR-06",
+    "CNTRY": "Mauritania",
+    "TYPE": "Wilayat",
+    "TYPE_ENG": "Region"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "RW-01",
+    "name": "Umujyi wa Kigali",
+    "NAME_ENG": "Kigali City",
+    "TYPE": "City",
+    "CNTRY": "Rwanda"
+  },
+  {
+    "id": "RW-03",
+    "name": "Amajyaruguru",
+    "NAME_ENG": "Northern",
+    "TYPE": "Province",
+    "CNTRY": "Rwanda"
+  },
+  {
+    "id": "RW-04",
+    "name": "Iburengerazuba",
+    "NAME_ENG": "Western",
+    "TYPE": "Province",
+    "CNTRY": "Rwanda"
+  },
+  {
+    "id": "RW-05",
+    "name": "Amajyepfo",
+    "NAME_ENG": "Southern",
+    "TYPE": "Province",
+    "CNTRY": "Rwanda"
+  },
+  {
+    "id": "RW-02",
+    "name": "Iburasirazuba",
+    "NAME_ENG": "Eastern",
+    "TYPE": "Province",
+    "CNTRY": "Rwanda"
+  }
+]

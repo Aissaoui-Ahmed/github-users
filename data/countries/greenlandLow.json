@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Northeast Greenland National Park",
+    "id": "GL-NP",
+    "CNTRY": "Greenland",
+    "TYPE": "National Park",
+    "TYPE_ENG": "National Park"
+  },
+  {
+    "name": "Qeqqata",
+    "id": "GL-QE",
+    "CNTRY": "Greenland",
+    "TYPE": "Kommune",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Sermersooq",
+    "id": "GL-SM",
+    "CNTRY": "Greenland",
+    "TYPE": "Kommune",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Kujalleq",
+    "id": "GL-KU",
+    "CNTRY": "Greenland",
+    "TYPE": "Kommune",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Qeqertalik",
+    "id": "GL-QT",
+    "CNTRY": "Greenland",
+    "TYPE": "Kommune",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Avannaata",
+    "id": "GL-AV",
+    "CNTRY": "Greenland",
+    "TYPE": "Kommune",
+    "TYPE_ENG": "Municipality"
+  }
+]

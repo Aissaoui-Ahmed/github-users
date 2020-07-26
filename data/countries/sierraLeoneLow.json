@@ -1,0 +1,32 @@
+[
+  {
+    "id": "SL-NW",
+    "name": "North Western",
+    "TYPE": "Province",
+    "CNTRY": "Sierra Leone"
+  },
+  {
+    "id": "SL-W",
+    "name": "Western Area",
+    "TYPE": "Area",
+    "CNTRY": "Sierra Leone"
+  },
+  {
+    "id": "SL-S",
+    "name": "Southern",
+    "TYPE": "Province",
+    "CNTRY": "Sierra Leone"
+  },
+  {
+    "id": "SL-E",
+    "name": "Eastern",
+    "TYPE": "Province",
+    "CNTRY": "Sierra Leone"
+  },
+  {
+    "id": "SL-N",
+    "name": "Northern",
+    "TYPE": "Province",
+    "CNTRY": "Sierra Leone"
+  }
+]

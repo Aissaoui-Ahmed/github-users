@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Dadra and Nagar Haveli",
+    "id": "IN-DN",
+    "TYPE": "Union Territory",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "id": "IN-AN",
+    "TYPE": "Union Territory",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Andhra Pradesh",
+    "id": "IN-AP",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "id": "IN-AR",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Assam",
+    "id": "IN-AS",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Bihar",
+    "id": "IN-BR",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Chandigarh",
+    "id": "IN-CH",
+    "TYPE": "Union Territory",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Chhattisgarh",
+    "id": "IN-CT",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Delhi",
+    "id": "IN-DL",
+    "TYPE": "Union Territory",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "id": "IN-DNDD",
+    "TYPE": "Union Territory",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Goa",
+    "id": "IN-GA",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Gujarat",
+    "id": "IN-GJ",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Himachal Pradesh",
+    "id": "IN-HP",
+    "TYPE": "Union Territory",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Haryana",
+    "id": "IN-HR",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Jharkhand",
+    "id": "IN-JH",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Ladakh",
+    "id": "IN-LK",
+    "TYPE": "Union Territory",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Karnataka",
+    "id": "IN-KA",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Kerala",
+    "id": "IN-KL",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Lakshadweep",
+    "id": "IN-LD",
+    "TYPE": "Union Territory",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Maharashtra",
+    "id": "IN-MH",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Meghalaya",
+    "id": "IN-ML",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Manipur",
+    "id": "IN-MN",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Madhya Pradesh",
+    "id": "IN-MP",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Mizoram",
+    "id": "IN-MZ",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Nagaland",
+    "id": "IN-NL",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Odisha",
+    "id": "IN-OR",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Punjab",
+    "id": "IN-PB",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Puducherry",
+    "id": "IN-PY",
+    "TYPE": "Union Territory",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Rajasthan",
+    "id": "IN-RJ",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Sikkim",
+    "id": "IN-SK",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Telangana",
+    "id": "IN-TG",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Tamil Nadu",
+    "id": "IN-TN",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Tripura",
+    "id": "IN-TR",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Uttar Pradesh",
+    "id": "IN-UP",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Uttarakhand",
+    "id": "IN-UT",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "West Bengal",
+    "id": "IN-WB",
+    "TYPE": "State",
+    "CNTRY": "India"
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "id": "IN-JK",
+    "TYPE": "Union Territory",
+    "CNTRY": "India"
+  }
+]

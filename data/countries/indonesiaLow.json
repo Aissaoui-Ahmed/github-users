@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Aceh",
+    "id": "ID-AC",
+    "NAME_ENG": "Aceh",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bali",
+    "id": "ID-BA",
+    "NAME_ENG": "Bali",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Kepulauan Bangka Belitung",
+    "id": "ID-BB",
+    "NAME_ENG": "Bangka–Belitung Islands",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bengkulu",
+    "id": "ID-BE",
+    "NAME_ENG": "Bengkulu",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Banten",
+    "id": "ID-BT",
+    "NAME_ENG": "Banten",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Gorontalo",
+    "id": "ID-GO",
+    "NAME_ENG": "Gorontalo",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Jambi",
+    "id": "ID-JA",
+    "NAME_ENG": "Jambi",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Jawa Barat",
+    "id": "ID-JB",
+    "NAME_ENG": "West Java",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Jawa Timur",
+    "id": "ID-JI",
+    "NAME_ENG": "East Java",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Jakarta Raya",
+    "id": "ID-JK",
+    "NAME_ENG": "Jakarta",
+    "CNTRY": "Indonesia",
+    "TYPE": "Capital District",
+    "TYPE_ENG": "Special Region"
+  },
+  {
+    "name": "Jawa Tengah",
+    "id": "ID-JT",
+    "NAME_ENG": "Central Java",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Kepulauan Riau",
+    "id": "ID-KR",
+    "NAME_ENG": "Riau Islands",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Kalimantan Barat",
+    "id": "ID-KB",
+    "NAME_ENG": "West Kalimantan",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Kalimantan Timur",
+    "id": "ID-KI",
+    "NAME_ENG": "East Kalimantan",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Kalimantan Selatan",
+    "id": "ID-KS",
+    "NAME_ENG": "South Kalimantan",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Kalimantan Tengah",
+    "id": "ID-KT",
+    "NAME_ENG": "Central Kalimantan",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Kalimantan Utara",
+    "id": "ID-KU",
+    "NAME_ENG": "North Kalimantan",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Lampung",
+    "id": "ID-LA",
+    "NAME_ENG": "Lampung",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Maluku",
+    "id": "ID-MA",
+    "NAME_ENG": "Maluku",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Maluku Utara",
+    "id": "ID-MU",
+    "NAME_ENG": "North Maluku",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Nusa Tenggara Barat",
+    "id": "ID-NB",
+    "NAME_ENG": "West Nusa Tenggara",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Nusa Tenggara Timur",
+    "id": "ID-NT",
+    "NAME_ENG": "East Nusa Tenggara",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Papua",
+    "id": "ID-PA",
+    "NAME_ENG": "Papua",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Papua Barat",
+    "id": "ID-PB",
+    "NAME_ENG": "West Papua",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Riau",
+    "id": "ID-RI",
+    "NAME_ENG": "Riau",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sulawesi Utara",
+    "id": "ID-SA",
+    "NAME_ENG": "North Sulawesi",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sumatera Barat",
+    "id": "ID-SB",
+    "NAME_ENG": "West Sumatra",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sulawesi Tenggara",
+    "id": "ID-SG",
+    "NAME_ENG": "Southeast Sulawesi",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sulawesi Selatan",
+    "id": "ID-SN",
+    "NAME_ENG": "South Sulawesi",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sulawesi Barat",
+    "id": "ID-SR",
+    "NAME_ENG": "West Sulawesi",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sumatera Selatan",
+    "id": "ID-SS",
+    "NAME_ENG": "South Sumatra",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sulawesi Tengah",
+    "id": "ID-ST",
+    "NAME_ENG": "Central Sulawesi",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sumatera Utara",
+    "id": "ID-SU",
+    "NAME_ENG": "North Sumatra",
+    "CNTRY": "Indonesia",
+    "TYPE": "Propinsi",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Yogyakarta",
+    "id": "ID-YO",
+    "NAME_ENG": "Yogyakarta",
+    "CNTRY": "Indonesia",
+    "TYPE": "Daerah Istimewa",
+    "TYPE_ENG": "Special Region"
+  },
+  {
+    "name": "Timor-Leste",
+    "id": "TL",
+    "NAME_ENG": "Timor-Leste",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Nation",
+    "TYPE_ENG": "Nation"
+  },
+  {
+    "name": "Sabah",
+    "id": "MY-12",
+    "NAME_ENG": "Sabah",
+    "CNTRY": "Malaysia",
+    "TYPE": "Negeri",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Sarawak",
+    "id": "MY-13",
+    "NAME_ENG": "Sarawak",
+    "CNTRY": "Malaysia",
+    "TYPE": "Negeri",
+    "TYPE_ENG": "State"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "id": "BN",
+    "NAME_ENG": "Brunei Darussalam",
+    "CNTRY": "Malaysia",
+    "TYPE": "Negeri",
+    "TYPE_ENG": "State"
+  }
+]

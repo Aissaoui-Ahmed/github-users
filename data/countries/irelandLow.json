@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Northern Ireland",
+    "id": "GB-NIR",
+    "CNTRY": "Great Britain",
+    "TYPE": "Nation"
+  },
+  {
+    "name": "Clare",
+    "id": "IE-CE",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Cavan",
+    "id": "IE-CN",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Cork",
+    "id": "IE-CO",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Carlow",
+    "id": "IE-CW",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Dublin",
+    "id": "IE-D",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Donegal",
+    "id": "IE-DL",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Galway",
+    "id": "IE-G",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kildare",
+    "id": "IE-KE",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kilkenny",
+    "id": "IE-KK",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kerry",
+    "id": "IE-KY",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Longford",
+    "id": "IE-LD",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Louth",
+    "id": "IE-LH",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Limerick",
+    "id": "IE-LK",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Leitrim",
+    "id": "IE-LM",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Laois",
+    "id": "IE-LS",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Meath",
+    "id": "IE-MH",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Monaghan",
+    "id": "IE-MN",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Mayo",
+    "id": "IE-MO",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Offaly",
+    "id": "IE-OY",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Roscommon",
+    "id": "IE-RN",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Sligo",
+    "id": "IE-SO",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Tipperary",
+    "id": "IE-TA",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Waterford",
+    "id": "IE-WD",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Westmeath",
+    "id": "IE-WH",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Wicklow",
+    "id": "IE-WW",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  },
+  {
+    "name": "Wexford",
+    "id": "IE-WX",
+    "CNTRY": "Ireland",
+    "TYPE": "County"
+  }
+]

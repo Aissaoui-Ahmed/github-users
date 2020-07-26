@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Al Iskandariyah",
+    "id": "EG-ALX",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Alexandria",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Aswan",
+    "id": "EG-ASN",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Aswan",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Asyut",
+    "id": "EG-AST",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Asyut",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Bahr al Ahmar",
+    "id": "EG-BA",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Red Sea",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Buhayrah",
+    "id": "EG-BH",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Beheira",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Bani Suwayf",
+    "id": "EG-BNS",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Beni Suef",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "al Qahira",
+    "id": "EG-C",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Cairo",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Ad Daqahliyah",
+    "id": "EG-DK",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Dakahlia",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Dumyat",
+    "id": "EG-DT",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Damietta",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Fayyum",
+    "id": "EG-FYM",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Faiyum",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Gharbiyah",
+    "id": "EG-GH",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Gharbia",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Jizah",
+    "id": "EG-GZ",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Giza",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Isma iliyyah",
+    "id": "EG-IS",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Ismailia",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Janub Sina",
+    "id": "EG-JS",
+    "TYPE": "Governorate",
+    "NAME_ENG": "South Sinai",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Qalyubiyah",
+    "id": "EG-KB",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Qalyubia",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Kafr ash Shaykh",
+    "id": "EG-KFS",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Kafr el-Sheikh",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Qina",
+    "id": "EG-KN",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Qena",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Uqsur",
+    "id": "EG-LX",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Luxor",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Minya",
+    "id": "EG-MN",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Minya",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Minufiyah",
+    "id": "EG-MNF",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Monufia",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Matruh",
+    "id": "EG-MT",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Matrouh",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Bur Sa`id",
+    "id": "EG-PTS",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Port Said",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Suhaj",
+    "id": "EG-SHG",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Sohag",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Ash Sharqīyah",
+    "id": "EG-SHR",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Al Sharqia",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Shamal Sina",
+    "id": "EG-SIN",
+    "TYPE": "Governorate",
+    "NAME_ENG": "North Sinai",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "As Suways",
+    "id": "EG-SUZ",
+    "TYPE": "Governorate",
+    "NAME_ENG": "Suez\t",
+    "CNTRY": "Egypt"
+  },
+  {
+    "name": "Al Wadi al Jadid",
+    "id": "EG-WAD",
+    "TYPE": "Governorate",
+    "NAME_ENG": "New Valley",
+    "CNTRY": "Egypt"
+  }
+]

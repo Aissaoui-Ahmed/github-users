@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Tasman",
+    "id": "NZ-TAS",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Auckland",
+    "id": "NZ-AUK",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Bay of Plenty",
+    "id": "NZ-BOP",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Canterbury",
+    "id": "NZ-CAN",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Chatham Islands",
+    "id": "NZ-CIT",
+    "CNTRY": "New Zealand",
+    "TYPE": "Special Island Authority"
+  },
+  {
+    "name": "Gisborne",
+    "id": "NZ-GIS",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Hawke's Bay",
+    "id": "NZ-HKB",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Marlborough",
+    "id": "NZ-MBH",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Manawatu-Wanganui",
+    "id": "NZ-MWT",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Nelson",
+    "id": "NZ-NSN",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Northland",
+    "id": "NZ-NTL",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Otago",
+    "id": "NZ-OTA",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Southland",
+    "id": "NZ-STL",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Taranaki",
+    "id": "NZ-TKI",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Waikato",
+    "id": "NZ-WKO",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Wellington",
+    "id": "NZ-WGN",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  },
+  {
+    "name": "West Coast",
+    "id": "NZ-WTC",
+    "CNTRY": "New Zealand",
+    "TYPE": "Region"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Zagreb County",
+    "id": "HR-01",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Krapina-Zagorje",
+    "id": "HR-02",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Sisak-Moslavina",
+    "id": "HR-03",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Karlovac",
+    "id": "HR-04",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Varaždin",
+    "id": "HR-05",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Koprivnica-Križevci",
+    "id": "HR-06",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Bjelovar-Bilogora",
+    "id": "HR-07",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Primorje-Gorski Kotar",
+    "id": "HR-08",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Lika-Senj",
+    "id": "HR-09",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Virovitica-Podravina",
+    "id": "HR-10",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Požega-Slavonia",
+    "id": "HR-11",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Brod-Posavina",
+    "id": "HR-12",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Zadar",
+    "id": "HR-13",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Osijek-Baranja",
+    "id": "HR-14",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Šibenik-Knin",
+    "id": "HR-15",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Vukovar-Srijem",
+    "id": "HR-16",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Split-Dalmatia",
+    "id": "HR-17",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Istria",
+    "id": "HR-18",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Dubrovnik-Neretva",
+    "id": "HR-19",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Medimurje",
+    "id": "HR-20",
+    "CNTRY": "Croatia",
+    "TYPE": "County"
+  },
+  {
+    "name": "Grad Zagreb",
+    "id": "HR-21",
+    "CNTRY": "Croatia",
+    "TYPE": "City"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Āz̄ārbāyjān-e Ghārbī",
+    "id": "IR-02",
+    "NAME_ENG": "West Azerbaijan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Ardabīl",
+    "id": "IR-03",
+    "NAME_ENG": "Ardabil",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Kordestān",
+    "id": "IR-16",
+    "NAME_ENG": "Kurdistan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Kermānshāh",
+    "id": "IR-17",
+    "NAME_ENG": "Kermanshah",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Īlām",
+    "id": "IR-05",
+    "NAME_ENG": "Ilam",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Lorestān",
+    "id": "IR-20",
+    "NAME_ENG": "Lorestan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Hamadān",
+    "id": "IR-24",
+    "NAME_ENG": "Hamadan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Zanjān",
+    "id": "IR-11",
+    "NAME_ENG": "Zanjan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Markazī",
+    "id": "IR-22",
+    "NAME_ENG": "Markazi",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Qazvīn",
+    "id": "IR-28",
+    "NAME_ENG": "Qazvin",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Alborz",
+    "id": "IR-32",
+    "NAME_ENG": "Alborz",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Tehrān",
+    "id": "IR-07",
+    "NAME_ENG": "Tehran",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Gīlān",
+    "id": "IR-19",
+    "NAME_ENG": "Gilan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Māzandarān",
+    "id": "IR-21",
+    "NAME_ENG": "Mazandaran",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Golestān",
+    "id": "IR-27",
+    "NAME_ENG": "Golestan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Semnān",
+    "id": "IR-12",
+    "NAME_ENG": "Semnan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Khorāsān-e Shomālī",
+    "id": "IR-31",
+    "NAME_ENG": "North Khorasan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Khorāsān-e Raẕavī",
+    "id": "IR-30",
+    "NAME_ENG": "Razavi Khorasan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Qom",
+    "id": "IR-26",
+    "NAME_ENG": "Qom",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Eşfahān",
+    "id": "IR-04",
+    "NAME_ENG": "Isfahan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Khorāsān-e Jonūbī",
+    "id": "IR-29",
+    "NAME_ENG": "South Khorasan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Kermān",
+    "id": "IR-15",
+    "NAME_ENG": "Kerman",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Yazd",
+    "id": "IR-25",
+    "NAME_ENG": "Yazd",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Fārs",
+    "id": "IR-14",
+    "NAME_ENG": "Fars",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Chahār Maḩāl va Bakhtīārī",
+    "id": "IR-08",
+    "NAME_ENG": "Chahar Mahaal and Bakhtiari",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Khūzestān",
+    "id": "IR-10",
+    "NAME_ENG": "Khuzestan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "id": "IR-18",
+    "NAME_ENG": "Kohgiluyeh and Boyer-Ahmad",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Būshehr",
+    "id": "IR-06",
+    "NAME_ENG": "Bushehr",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Hormozgān",
+    "id": "IR-23",
+    "NAME_ENG": "Hormozgān",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Sīstān va Balūchestān",
+    "id": "IR-13",
+    "NAME_ENG": "Sistan and Baluchestan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  },
+  {
+    "name": "Āz̄ārbāyjān-e Shārqī",
+    "id": "IR-01",
+    "NAME_ENG": "East Azerbaijan",
+    "CNTRY": "Iran",
+    "TYPE": "Ostan",
+    "TYPE_EN": "Province"
+  }
+]

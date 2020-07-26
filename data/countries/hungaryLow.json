@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Bács-Kiskun",
+    "id": "HU-BK",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Baranya",
+    "id": "HU-BA",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Békés",
+    "id": "HU-BE",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Borsod-Abaúji-Zemplén",
+    "id": "HU-BZ",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Budapest",
+    "id": "HU-BU",
+    "CNTRY": "Hungary",
+    "TYPE": "Capital City"
+  },
+  {
+    "name": "Csongrád",
+    "id": "HU-CS",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Fejér",
+    "id": "HU-FE",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Hajdú-Bihar",
+    "id": "HU-HB",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Heves",
+    "id": "HU-HE",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Jász-Nagykun-Szolnok",
+    "id": "HU-JN",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Komárom-Esztergom",
+    "id": "HU-KE",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Nógrád",
+    "id": "HU-NO",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Pest",
+    "id": "HU-PE",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Somogy",
+    "id": "HU-SO",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Győr-Moson-Sopron",
+    "id": "HU-GS",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Szalbolcs-Szatmár-Bereg",
+    "id": "HU-SZ",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Vas",
+    "id": "HU-VA",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Tolna",
+    "id": "HU-TO",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Veszprém",
+    "id": "HU-VE",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  },
+  {
+    "name": "Zala",
+    "id": "HU-ZA",
+    "CNTRY": "Hungary",
+    "TYPE": "County"
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Adana",
+    "id": "TR-01",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Adıyaman",
+    "id": "TR-02",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Afyon",
+    "id": "TR-03",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ağrı",
+    "id": "TR-04",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Aksaray",
+    "id": "TR-68",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Amasya",
+    "id": "TR-05",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ankara",
+    "id": "TR-06",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Antalya",
+    "id": "TR-07",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ardahan",
+    "id": "TR-75",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Artvin",
+    "id": "TR-08",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Aydin",
+    "id": "TR-09",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Balıkesir",
+    "id": "TR-10",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bartın",
+    "id": "TR-74",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Batman",
+    "id": "TR-72",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bayburt",
+    "id": "TR-69",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bilecik",
+    "id": "TR-11",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bingöl",
+    "id": "TR-12",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bitlis",
+    "id": "TR-13",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bolu",
+    "id": "TR-14",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Burdur",
+    "id": "TR-15",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bursa",
+    "id": "TR-16",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Çanakkale",
+    "id": "TR-17",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Çankırı",
+    "id": "TR-18",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Çorum",
+    "id": "TR-19",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Denizli",
+    "id": "TR-20",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Diyarbakır",
+    "id": "TR-21",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Düzce",
+    "id": "TR-81",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Edirne",
+    "id": "TR-22",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Elazığ",
+    "id": "TR-23",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Erzincan",
+    "id": "TR-24",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Erzurum",
+    "id": "TR-25",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Eskişehir",
+    "id": "TR-26",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Gaziantep",
+    "id": "TR-27",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Giresun",
+    "id": "TR-28",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Gümüşhane",
+    "id": "TR-29",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Hakkâri",
+    "id": "TR-30",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Hatay",
+    "id": "TR-31",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Mersin",
+    "id": "TR-33",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Iğdır",
+    "id": "TR-76",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Isparta",
+    "id": "TR-32",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "İstanbul",
+    "id": "TR-34",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "İzmir",
+    "id": "TR-35",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kahramanmaraş",
+    "id": "TR-46",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Karabük",
+    "id": "TR-78",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Karaman",
+    "id": "TR-70",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kars",
+    "id": "TR-36",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kastamonu",
+    "id": "TR-37",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kayseri",
+    "id": "TR-38",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kilis",
+    "id": "TR-79",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kırıkkale",
+    "id": "TR-71",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kırklareli",
+    "id": "TR-39",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kırşehir",
+    "id": "TR-40",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kocaeli",
+    "id": "TR-41",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Konya",
+    "id": "TR-42",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kütahya",
+    "id": "TR-43",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Malatya",
+    "id": "TR-44",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Manisa",
+    "id": "TR-45",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Mardin",
+    "id": "TR-47",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Muğla",
+    "id": "TR-48",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Muş",
+    "id": "TR-49",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nevşehir",
+    "id": "TR-50",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Niğde",
+    "id": "TR-51",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ordu",
+    "id": "TR-52",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Osmaniye",
+    "id": "TR-80",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Rize",
+    "id": "TR-53",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sakarya",
+    "id": "TR-54",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Samsun",
+    "id": "TR-55",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Şanlıurfa",
+    "id": "TR-63",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Siirt",
+    "id": "TR-56",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sinop",
+    "id": "TR-57",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Şırnak",
+    "id": "TR-73",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sivas",
+    "id": "TR-58",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Tekirdağ",
+    "id": "TR-59",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Tokat",
+    "id": "TR-60",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Trabzon",
+    "id": "TR-61",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Tunceli",
+    "id": "TR-62",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Usak",
+    "id": "TR-64",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Van",
+    "id": "TR-65",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Yalova",
+    "id": "TR-77",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Yozgat",
+    "id": "TR-66",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Zonguldak",
+    "id": "TR-67",
+    "CNTRY": "Turkey",
+    "TYPE": "Province"
+  }
+]

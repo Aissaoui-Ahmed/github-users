@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Abkhazia",
+    "id": "GE-AB",
+    "CNTRY": "Georgia",
+    "TYPE": "Autonomous Republic"
+  },
+  {
+    "name": "Ajaria",
+    "id": "GE-AJ",
+    "CNTRY": "Georgia",
+    "TYPE": "Autonomous Republic"
+  },
+  {
+    "name": "Guria",
+    "id": "GE-GU",
+    "CNTRY": "Georgia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Imereti",
+    "id": "GE-IM",
+    "CNTRY": "Georgia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "K'akheti",
+    "id": "GE-KA",
+    "CNTRY": "Georgia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Kvemo Kartli",
+    "id": "GE-KK",
+    "CNTRY": "Georgia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Mtskheta-Mtianeti",
+    "id": "GE-MM",
+    "CNTRY": "Georgia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Rach'a-Lechkhumi-Kvemo Svaneti",
+    "id": "GE-RL",
+    "CNTRY": "Georgia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Samtskhe-Javakheti",
+    "id": "GE-SJ",
+    "CNTRY": "Georgia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Shida Kartli",
+    "id": "GE-SK",
+    "CNTRY": "Georgia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Samegrelo-Zemo Svaneti",
+    "id": "GE-SZ",
+    "CNTRY": "Georgia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Tbilisi",
+    "id": "GE-TB",
+    "CNTRY": "Georgia",
+    "TYPE": "City"
+  }
+]

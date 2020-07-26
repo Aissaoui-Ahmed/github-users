@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Putrajaya",
+    "id": "MY-16",
+    "CNTRY": "Malaysia",
+    "TYPE": "Federal Territory"
+  },
+  {
+    "name": "Labuan",
+    "id": "MY-15",
+    "CNTRY": "Malaysia",
+    "TYPE": "Federal Territory"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "id": "MY-14",
+    "CNTRY": "Malaysia",
+    "TYPE": "Federal Territory"
+  },
+  {
+    "name": "Sarawak",
+    "id": "MY-13",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Sabah",
+    "id": "MY-12",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Trengganu",
+    "id": "MY-11",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Selangor",
+    "id": "MY-10",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Perlis",
+    "id": "MY-09",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Perak",
+    "id": "MY-08",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Pulau Pinang",
+    "id": "MY-07",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Pahang",
+    "id": "MY-06",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Negeri Sembilan",
+    "id": "MY-05",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Melaka",
+    "id": "MY-04",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Kelantan",
+    "id": "MY-03",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Kedah",
+    "id": "MY-02",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Johor",
+    "id": "MY-01",
+    "CNTRY": "Malaysia",
+    "TYPE": "State"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "id": "BN",
+    "CNTRY": "Brunei Darussalam",
+    "TYPE": "Country"
+  }
+]

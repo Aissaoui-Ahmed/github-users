@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Zambezi",
+    "id": "NA-CA",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Erongo",
+    "id": "NA-ER",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Hardap",
+    "id": "NA-HA",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Karas",
+    "id": "NA-KA",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Kavango East",
+    "id": "NA-KE",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Khomas",
+    "id": "NA-KH",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Kunene",
+    "id": "NA-KU",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Kavango West",
+    "id": "NA-KW",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Otjozondjupa",
+    "id": "NA-OD",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Omaheke",
+    "id": "NA-OH",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Oshana",
+    "id": "NA-ON",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Omusati",
+    "id": "NA-OS",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Oshikoto",
+    "id": "NA-OT",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ohangwena",
+    "id": "NA-OW",
+    "CNTRY": "Namibia",
+    "TYPE": "Region"
+  }
+]

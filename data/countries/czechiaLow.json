@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Praha",
+    "id": "CZ-10",
+    "CNTRY": "Czechia",
+    "TYPE": "City",
+    "NAME_ENG": "Prague"
+  },
+  {
+    "name": "Středočeský",
+    "id": "CZ-20",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Central Bohemia"
+  },
+  {
+    "name": "Jihočeský",
+    "id": "CZ-31",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "South Bohemia"
+  },
+  {
+    "name": "Plzeňský",
+    "id": "CZ-32",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Plzeň"
+  },
+  {
+    "name": "Karlovarský",
+    "id": "CZ-41",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Karlovy Vary"
+  },
+  {
+    "name": "Ústecký",
+    "id": "CZ-42",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Ústí nad Labem"
+  },
+  {
+    "name": "Liberecký",
+    "id": "CZ-51",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Liberec"
+  },
+  {
+    "name": "Královéhradecký",
+    "id": "CZ-52",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Hradec Králové"
+  },
+  {
+    "name": "Pardubický",
+    "id": "CZ-53",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Pardubice"
+  },
+  {
+    "name": "Vysočina",
+    "id": "CZ-63",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Vysočina"
+  },
+  {
+    "name": "Jihomoravský",
+    "id": "CZ-64",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "South Moravia"
+  },
+  {
+    "name": "Olomoucký",
+    "id": "CZ-71",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Olomouc"
+  },
+  {
+    "name": "Zlínský",
+    "id": "CZ-72",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Zlín"
+  },
+  {
+    "name": "Moravskoslezský",
+    "id": "CZ-80",
+    "CNTRY": "Czechia",
+    "TYPE": "Region",
+    "NAME_ENG": "Moravia-Silesia"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Svalbard",
+    "id": "SJSV",
+    "CNTRY": "Svalbard and Jan Mayen",
+    "TYPE": "Territory",
+    "SOVEREIGN": "Norway"
+  },
+  {
+    "name": "Jan Mayen",
+    "id": "SJ-JN",
+    "CNTRY": "Svalbard and Jan Mayen",
+    "TYPE": "Territory",
+    "SOVEREIGN": "Norway"
+  }
+]

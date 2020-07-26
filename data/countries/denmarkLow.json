@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Nordjylland",
+    "id": "DK-81",
+    "NAME_ENG": "North Denmark Region",
+    "TYPE": "Region",
+    "CNTRY": "Denmark"
+  },
+  {
+    "name": "Midtjylland",
+    "id": "DK-82",
+    "NAME_ENG": "Central Denmark Region",
+    "TYPE": "Region",
+    "CNTRY": "Denmark"
+  },
+  {
+    "name": "Syddanmark",
+    "id": "DK-85",
+    "NAME_ENG": "Region of Southern Denmark",
+    "TYPE": "Region",
+    "CNTRY": "Denmark"
+  },
+  {
+    "name": "Hovedstaden",
+    "id": "DK-84",
+    "NAME_ENG": "Capital Region of Denmark",
+    "TYPE": "Region",
+    "CNTRY": "Denmark"
+  },
+  {
+    "name": "Sjælland",
+    "id": "DK-83",
+    "NAME_ENG": "Region Zealand",
+    "TYPE": "Region",
+    "CNTRY": "Denmark"
+  }
+]

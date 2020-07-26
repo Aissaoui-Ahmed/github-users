@@ -1,0 +1,476 @@
+[
+  {
+    "name": "Phatthaya",
+    "id": "TH-S",
+    "CNTRY": "Thailand",
+    "TYPE": "Special Administrative City"
+  },
+  {
+    "name": "Bangkok Metropolis",
+    "id": "TH-10",
+    "CNTRY": "Thailand",
+    "TYPE": "Metropolitan Administration"
+  },
+  {
+    "name": "Samut Prakan",
+    "id": "TH-11",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nonthaburi",
+    "id": "TH-12",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Pathum Thani",
+    "id": "TH-13",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Phra Nakhon Si Ayutthaya",
+    "id": "TH-14",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ang Thong",
+    "id": "TH-15",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Lop Buri",
+    "id": "TH-16",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sing Buri",
+    "id": "TH-17",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Chai Nat",
+    "id": "TH-18",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Saraburi",
+    "id": "TH-19",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Chon Buri",
+    "id": "TH-20",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Rayong",
+    "id": "TH-21",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Chanthaburi",
+    "id": "TH-22",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Trat",
+    "id": "TH-23",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Chachoengsao",
+    "id": "TH-24",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Prachin Buri",
+    "id": "TH-25",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nakhon Nayok",
+    "id": "TH-26",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sa Kaeo",
+    "id": "TH-27",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nakhon Ratchasima",
+    "id": "TH-30",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Buri Ram",
+    "id": "TH-31",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Surin",
+    "id": "TH-32",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Si Sa Ket",
+    "id": "TH-33",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ubon Ratchathani",
+    "id": "TH-34",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Yasothon",
+    "id": "TH-35",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Chaiyaphum",
+    "id": "TH-36",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Amnat Charoen",
+    "id": "TH-37",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Bueng Kan",
+    "id": "TH-38",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nong Bua Lam Phu",
+    "id": "TH-39",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Khon Kaen",
+    "id": "TH-40",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Udon Thani",
+    "id": "TH-41",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Loei",
+    "id": "TH-42",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nong Khai",
+    "id": "TH-43",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Maha Sarakham",
+    "id": "TH-44",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Roi Et",
+    "id": "TH-45",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kalasin",
+    "id": "TH-46",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sakon Nakhon",
+    "id": "TH-47",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nakhon Phanom",
+    "id": "TH-48",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Mukdahan",
+    "id": "TH-49",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Chiang Mai",
+    "id": "TH-50",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Lamphun",
+    "id": "TH-51",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Lampang",
+    "id": "TH-52",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Uttaradit",
+    "id": "TH-53",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Phrae",
+    "id": "TH-54",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nan",
+    "id": "TH-55",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Phayao",
+    "id": "TH-56",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Chiang Rai",
+    "id": "TH-57",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Mae Hong Son",
+    "id": "TH-58",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nakhon Sawan",
+    "id": "TH-60",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Uthai Thani",
+    "id": "TH-61",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kamphaeng Phet",
+    "id": "TH-62",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Tak",
+    "id": "TH-63",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Sukhothai",
+    "id": "TH-64",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Phitsanulok",
+    "id": "TH-65",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Phichit",
+    "id": "TH-66",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Phetchabun",
+    "id": "TH-67",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ratchaburi",
+    "id": "TH-70",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Kanchanaburi",
+    "id": "TH-71",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Suphan Buri",
+    "id": "TH-72",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nakhon Pathom",
+    "id": "TH-73",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Samut Sakhon",
+    "id": "TH-74",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Samut Songkhram",
+    "id": "TH-75",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Phetchaburi",
+    "id": "TH-76",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Prachuap Khiri Khan",
+    "id": "TH-77",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Nakhon Si Thammarat",
+    "id": "TH-80",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Krabi",
+    "id": "TH-81",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Phangnga",
+    "id": "TH-82",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Phuket",
+    "id": "TH-83",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Surat Thani",
+    "id": "TH-84",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ranong",
+    "id": "TH-85",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Chumphon",
+    "id": "TH-86",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Songkhla",
+    "id": "TH-90",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Satun",
+    "id": "TH-91",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Trang",
+    "id": "TH-92",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Phatthalung",
+    "id": "TH-93",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Pattani",
+    "id": "TH-94",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Yala",
+    "id": "TH-95",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Narathiwat",
+    "id": "TH-96",
+    "CNTRY": "Thailand",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Songkhla Lake",
+    "id": "TH-LK",
+    "CNTRY": "Thailand",
+    "TYPE": "Lake"
+  }
+]

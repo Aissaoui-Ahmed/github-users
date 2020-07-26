@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Abia",
+    "id": "NG-AB",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Adamawa",
+    "id": "NG-AD",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Akwa Ibom",
+    "id": "NG-AK",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Anambra",
+    "id": "NG-AN",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Bauchi",
+    "id": "NG-BA",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Benue",
+    "id": "NG-BE",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Borno",
+    "id": "NG-BO",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Bayelsa",
+    "id": "NG-BY",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Cross River",
+    "id": "NG-CR",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Delta",
+    "id": "NG-DE",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Ebonyi",
+    "id": "NG-EB",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Edo",
+    "id": "NG-ED",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Ekiti",
+    "id": "NG-EK",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Enugu",
+    "id": "NG-EN",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Abuja Federal Capital Territory",
+    "id": "NG-FC",
+    "TYPE": "Capital Territory",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Gombe",
+    "id": "NG-GO",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Imo",
+    "id": "NG-IM",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Jigawa",
+    "id": "NG-JI",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Kaduna",
+    "id": "NG-KD",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Kebbi",
+    "id": "NG-KE",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Kano",
+    "id": "NG-KN",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Kogi",
+    "id": "NG-KO",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Katsina",
+    "id": "NG-KT",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Kwara",
+    "id": "NG-KW",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Lagos",
+    "id": "NG-LA",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Nasarawa",
+    "id": "NG-NA",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Niger",
+    "id": "NG-NI",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Ogun",
+    "id": "NG-OG",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Ondo",
+    "id": "NG-ON",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Osun",
+    "id": "NG-OS",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Oyo",
+    "id": "NG-OY",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Plateau",
+    "id": "NG-PL",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Rivers",
+    "id": "NG-RI",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Sokoto",
+    "id": "NG-SO",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Taraba",
+    "id": "NG-TA",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Yobe",
+    "id": "NG-YO",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  },
+  {
+    "name": "Zamfara",
+    "id": "NG-ZA",
+    "TYPE": "State",
+    "CNTRY": "Nigeria"
+  }
+]

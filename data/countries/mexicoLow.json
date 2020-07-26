@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Zacatecas",
+    "id": "MX-ZAC",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Yucatán",
+    "id": "MX-YUC",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Veracruz",
+    "id": "MX-VER",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Tlaxcala",
+    "id": "MX-TLA",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Tamaulipas",
+    "id": "MX-TAM",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Tabasco",
+    "id": "MX-TAB",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Sonora",
+    "id": "MX-SON",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Sinaloa",
+    "id": "MX-SIN",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "San Luis Potosí",
+    "id": "MX-SLP",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Quintana Roo",
+    "id": "MX-ROO",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Querétaro",
+    "id": "MX-QUE",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Puebla",
+    "id": "MX-PUE",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Oaxaca",
+    "id": "MX-OAX",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Nuevo León",
+    "id": "MX-NLE",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Nayarit",
+    "id": "MX-NAY",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Morelos",
+    "id": "MX-MOR",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Michoacán",
+    "id": "MX-MIC",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "México",
+    "id": "MX-MEX",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Jalisco",
+    "id": "MX-JAL",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Hidalgo",
+    "id": "MX-HID",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Guerrero",
+    "id": "MX-GRO",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Guanajuato",
+    "id": "MX-GUA",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Durango",
+    "id": "MX-DUR",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Ciudad de México",
+    "id": "MX-CMX",
+    "CNTRY": "Mexico",
+    "TYPE": "Federal District"
+  },
+  {
+    "name": "Colima",
+    "id": "MX-COL",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Coahuila",
+    "id": "MX-COA",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Chihuahua",
+    "id": "MX-CHH",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Chiapas",
+    "id": "MX-CHP",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Campeche",
+    "id": "MX-CAM",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Baja California Sur",
+    "id": "MX-BCS",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Baja California",
+    "id": "MX-BCN",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  },
+  {
+    "name": "Aguascalientes",
+    "id": "MX-AGU",
+    "CNTRY": "Mexico",
+    "TYPE": "State"
+  }
+]

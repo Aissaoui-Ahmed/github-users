@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Distrito Nacional",
+    "id": "DO-01",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "National District"
+  },
+  {
+    "name": "Azua",
+    "id": "DO-02",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bahoruco",
+    "id": "DO-03",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Barahona",
+    "id": "DO-04",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Dajabón",
+    "id": "DO-05",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Duarte",
+    "id": "DO-06",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Elías Piña",
+    "id": "DO-07",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "El Seibo",
+    "id": "DO-08",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Espaillat",
+    "id": "DO-09",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Independencia",
+    "id": "DO-10",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "La Altagracia",
+    "id": "DO-11",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "La Romana",
+    "id": "DO-12",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "La Vega",
+    "id": "DO-13",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "María Trinidad Sánchez",
+    "id": "DO-14",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Monte Cristi",
+    "id": "DO-15",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Pedernales",
+    "id": "DO-16",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Peravia",
+    "id": "DO-17",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Puerto Plata",
+    "id": "DO-18",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Hermanas Mirabal",
+    "id": "DO-19",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Samaná",
+    "id": "DO-20",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "San Cristóbal",
+    "id": "DO-21",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "San Juan",
+    "id": "DO-22",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "San Pedro de Macorís",
+    "id": "DO-23",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sánchez Ramírez",
+    "id": "DO-24",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Santiago",
+    "id": "DO-25",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Santiago Rodríguez",
+    "id": "DO-26",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Valverde",
+    "id": "DO-27",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Monseñor Nouel",
+    "id": "DO-28",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Monte Plata",
+    "id": "DO-29",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Hato Mayor",
+    "id": "DO-30",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "San José de Ocoa",
+    "id": "DO-31",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Santo Domingo",
+    "id": "DO-32",
+    "CNTRY": "Dominican Republic",
+    "TYPE": "Provincia",
+    "TYPE_ENG": "Province"
+  }
+]

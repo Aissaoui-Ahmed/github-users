@@ -1,0 +1,716 @@
+[
+  {
+    "name": "Daugavpils",
+    "id": "LV-DGV",
+    "CNTRY": "Latvia",
+    "TYPE": "Republican City"
+  },
+  {
+    "name": "Jelgava",
+    "id": "LV-JEL",
+    "CNTRY": "Latvia",
+    "TYPE": "Republican City"
+  },
+  {
+    "name": "Jēkabpils",
+    "id": "LV-JKB",
+    "CNTRY": "Latvia",
+    "TYPE": "Republican City"
+  },
+  {
+    "name": "Jūrmala",
+    "id": "LV-JUR",
+    "CNTRY": "Latvia",
+    "TYPE": "Republican City"
+  },
+  {
+    "name": "Liepāja",
+    "id": "LV-LPX",
+    "CNTRY": "Latvia",
+    "TYPE": "Republican City"
+  },
+  {
+    "name": "Rēzekne",
+    "id": "LV-REZ",
+    "CNTRY": "Latvia",
+    "TYPE": "Republican City"
+  },
+  {
+    "name": "Rīga",
+    "id": "LV-RIX",
+    "CNTRY": "Latvia",
+    "TYPE": "Republican City"
+  },
+  {
+    "name": "Ventspils",
+    "id": "LV-VEN",
+    "CNTRY": "Latvia",
+    "TYPE": "Republican City"
+  },
+  {
+    "name": "Valmiera",
+    "id": "LV-VMR",
+    "CNTRY": "Latvia",
+    "TYPE": "Republican City"
+  },
+  {
+    "name": "Aglonas novads",
+    "id": "LV-001",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Aizkraukles novads",
+    "id": "LV-002",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Aizputes novads",
+    "id": "LV-003",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Aknistes novads",
+    "id": "LV-004",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Alojas novads",
+    "id": "LV-005",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Alsungas novads",
+    "id": "LV-006",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Aluksnes novads",
+    "id": "LV-007",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Amatas novads",
+    "id": "LV-008",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Apes novads",
+    "id": "LV-009",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Auces novads",
+    "id": "LV-010",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ādažu novads",
+    "id": "LV-011",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Babītes novads",
+    "id": "LV-012",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Baldones novads",
+    "id": "LV-013",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Baltinavas novads",
+    "id": "LV-014",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Balvu novads",
+    "id": "LV-015",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Bauskas novads",
+    "id": "LV-016",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Beverīnas novads",
+    "id": "LV-017",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Brocēnu novads",
+    "id": "LV-018",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Burtnieku novads",
+    "id": "LV-019",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Carnikavas novads",
+    "id": "LV-020",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cesvaines novads",
+    "id": "LV-021",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cēsu novads",
+    "id": "LV-022",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ciblas novads",
+    "id": "LV-023",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dagdas novads",
+    "id": "LV-024",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Daugavpils novads",
+    "id": "LV-025",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dobeles novads",
+    "id": "LV-026",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dundagas novads",
+    "id": "LV-027",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Durbes novads",
+    "id": "LV-028",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Engures novads",
+    "id": "LV-029",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ērgļu novads",
+    "id": "LV-030",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Garkalnes novads",
+    "id": "LV-031",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Grobiņas novads",
+    "id": "LV-032",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Gulbenes novads",
+    "id": "LV-033",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Iecavas novads",
+    "id": "LV-034",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ikšķiles novads",
+    "id": "LV-035",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ilūkstes novads",
+    "id": "LV-036",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Inčukalna novads",
+    "id": "LV-037",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Jaunjelgavas novads",
+    "id": "LV-038",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Jaunpiebalgas novads",
+    "id": "LV-039",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Jaunpils novads",
+    "id": "LV-040",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Jelgavas novads",
+    "id": "LV-041",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Jēkabpils novads",
+    "id": "LV-042",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kandavas novads",
+    "id": "LV-043",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kārsavas novads",
+    "id": "LV-044",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kocēnu novads",
+    "id": "LV-045",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kokneses novads",
+    "id": "LV-046",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Krāslavas novads",
+    "id": "LV-047",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Krimuldas novads",
+    "id": "LV-048",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Krustpils novads",
+    "id": "LV-049",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Kuldīgas novads",
+    "id": "LV-050",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ķeguma novads",
+    "id": "LV-051",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ķekavas novads",
+    "id": "LV-052",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Lielvārdes novads",
+    "id": "LV-053",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Limbažu novads",
+    "id": "LV-054",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Līgatnes novads",
+    "id": "LV-055",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Līvānu novads",
+    "id": "LV-056",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Lubānas novads",
+    "id": "LV-057",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ludzas novads",
+    "id": "LV-058",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Madonas novads",
+    "id": "LV-059",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mazsalacas novads",
+    "id": "LV-060",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mālpils novads",
+    "id": "LV-061",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mārupes novads",
+    "id": "LV-062",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Mērsraga novads",
+    "id": "LV-063",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Naukšēnu novads",
+    "id": "LV-064",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Neretas novads",
+    "id": "LV-065",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Nīcas novads",
+    "id": "LV-066",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ogres novads",
+    "id": "LV-067",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Olaines novads",
+    "id": "LV-068",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ozolnieku novads",
+    "id": "LV-069",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Pārgaujas novads",
+    "id": "LV-070",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Pāvilostas novads",
+    "id": "LV-071",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Pļaviņu novads",
+    "id": "LV-072",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Preiļu novads",
+    "id": "LV-073",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Priekules novads",
+    "id": "LV-074",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Priekuļu novads",
+    "id": "LV-075",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Raunas novads",
+    "id": "LV-076",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rēzeknes novads",
+    "id": "LV-077",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Riebiņu novads",
+    "id": "LV-078",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rojas novads",
+    "id": "LV-079",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ropažu novads",
+    "id": "LV-080",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rucavas novads",
+    "id": "LV-081",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rugāju novads",
+    "id": "LV-082",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rundāles novads",
+    "id": "LV-083",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Rūjienas novads",
+    "id": "LV-084",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Salas novads",
+    "id": "LV-085",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Salacgrīvas novads",
+    "id": "LV-086",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Salaspils novads",
+    "id": "LV-087",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Saldus novads",
+    "id": "LV-088",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Saulkrastu novads",
+    "id": "LV-089",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Sējas novads",
+    "id": "LV-090",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Siguldas novads",
+    "id": "LV-091",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Skrīveru novads",
+    "id": "LV-092",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Skrundas novads",
+    "id": "LV-093",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Smiltenes novads",
+    "id": "LV-094",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Stopiņu novads",
+    "id": "LV-095",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Strenču novads",
+    "id": "LV-096",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Talsu novads",
+    "id": "LV-097",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Tērvetes novads",
+    "id": "LV-098",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Tukuma novads",
+    "id": "LV-099",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vaiņodes novads",
+    "id": "LV-100",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Valkas novads",
+    "id": "LV-101",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Varakļānu novads",
+    "id": "LV-102",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vārkavas novads",
+    "id": "LV-103",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vecpiebalgas novads",
+    "id": "LV-104",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Vecumnieku novads",
+    "id": "LV-105",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ventspils novads",
+    "id": "LV-106",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Viesītes novads",
+    "id": "LV-107",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Viļakas novads",
+    "id": "LV-108",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Viļānu novads",
+    "id": "LV-109",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Zilupes novads",
+    "id": "LV-110",
+    "CNTRY": "Latvia",
+    "TYPE": "Municipality"
+  }
+]

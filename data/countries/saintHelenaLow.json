@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Ascension",
+    "id": "SH-AC",
+    "CNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+    "ADMIN": "Ascension",
+    "TYPE": "Administrative Area"
+  },
+  {
+    "name": "Tristan da Cunha",
+    "id": "SH-TA",
+    "CNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+    "ADMIN": "Tristan da Cunha",
+    "TYPE": "Administrative Area"
+  },
+  {
+    "name": "Alarm Forest",
+    "id": "SH-HL-AF",
+    "CNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+    "ADMIN": "Saint Helena",
+    "TYPE": "District"
+  },
+  {
+    "name": "Blue Hill",
+    "id": "SH-HL-BH",
+    "CNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+    "ADMIN": "Saint Helena",
+    "TYPE": "District"
+  },
+  {
+    "name": "Half Tree Hollow",
+    "id": "SH-HL-HT",
+    "CNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+    "ADMIN": "Saint Helena",
+    "TYPE": "District"
+  },
+  {
+    "name": "Jamestown",
+    "id": "SH-HL-JM",
+    "CNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+    "ADMIN": "Saint Helena",
+    "TYPE": "District"
+  },
+  {
+    "name": "Levelwood",
+    "id": "SH-HL-LV",
+    "CNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+    "ADMIN": "Saint Helena",
+    "TYPE": "District"
+  },
+  {
+    "name": "Longwood",
+    "id": "SH-HL-LW",
+    "CNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+    "ADMIN": "Saint Helena",
+    "TYPE": "District"
+  },
+  {
+    "name": "Sandy Bay",
+    "id": "SH-HL-SB",
+    "CNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+    "ADMIN": "Saint Helena",
+    "TYPE": "District"
+  },
+  {
+    "name": "St. Paul's",
+    "id": "SH-HL-SP",
+    "CNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+    "ADMIN": "Saint Helena",
+    "TYPE": "District"
+  }
+]

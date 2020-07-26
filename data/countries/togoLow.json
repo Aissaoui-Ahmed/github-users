@@ -1,0 +1,37 @@
+[
+  {
+    "id": "TG-M",
+    "name": "Maritime",
+    "TYPE": "Région",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Togo"
+  },
+  {
+    "id": "TG-P",
+    "name": "Plateaux",
+    "TYPE": "Région",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Togo"
+  },
+  {
+    "id": "TG-C",
+    "name": "Centrale",
+    "TYPE": "Région",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Togo"
+  },
+  {
+    "id": "TG-K",
+    "name": "Kara",
+    "TYPE": "Région",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Togo"
+  },
+  {
+    "id": "TG-S",
+    "name": "Savanes",
+    "TYPE": "Région",
+    "TYPE_ENG": "Region",
+    "CNTRY": "Togo"
+  }
+]

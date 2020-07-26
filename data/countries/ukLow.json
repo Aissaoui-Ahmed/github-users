@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Scotland",
+    "id": "GB-SCT",
+    "TYPE": "Scotland",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "North East England",
+    "id": "GB-UKC",
+    "TYPE": "England",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "North West England",
+    "id": "GB-UKD",
+    "TYPE": "England",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "Yorkshire and the Humber",
+    "id": "GB-UKE",
+    "TYPE": "England",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "East Midlands",
+    "id": "GB-UKF",
+    "TYPE": "England",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "West Midlands",
+    "id": "GB-UKG",
+    "TYPE": "England",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "East of England",
+    "id": "GB-UKH",
+    "TYPE": "England",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "Greater London",
+    "id": "GB-UKI",
+    "TYPE": "England",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "South East England",
+    "id": "GB-UKJ",
+    "TYPE": "England",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "South West England",
+    "id": "GB-UKK",
+    "TYPE": "England",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "Wales",
+    "id": "GB-WLS",
+    "TYPE": "Wales",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "Northern Ireland",
+    "id": "GB-NIR",
+    "TYPE": "Northern Ireland",
+    "CNTRY": "United Kingdom"
+  },
+  {
+    "name": "Guernsey",
+    "id": "GG",
+    "TYPE": "Guernsey",
+    "CNTRY": "Guernsey"
+  },
+  {
+    "name": "Jersey",
+    "id": "JE",
+    "TYPE": "Jersey",
+    "CNTRY": "Jersey"
+  },
+  {
+    "name": "Isle of Man",
+    "id": "IM",
+    "TYPE": "Isle of Man",
+    "CNTRY": "Isle of man"
+  },
+  {
+    "name": "Ireland",
+    "id": "IE",
+    "TYPE": "Ireland",
+    "CNTRY": "Ireland"
+  }
+]

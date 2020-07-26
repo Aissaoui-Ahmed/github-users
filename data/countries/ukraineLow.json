@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Vinnytsia",
+    "id": "UA-05",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Volyn",
+    "id": "UA-07",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Luhansk",
+    "id": "UA-09",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Dnipropetrovsk",
+    "id": "UA-12",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Donetsk",
+    "id": "UA-14",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Zhytomyr",
+    "id": "UA-18",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Zakarpattia",
+    "id": "UA-21",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Zaporizhzhya",
+    "id": "UA-23",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Ivano-Frankivsk",
+    "id": "UA-26",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kyiv City",
+    "id": "UA-30",
+    "CNTRY": "Ukraine",
+    "TYPE": "City",
+    "TYPE_ENG": "City"
+  },
+  {
+    "name": "Kyiv",
+    "id": "UA-32",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kirovohrad",
+    "id": "UA-35",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Sevastopol",
+    "id": "UA-40",
+    "CNTRY": "Ukraine",
+    "TYPE": "City",
+    "TYPE_ENG": "City"
+  },
+  {
+    "name": "Crimea",
+    "id": "UA-43",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Lviv",
+    "id": "UA-46",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Mykolaiv",
+    "id": "UA-48",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Odessa",
+    "id": "UA-51",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Poltava",
+    "id": "UA-53",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Rivne",
+    "id": "UA-56",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Sumy",
+    "id": "UA-59",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Ternopil",
+    "id": "UA-61",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kharkiv",
+    "id": "UA-63",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kherson",
+    "id": "UA-65",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Khmelnytskyi",
+    "id": "UA-68",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Cherkasy",
+    "id": "UA-71",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Chernihiv",
+    "id": "UA-74",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Chernivtsi",
+    "id": "UA-77",
+    "CNTRY": "Ukraine",
+    "TYPE": "Oblast",
+    "TYPE_ENG": "Region"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ER-DK",
+    "name": "Debubawi K’eyyĭḥ Baḥri",
+    "NAME_EN": "Southern Red Sea",
+    "TYPE": "Zoba",
+    "TYPE_EN": "Region",
+    "CNTRY": "Eritrea"
+  },
+  {
+    "id": "ER-DU",
+    "name": "Debub",
+    "NAME_EN": "Debub",
+    "TYPE": "Zoba",
+    "TYPE_EN": "Region",
+    "CNTRY": "Eritrea"
+  },
+  {
+    "id": "ER-SK",
+    "name": "Semienawi K’eyyĭḥ Baḥri",
+    "NAME_EN": "Northern Red Sea",
+    "TYPE": "Zoba",
+    "TYPE_EN": "Region",
+    "CNTRY": "Eritrea"
+  },
+  {
+    "id": "ER-GB",
+    "name": "Gash Barka",
+    "NAME_EN": "Gash-Barka",
+    "TYPE": "Zoba",
+    "TYPE_EN": "Region",
+    "CNTRY": "Eritrea"
+  },
+  {
+    "id": "ER-MA",
+    "name": "Ma’ĭkel",
+    "NAME_EN": "Maekel",
+    "TYPE": "Zoba",
+    "TYPE_EN": "Region",
+    "CNTRY": "Eritrea"
+  },
+  {
+    "id": "ER-AN",
+    "name": "‘Anseba",
+    "NAME_EN": "Anseba",
+    "TYPE": "Zoba",
+    "TYPE_EN": "Region",
+    "CNTRY": "Eritrea"
+  }
+]

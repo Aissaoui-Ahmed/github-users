@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Islamabad",
+    "id": "PK-IS",
+    "TYPE": "Federal Capital Territory",
+    "CNTRY": "Pakistan"
+  },
+  {
+    "name": "Balochistan",
+    "id": "PK-BA",
+    "TYPE": "Province",
+    "CNTRY": "Pakistan"
+  },
+  {
+    "name": "Gilgit-Baltistan",
+    "id": "PK-GB",
+    "TYPE": "Pakistan administered area",
+    "CNTRY": "Pakistan"
+  },
+  {
+    "name": "Azad Jammu and Kashmir",
+    "id": "PK-JK",
+    "TYPE": "Pakistan administered area",
+    "CNTRY": "Pakistan"
+  },
+  {
+    "name": "Punjab",
+    "id": "PK-PB",
+    "TYPE": "Province",
+    "CNTRY": "Pakistan"
+  },
+  {
+    "name": "Sindh",
+    "id": "PK-SD",
+    "TYPE": "Province",
+    "CNTRY": "Pakistan"
+  },
+  {
+    "name": "Khyber Pakhtunkhwa",
+    "id": "PK-KP",
+    "TYPE": "Province",
+    "CNTRY": "Pakistan"
+  }
+]

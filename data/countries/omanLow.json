@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Musandam",
+    "id": "OM-MU",
+    "NAME_ENG": "Musandam",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  },
+  {
+    "name": "United Arab Emirates",
+    "id": "AE",
+    "NAME_ENG": "United Arab Emirates",
+    "TYPE": "Nation",
+    "CNTRY": "United Arab Emirates"
+  },
+  {
+    "name": "Al Buraymī",
+    "id": "OM-BU",
+    "NAME_ENG": "Al Buraimi",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  },
+  {
+    "name": "Ad Dākhilīyah",
+    "id": "OM-DA",
+    "NAME_ENG": "Ad Dakhiliyah",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  },
+  {
+    "name": "Janūb ash Sharqīyah",
+    "id": "OM-SJ",
+    "NAME_ENG": "Ash Sharqiyah South",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  },
+  {
+    "name": "Muscat",
+    "id": "OM-MA",
+    "NAME_ENG": "Muscat",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  },
+  {
+    "name": "Al Wusţá",
+    "id": "OM-WU",
+    "NAME_ENG": "Al Wusta",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  },
+  {
+    "name": "Janūb al Bāţinah",
+    "id": "OM-BJ",
+    "NAME_ENG": "Al Batinah South",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  },
+  {
+    "name": "Dhofar",
+    "id": "OM-ZU",
+    "NAME_ENG": "Dhofar",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  },
+  {
+    "name": "Shamāl ash Sharqīyah",
+    "id": "OM-SS",
+    "NAME_ENG": "Ash Sharqiyah North",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  },
+  {
+    "name": "Az̧ Z̧āhirah",
+    "id": "OM-ZA",
+    "NAME_ENG": "Ad Dhahirah North",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  },
+  {
+    "name": "Shamāl al Bāţinah",
+    "id": "OM-BS",
+    "NAME_ENG": "Al Batinah North",
+    "TYPE": "Governorate",
+    "CNTRY": "Oman"
+  }
+]

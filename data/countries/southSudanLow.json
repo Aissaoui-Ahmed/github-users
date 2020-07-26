@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Western Equatoria",
+    "id": "SS-EW",
+    "CNTRY": "South Sudan",
+    "TYPE": "State"
+  },
+  {
+    "name": "Western Bahr el Ghazal",
+    "id": "SS-BW",
+    "CNTRY": "South Sudan",
+    "TYPE": "State"
+  },
+  {
+    "name": "Warrap",
+    "id": "SS-WR",
+    "CNTRY": "South Sudan",
+    "TYPE": "State"
+  },
+  {
+    "name": "Upper Nile",
+    "id": "SS-NU",
+    "CNTRY": "South Sudan",
+    "TYPE": "State"
+  },
+  {
+    "name": "Unity",
+    "id": "SS-UY",
+    "CNTRY": "South Sudan",
+    "TYPE": "State"
+  },
+  {
+    "name": "Northern Bahr el Ghazal",
+    "id": "SS-BN",
+    "CNTRY": "South Sudan",
+    "TYPE": "State"
+  },
+  {
+    "name": "Lakes",
+    "id": "SS-LK",
+    "CNTRY": "South Sudan",
+    "TYPE": "State"
+  },
+  {
+    "name": "Jonglei",
+    "id": "SS-JG",
+    "CNTRY": "South Sudan",
+    "TYPE": "State"
+  },
+  {
+    "name": "Eastern Equatoria",
+    "id": "SS-EE",
+    "CNTRY": "South Sudan",
+    "TYPE": "State"
+  },
+  {
+    "name": "Central Equatoria",
+    "id": "SS-EC",
+    "CNTRY": "South Sudan",
+    "TYPE": "State"
+  }
+]

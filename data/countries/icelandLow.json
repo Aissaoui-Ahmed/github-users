@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Suðurland",
+    "id": "IS-8",
+    "NAME_ENG": "South",
+    "CNTRY": "Iceland",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Austurland",
+    "id": "IS-7",
+    "NAME_ENG": "East",
+    "CNTRY": "Iceland",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Norðurland eystra",
+    "id": "IS-6",
+    "NAME_ENG": "Northeast",
+    "CNTRY": "Iceland",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Norðurland vestra",
+    "id": "IS-5",
+    "NAME_ENG": "Northwest",
+    "CNTRY": "Iceland",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Vestfirðir",
+    "id": "IS-4",
+    "NAME_ENG": "West Fjords",
+    "CNTRY": "Iceland",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Vesturland",
+    "id": "IS-3",
+    "NAME_ENG": "West",
+    "CNTRY": "Iceland",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Suðurnes",
+    "id": "IS-2",
+    "NAME_ENG": "Reykjanes Peninsula",
+    "CNTRY": "Iceland",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Höfuðborgarsvæði",
+    "id": "IS-1",
+    "NAME_ENG": "Capital Region",
+    "CNTRY": "Iceland",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Þórisjökull",
+    "id": "GL10",
+    "NAME_ENG": "Þórisjökull",
+    "CNTRY": "Iceland",
+    "TYPE": "Glacier"
+  },
+  {
+    "name": "Vatnajökull",
+    "id": "GL9",
+    "NAME_ENG": "Vatnajökull",
+    "CNTRY": "Iceland",
+    "TYPE": "Glacier"
+  },
+  {
+    "name": "Mýrdalsjökull",
+    "id": "GL8",
+    "NAME_ENG": "Mýrdalsjökull",
+    "CNTRY": "Iceland",
+    "TYPE": "Glacier"
+  },
+  {
+    "name": "Eyjafjallajökull",
+    "id": "GL7",
+    "NAME_ENG": "Eyjafjallajökull",
+    "CNTRY": "Iceland",
+    "TYPE": "Glacier"
+  },
+  {
+    "name": "Tungnafellsjökull",
+    "id": "GL6",
+    "NAME_ENG": "Tungnafellsjökull",
+    "CNTRY": "Iceland",
+    "TYPE": "Glacier"
+  },
+  {
+    "name": "Eiríksjökull",
+    "id": "GL5",
+    "NAME_ENG": "Eiríksjökull",
+    "CNTRY": "Iceland",
+    "TYPE": "Glacier"
+  },
+  {
+    "name": "Snæfellsjökull",
+    "id": "GL4",
+    "NAME_ENG": "Snæfellsjökull",
+    "CNTRY": "Iceland",
+    "TYPE": "Glacier"
+  },
+  {
+    "name": "Drangajökull",
+    "id": "GL3",
+    "NAME_ENG": "Drangajökull",
+    "CNTRY": "Iceland",
+    "TYPE": "Glacier"
+  },
+  {
+    "name": "Hofsjökull",
+    "id": "GL2",
+    "NAME_ENG": "Hofsjökull",
+    "CNTRY": "Iceland",
+    "TYPE": "Glacier"
+  },
+  {
+    "name": "Langjökull",
+    "id": "GL1",
+    "NAME_ENG": "Langjökull",
+    "CNTRY": "Iceland",
+    "TYPE": "Glacier"
+  }
+]

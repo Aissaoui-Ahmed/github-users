@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Dolnośląskie",
+    "id": "PL-02",
+    "NAME_ENG": "Lower Silesia",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Kujawsko-Pomorskie",
+    "id": "PL-04",
+    "NAME_ENG": "Kuyavia-Pomerania",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Łódzkie",
+    "id": "PL-10",
+    "NAME_ENG": "Łódź",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Lubelskie",
+    "id": "PL-06",
+    "NAME_ENG": "Lublin",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Lubuskie",
+    "id": "PL-08",
+    "NAME_ENG": "Lubusz",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Małopolskie",
+    "id": "PL-12",
+    "NAME_ENG": "Lesser Poland",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Mazowieckie",
+    "id": "PL-14",
+    "NAME_ENG": "Mazovia",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Opolskie",
+    "id": "PL-16",
+    "NAME_ENG": "Upper Silesia",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Podkarpackie",
+    "id": "PL-18",
+    "NAME_ENG": "Subcarpathia",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Podlaskie",
+    "id": "PL-20",
+    "NAME_ENG": "Podlaskie",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Pomorskie",
+    "id": "PL-22",
+    "NAME_ENG": "Pomerania",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Śląskie",
+    "id": "PL-24",
+    "NAME_ENG": "Silesia",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Świętokrzyskie",
+    "id": "PL-26",
+    "NAME_ENG": "Holy Cross",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Warmińsko-Mazurskie",
+    "id": "PL-28",
+    "NAME_ENG": "Warmia-Masuria",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Wielkopolskie",
+    "id": "PL-30",
+    "NAME_ENG": "Greater Poland",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Zachodniopomorskie",
+    "id": "PL-32",
+    "NAME_ENG": "West Pomerania",
+    "CNTRY": "Poland",
+    "TYPE": "Voivodeship",
+    "TYPE_ENG": "Province"
+  }
+]

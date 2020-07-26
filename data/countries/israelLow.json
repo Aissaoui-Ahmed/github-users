@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Yerushalayim",
+    "id": "IL-JM",
+    "NAME_ENG": "Jerusalem",
+    "TYPE": "District",
+    "CNTRY": "Israel"
+  },
+  {
+    "name": "HaDarom",
+    "id": "IL-D",
+    "NAME_ENG": "Southern District",
+    "TYPE": "District",
+    "CNTRY": "Israel"
+  },
+  {
+    "name": "Tel-Aviv",
+    "id": "IL-TA",
+    "NAME_ENG": "Tel Aviv",
+    "TYPE": "District",
+    "CNTRY": "Israel"
+  },
+  {
+    "name": "HaMerkaz",
+    "id": "IL-M",
+    "NAME_ENG": "Central District",
+    "TYPE": "District",
+    "CNTRY": "Israel"
+  },
+  {
+    "name": "H̱efa",
+    "id": "IL-HA",
+    "NAME_ENG": "Haifa",
+    "TYPE": "District",
+    "CNTRY": "Israel"
+  },
+  {
+    "name": "HaTsafon",
+    "id": "IL-Z",
+    "NAME_ENG": "Northern District",
+    "TYPE": "District",
+    "CNTRY": "Israel"
+  },
+  {
+    "name": "Golan Heights",
+    "id": "IL-GH",
+    "NAME_ENG": "Golan Heights",
+    "TYPE": "Territory",
+    "CNTRY": "Israel"
+  },
+  {
+    "name": "State of Palestine",
+    "id": "PS",
+    "NAME_ENG": "State of Palestine",
+    "TYPE": "Nation",
+    "CNTRY": "State of Palestine"
+  }
+]

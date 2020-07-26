@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Chobe",
+    "id": "BW-CH",
+    "CNTRY": "Botswana",
+    "TYPE": "District"
+  },
+  {
+    "name": "Central",
+    "id": "BW-CE",
+    "CNTRY": "Botswana",
+    "TYPE": "District"
+  },
+  {
+    "name": "Ghanzi",
+    "id": "BW-GH",
+    "CNTRY": "Botswana",
+    "TYPE": "District"
+  },
+  {
+    "name": "Kgalagadi",
+    "id": "BW-KG",
+    "CNTRY": "Botswana",
+    "TYPE": "District"
+  },
+  {
+    "name": "Kgatleng",
+    "id": "BW-KL",
+    "CNTRY": "Botswana",
+    "TYPE": "District"
+  },
+  {
+    "name": "Kweneng",
+    "id": "BW-KW",
+    "CNTRY": "Botswana",
+    "TYPE": "District"
+  },
+  {
+    "name": "North East",
+    "id": "BW-NE",
+    "CNTRY": "Botswana",
+    "TYPE": "District"
+  },
+  {
+    "name": "North West",
+    "id": "BW-NW",
+    "CNTRY": "Botswana",
+    "TYPE": "District"
+  },
+  {
+    "name": "South East",
+    "id": "BW-SE",
+    "CNTRY": "Botswana",
+    "TYPE": "District"
+  },
+  {
+    "name": "Southern",
+    "id": "BW-SO",
+    "CNTRY": "Botswana",
+    "TYPE": "District"
+  }
+]

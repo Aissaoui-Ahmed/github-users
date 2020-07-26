@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Brest",
+    "id": "BY-BR",
+    "CNTRYNAME": "Belarus",
+    "TYPE": "Oblast"
+  },
+  {
+    "name": "Minsk City",
+    "id": "BY-HM",
+    "CNTRYNAME": "Belarus",
+    "TYPE": "City"
+  },
+  {
+    "name": "Homyel'",
+    "id": "BY-HO",
+    "CNTRYNAME": "Belarus",
+    "TYPE": "Oblast"
+  },
+  {
+    "name": "Hrodna",
+    "id": "BY-HR",
+    "CNTRYNAME": "Belarus",
+    "TYPE": "Oblast"
+  },
+  {
+    "name": "Mahilyow",
+    "id": "BY-MA",
+    "CNTRYNAME": "Belarus",
+    "TYPE": "Oblast"
+  },
+  {
+    "name": "Minsk",
+    "id": "BY-MI",
+    "CNTRYNAME": "Belarus",
+    "TYPE": "Oblast"
+  },
+  {
+    "name": "Vitsyebsk",
+    "id": "BY-VI",
+    "CNTRYNAME": "Belarus",
+    "TYPE": "Oblast"
+  }
+]

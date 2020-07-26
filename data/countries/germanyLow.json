@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Brandenburg",
+    "id": "DE-BB",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Berlin",
+    "id": "DE-BE",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Baden-Württemberg",
+    "id": "DE-BW",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Bavaria",
+    "id": "DE-BY",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Bremen",
+    "id": "DE-HB",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Hesse",
+    "id": "DE-HE",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Hamburg",
+    "id": "DE-HH",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Mecklenburg-Western Pomerania",
+    "id": "DE-MV",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Lower Saxony",
+    "id": "DE-NI",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "North Rhine-Westphalia",
+    "id": "DE-NW",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Rhineland-Palatinate",
+    "id": "DE-RP",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Schleswig-Holstein",
+    "id": "DE-SH",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Saarland",
+    "id": "DE-SL",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Saxony",
+    "id": "DE-SN",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Sachsen-Anhalt",
+    "id": "DE-ST",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  },
+  {
+    "name": "Thuringia",
+    "id": "DE-TH",
+    "CNTRY": "Germany",
+    "TYPE": "State"
+  }
+]

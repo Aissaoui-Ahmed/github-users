@@ -1,0 +1,56 @@
+[
+  {
+    "name": "El Beni",
+    "id": "BO-B",
+    "CNTRY": "Bolivia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Cochabamba",
+    "id": "BO-C",
+    "CNTRY": "Bolivia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Chuquisaca",
+    "id": "BO-H",
+    "CNTRY": "Bolivia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "La Paz",
+    "id": "BO-L",
+    "CNTRY": "Bolivia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Pando",
+    "id": "BO-N",
+    "CNTRY": "Bolivia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Oruro",
+    "id": "BO-O",
+    "CNTRY": "Bolivia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Potosí",
+    "id": "BO-P",
+    "CNTRY": "Bolivia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Santa Cruz",
+    "id": "BO-S",
+    "CNTRY": "Bolivia",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Tarija",
+    "id": "BO-T",
+    "CNTRY": "Bolivia",
+    "TYPE": "Department"
+  }
+]

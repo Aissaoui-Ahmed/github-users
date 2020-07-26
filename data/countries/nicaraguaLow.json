@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Lago de Nicaragua",
+    "id": "NI-LKN",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Lake"
+  },
+  {
+    "name": "Lago de Managua",
+    "id": "NI-LKM",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Lake"
+  },
+  {
+    "name": "Río San Juan",
+    "id": "NI-SJ",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Rivas",
+    "id": "NI-RI",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Nueva Segovia",
+    "id": "NI-NS",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Matagalpa",
+    "id": "NI-MT",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Masaya",
+    "id": "NI-MS",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Managua",
+    "id": "NI-MN",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Madriz",
+    "id": "NI-MD",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "León",
+    "id": "NI-LE",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Jinotega",
+    "id": "NI-JI",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Granada",
+    "id": "NI-GR",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Estelí",
+    "id": "NI-ES",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Chontales",
+    "id": "NI-CO",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Chinandega",
+    "id": "NI-CI",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Carazo",
+    "id": "NI-CA",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Costa Caribe Sur",
+    "id": "NI-AS",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Autonomous Region"
+  },
+  {
+    "name": "Boaco",
+    "id": "NI-BO",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Costa Caribe Norte",
+    "id": "NI-AN",
+    "CNTRY": "Nicaragua",
+    "TYPE": "Autonomous Region"
+  }
+]

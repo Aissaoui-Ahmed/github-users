@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Gegark'unik'",
+    "id": "AZ-GR",
+    "TYPE": "City",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Abseron",
+    "id": "AZ-ABS",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Agstafa",
+    "id": "AZ-AGA",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Aghjabadi",
+    "id": "AZ-AGC",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Agdas",
+    "id": "AZ-AGS",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Agdam",
+    "id": "AZ-AGM",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Agsu",
+    "id": "AZ-AGU",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Astara",
+    "id": "AZ-AST",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Baki",
+    "id": "AZ-BA",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Babek",
+    "id": "AZ-BAB",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Balakan",
+    "id": "AZ-BAL",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Barda",
+    "id": "AZ-BAR",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Beylagan",
+    "id": "AZ-BEY",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Bilasuvar",
+    "id": "AZ-BIL",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Cəbrayıl",
+    "id": "AZ-CAB",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Cəlilabad",
+    "id": "AZ-CAL",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Culfa",
+    "id": "AZ-CUL",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Dashkasan",
+    "id": "AZ-DAS",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Füzuli",
+    "id": "AZ-FUZ",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Ganja",
+    "id": "AZ-GA",
+    "TYPE": "City",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Gədəbəy",
+    "id": "AZ-GAD",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Goranboy",
+    "id": "AZ-GOR",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Göyçay",
+    "id": "AZ-GOY",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Göygöl",
+    "id": "AZ-GYG",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Haciqabul",
+    "id": "AZ-HAC",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Imisli",
+    "id": "AZ-IMI",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Ismayilli",
+    "id": "AZ-ISM",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Kalbajar",
+    "id": "AZ-KAL",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Kangarli",
+    "id": "AZ-KAN",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Kurdamir",
+    "id": "AZ-KUR",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Lənkəran City",
+    "id": "AZ-LA",
+    "TYPE": "City",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Laçın",
+    "id": "AZ-LAC",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Lənkəran",
+    "id": "AZ-LAN",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Lerik",
+    "id": "AZ-LER",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Masalli",
+    "id": "AZ-MAS",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Mingachevir",
+    "id": "AZ-MI",
+    "TYPE": "City",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Naftalan City",
+    "id": "AZ-NA",
+    "TYPE": "City",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Neftçala",
+    "id": "AZ-NEF",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Naxçıvan",
+    "id": "AZ-NV",
+    "TYPE": "City",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Oguz",
+    "id": "AZ.OG",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Ordubad",
+    "id": "AZ-OGU",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Qabala",
+    "id": "AZ-QAB",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Qax",
+    "id": "AZ-QAX",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Qazax",
+    "id": "AZ-QAZ",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Quba",
+    "id": "AZ.QB",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Qubadli",
+    "id": "AZ-QBA",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Qobustan",
+    "id": "AZ-QOB",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Qusar",
+    "id": "AZ-QUS",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Şəki City",
+    "id": "AZ-SA",
+    "TYPE": "City",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Sabirabad",
+    "id": "AZ-SAB",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Sadarak",
+    "id": "AZ-SAD",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Sahbuz",
+    "id": "AZ-SAH",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Şəki",
+    "id": "AZ-SAK",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Salyan",
+    "id": "AZ-SAL",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Sharur",
+    "id": "AZ-SAR",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Saatli",
+    "id": "AZ-SAT",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Sabran",
+    "id": "AZ-SBN",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Siazan",
+    "id": "AZ-SIY",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Shamkir",
+    "id": "AZ-SKR",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Sumqayit",
+    "id": "AZ-SM",
+    "TYPE": "City",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Samaxi",
+    "id": "AZ-SMI",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Samux",
+    "id": "AZ-SMX",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Shirvan City",
+    "id": "AZ-SR",
+    "TYPE": "City",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Susa",
+    "id": "AZ-SUS",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Tartar",
+    "id": "AZ-TAR",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Tovuz",
+    "id": "AZ-TOV",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Ucar",
+    "id": "AZ-UCA",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Xaçmaz",
+    "id": "AZ-XAC",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Khojali",
+    "id": "AZ-XCI",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Xizi",
+    "id": "AZ-XIZ",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Xocavənd",
+    "id": "AZ-XVD",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Yardimli",
+    "id": "AZ-YAR",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Yevlax City",
+    "id": "AZ-YE",
+    "TYPE": "City",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Yevlax",
+    "id": "AZ-YEV",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Zangilan",
+    "id": "AZ-ZAN",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Zaqatala",
+    "id": "AZ-ZAQ",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  },
+  {
+    "name": "Zardab",
+    "id": "AZ-ZAR",
+    "TYPE": "District",
+    "CNTRY_NAME": "Azerbaijan"
+  }
+]

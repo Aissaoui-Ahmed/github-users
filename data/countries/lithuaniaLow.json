@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Alytus",
+    "id": "LT-AL",
+    "CNTRY": "Lithuania",
+    "TYPE": "County"
+  },
+  {
+    "name": "Kaunas",
+    "id": "LT-KU",
+    "CNTRY": "Lithuania",
+    "TYPE": "County"
+  },
+  {
+    "name": "Klaipėda",
+    "id": "LT-KL",
+    "CNTRY": "Lithuania",
+    "TYPE": "County"
+  },
+  {
+    "name": "Marijampolė",
+    "id": "LT-MR",
+    "CNTRY": "Lithuania",
+    "TYPE": "County"
+  },
+  {
+    "name": "Panevėžys",
+    "id": "LT-PN",
+    "CNTRY": "Lithuania",
+    "TYPE": "County"
+  },
+  {
+    "name": "Šiauliai",
+    "id": "LT-SA",
+    "CNTRY": "Lithuania",
+    "TYPE": "County"
+  },
+  {
+    "name": "Taurage",
+    "id": "LT-TA",
+    "CNTRY": "Lithuania",
+    "TYPE": "County"
+  },
+  {
+    "name": "Telšiai",
+    "id": "LT-TE",
+    "CNTRY": "Lithuania",
+    "TYPE": "County"
+  },
+  {
+    "name": "Utena",
+    "id": "LT-UT",
+    "CNTRY": "Lithuania",
+    "TYPE": "County"
+  },
+  {
+    "name": "Vilnius",
+    "id": "LT-VL",
+    "CNTRY": "Lithuania",
+    "TYPE": "County"
+  }
+]

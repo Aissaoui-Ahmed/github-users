@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Federacija Bosne i Hercegovine",
+    "id": "BA-BIH",
+    "NAME_ENG": "Federation of Bosnia and Herzegovina",
+    "CNTRY": "Bosnia and Herzegovina",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Brčko distrikt",
+    "id": "BA-BRC",
+    "NAME_ENG": "Brčko District",
+    "CNTRY": "Bosnia and Herzegovina",
+    "TYPE": "District"
+  },
+  {
+    "name": "Republika Srpska",
+    "id": "BA-SRP",
+    "NAME_ENG": "Republika Srpska",
+    "CNTRY": "Bosnia and Herzegovina",
+    "TYPE": "Region"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Relizane",
+    "id": "DZ-48",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Ghardaïa",
+    "id": "DZ-47",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Aïn Témouchent",
+    "id": "DZ-46",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Naama",
+    "id": "DZ-45",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Aïn Defla",
+    "id": "DZ-44",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Mila",
+    "id": "DZ-43",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tipaza",
+    "id": "DZ-42",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Souk Ahras",
+    "id": "DZ-41",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Khenchela",
+    "id": "DZ-40",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "El Oued",
+    "id": "DZ-39",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tissemsilt",
+    "id": "DZ-38",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tindouf",
+    "id": "DZ-37",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "El Tarf",
+    "id": "DZ-36",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Boumerdès",
+    "id": "DZ-35",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bordj Bou Arréridj",
+    "id": "DZ-34",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Illizi",
+    "id": "DZ-33",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "El Bayadh",
+    "id": "DZ-32",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Oran",
+    "id": "DZ-31",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Ouargla",
+    "id": "DZ-30",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Mascara",
+    "id": "DZ-29",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "M'Sila",
+    "id": "DZ-28",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Mostaganem",
+    "id": "DZ-27",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Médéa",
+    "id": "DZ-26",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Constantine",
+    "id": "DZ-25",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Guelma",
+    "id": "DZ-24",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Annaba",
+    "id": "DZ-23",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sidi Bel Abbès",
+    "id": "DZ-22",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Skikda",
+    "id": "DZ-21",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Saïda",
+    "id": "DZ-20",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Sétif",
+    "id": "DZ-19",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Jijel",
+    "id": "DZ-18",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Djelfa",
+    "id": "DZ-17",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Alger",
+    "id": "DZ-16",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tizi Ouzou",
+    "id": "DZ-15",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tiaret",
+    "id": "DZ-14",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tlemcen",
+    "id": "DZ-13",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tébessa",
+    "id": "DZ-12",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Tamanghasset",
+    "id": "DZ-11",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Bouira",
+    "id": "DZ-10",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Blida",
+    "id": "DZ-09",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Béchar",
+    "id": "DZ-08",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Biskra",
+    "id": "DZ-07",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Béjaïa",
+    "id": "DZ-06",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Batna",
+    "id": "DZ-05",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Oum el Bouaghi",
+    "id": "DZ-04",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Laghouat",
+    "id": "DZ-03",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Chlef",
+    "id": "DZ-02",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Adrar",
+    "id": "DZ-01",
+    "CNTRYNAME": "Algeria",
+    "TYPE": "Wilaya",
+    "TYPE_ENG": "Province"
+  }
+]

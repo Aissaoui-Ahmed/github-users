@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Aruba",
+    "id": "AW",
+    "CNTRY": "Aruba",
+    "TYPE": "Nation"
+  },
+  {
+    "name": "Bonaire, Saint Eustachius and Saba",
+    "id": "BQ",
+    "CNTRY": "Bonaire, Saint Eustachius and Saba",
+    "TYPE": "Nation"
+  },
+  {
+    "name": "Curaçao",
+    "id": "CW",
+    "CNTRY": "Curaçao",
+    "TYPE": "Nation"
+  },
+  {
+    "name": "Distrito Capital",
+    "id": "VE-A",
+    "CNTRY": "Venezuela",
+    "TYPE": "Capital District"
+  },
+  {
+    "name": "Anzoátegui",
+    "id": "VE-B",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Apure",
+    "id": "VE-C",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Aragua",
+    "id": "VE-D",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Barinas",
+    "id": "VE-E",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Bolívar",
+    "id": "VE-F",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Carabobo",
+    "id": "VE-G",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Cojedes",
+    "id": "VE-H",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Falcón",
+    "id": "VE-I",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Guárico",
+    "id": "VE-J",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Lara",
+    "id": "VE-K",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Mérida",
+    "id": "VE-L",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Miranda",
+    "id": "VE-M",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Monagas",
+    "id": "VE-N",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Nueva Esparta",
+    "id": "VE-O",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Portuguesa",
+    "id": "VE-P",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Sucre",
+    "id": "VE-R",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Táchira",
+    "id": "VE-S",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Trujillo",
+    "id": "VE-T",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Yaracuy",
+    "id": "VE-U",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Zulia",
+    "id": "VE-V",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Dependencias Federales",
+    "id": "VE-W",
+    "CNTRY": "Venezuela",
+    "TYPE": "Federal Dependency"
+  },
+  {
+    "name": "Vargas",
+    "id": "VE-X",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Delta Amacuro",
+    "id": "VE-Y",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  },
+  {
+    "name": "Amazonas",
+    "id": "VE-Z",
+    "CNTRY": "Venezuela",
+    "TYPE": "State"
+  }
+]

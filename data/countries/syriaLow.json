@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Al Ḩasakah",
+    "id": "SY-HA",
+    "NAME_ENG": "Al-Hasakah",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Dayr az Zawr",
+    "id": "SY-DY",
+    "NAME_ENG": "Deir ez-Zor",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Idlib",
+    "id": "SY-ID",
+    "NAME_ENG": "Idlib",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Rīf Dimashq",
+    "id": "SY-RD",
+    "NAME_ENG": "Rif Dimashq",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Ḩalab",
+    "id": "SY-HL",
+    "NAME_ENG": "Aleppo",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Ar Raqqah",
+    "id": "SY-RA",
+    "NAME_ENG": "Raqqa",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Al Lādhiqīyah",
+    "id": "SY-LA",
+    "NAME_ENG": "Lattakia",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Ḩamāh",
+    "id": "SY-HM",
+    "NAME_ENG": "Hama",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Ḩimş",
+    "id": "SY-HI",
+    "NAME_ENG": "Homs",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Ţarţūs",
+    "id": "SY-TA",
+    "NAME_ENG": "Tartus",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Dimashq",
+    "id": "SY-DI",
+    "NAME_ENG": "Damascus",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Al Qunayţirah",
+    "id": "SY-QU",
+    "NAME_ENG": "Quneitra",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "Dar'ā",
+    "id": "SY-DR",
+    "NAME_ENG": "Daraa",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  },
+  {
+    "name": "As Suwaydā'",
+    "id": "SY-SU",
+    "NAME_ENG": "Al-Suwayda",
+    "CNTRY": "Syrian Arab Republic",
+    "TYPE": "Governorate"
+  }
+]

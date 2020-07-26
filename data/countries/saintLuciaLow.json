@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Forest Reserve",
+    "id": "LC-FR",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  },
+  {
+    "name": "Canaries",
+    "id": "LC-12",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  },
+  {
+    "name": "Vieux Fort",
+    "id": "LC-11",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  },
+  {
+    "name": "Soufrière",
+    "id": "LC-10",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  },
+  {
+    "name": "Micoud",
+    "id": "LC-08",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  },
+  {
+    "name": "Laborie",
+    "id": "LC-07",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  },
+  {
+    "name": "Gros Islet",
+    "id": "LC-06",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  },
+  {
+    "name": "Dennery",
+    "id": "LC-05",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  },
+  {
+    "name": "Choiseul",
+    "id": "LC-03",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  },
+  {
+    "name": "Castries",
+    "id": "LC-02",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  },
+  {
+    "name": "Anse la Raye",
+    "id": "LC-01",
+    "CNTRY": "Saint Lucia",
+    "TYPE": "District"
+  }
+]

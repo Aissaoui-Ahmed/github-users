@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Østfold",
+    "id": "NO-01",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Akershus",
+    "id": "NO-02",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Oslo",
+    "id": "NO-03",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Hedmark",
+    "id": "NO-04",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Oppland",
+    "id": "NO-05",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Buskerud",
+    "id": "NO-06",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Vestfold",
+    "id": "NO-07",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Telemark",
+    "id": "NO-08",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Aust-Agder",
+    "id": "NO-09",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Vest-Agder",
+    "id": "NO-10",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Rogaland",
+    "id": "NO-11",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Hordaland",
+    "id": "NO-12",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Sogn og Fjordane",
+    "id": "NO-14",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Møre og Romsdal",
+    "id": "NO-15",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Nordland\n",
+    "id": "NO-18",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Troms",
+    "id": "NO-19",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Finnmark",
+    "id": "NO-20",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  },
+  {
+    "name": "Trøndelag",
+    "id": "NO-23",
+    "CNTRY": "Norway",
+    "TYPE": "County"
+  }
+]

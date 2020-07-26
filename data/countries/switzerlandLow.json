@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Aargau",
+    "id": "CH-AG",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Appenzell Inner-Rhoden",
+    "id": "CH-AI",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Appenzell Ausser-Rhoden",
+    "id": "CH-AR",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Basel-Landschaft",
+    "id": "CH-BL",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Bern",
+    "id": "CH-BE",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Basel-Stadt",
+    "id": "CH-BS",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Fribourg",
+    "id": "CH-FR",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Genève",
+    "id": "CH-GE",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Glarus",
+    "id": "CH-GL",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Graubünden",
+    "id": "CH-GR",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Jura",
+    "id": "CH-JU",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Luzern",
+    "id": "CH-LU",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Neuchâtel",
+    "id": "CH-NE",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Nidwalden",
+    "id": "CH-NW",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Obwalden",
+    "id": "CH-OW",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Sankt Gallen",
+    "id": "CH-SG",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Schaffhausen",
+    "id": "CH-SH",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Solothurn",
+    "id": "CH-SO",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Schwyz",
+    "id": "CH-SZ",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Thurgau",
+    "id": "CH-TG",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Ticino",
+    "id": "CH-TI",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Uri",
+    "id": "CH-UR",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Vaud",
+    "id": "CH-VD",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Valais",
+    "id": "CH-VS",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Zug",
+    "id": "CH-ZG",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Zürich",
+    "id": "CH-ZH",
+    "CNTRY": "Switzerland",
+    "TYPE": "Canton"
+  },
+  {
+    "name": "Campione d'Italia",
+    "id": "IT-CO",
+    "CNTRY": "Italy",
+    "TYPE": "Comune"
+  }
+]

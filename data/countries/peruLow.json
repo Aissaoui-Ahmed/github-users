@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Amazonas",
+    "id": "PE-AMA",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ancash",
+    "id": "PE-ANC",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Apurimac",
+    "id": "PE-APU",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Arequipa",
+    "id": "PE-ARE",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ayacucho",
+    "id": "PE-AYA",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Cajamarca",
+    "id": "PE-CAJ",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "El Callao",
+    "id": "PE-CAL",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Cusco",
+    "id": "PE-CUS",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Huánuco",
+    "id": "PE-HUC",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Huancavelica",
+    "id": "PE-HUV",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ica",
+    "id": "PE-ICA",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Junin",
+    "id": "PE-JUN",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "La Libertad",
+    "id": "PE-LAL",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Lambayeque",
+    "id": "PE-LAM",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Lima",
+    "id": "PE-LIM",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Lima Province",
+    "id": "PE-LMA",
+    "CNTRY": "Peru",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Loreto",
+    "id": "PE-LOR",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Madre de Dios",
+    "id": "PE-MDD",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Moquegua",
+    "id": "PE-MOQ",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Pasco",
+    "id": "PE-PAS",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Piura",
+    "id": "PE-PIU",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Puno",
+    "id": "PE-PUN",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "San Martin",
+    "id": "PE-SAM",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Tacna",
+    "id": "PE-TAC",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Tumbes",
+    "id": "PE-TUM",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ucayali",
+    "id": "PE-UCA",
+    "CNTRY": "Peru",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Lake Titicaca",
+    "id": "PE-LKT",
+    "CNTRY": "Peru",
+    "TYPE": "Lake"
+  }
+]

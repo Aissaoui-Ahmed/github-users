@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dhekelia",
+    "id": "GB-DX",
+    "CNTRY": "Akrotiri and Dhekeli",
+    "TYPE": "British Sovereign Base Area"
+  },
+  {
+    "name": "Larnaca",
+    "id": "CY-03",
+    "CNTRY": "Cyprus",
+    "TYPE": "District"
+  },
+  {
+    "name": "Famagusta",
+    "id": "CY-04",
+    "CNTRY": "Cyprus",
+    "TYPE": "District"
+  },
+  {
+    "name": "Kyrenia",
+    "id": "CY-06",
+    "CNTRY": "Cyprus",
+    "TYPE": "District"
+  },
+  {
+    "name": "Paphos",
+    "id": "CY-05",
+    "CNTRY": "Cyprus",
+    "TYPE": "District"
+  },
+  {
+    "name": "Limassol",
+    "id": "CY-02",
+    "CNTRY": "Cyprus",
+    "TYPE": "District"
+  },
+  {
+    "name": "Akrotiri",
+    "id": "GB-AX",
+    "CNTRY": "Akrotiri and Dhekeli",
+    "TYPE": "British Sovereign Base Area"
+  },
+  {
+    "name": "Nicosia",
+    "id": "CY-01",
+    "CNTRY": "Cyprus",
+    "TYPE": "District"
+  }
+]

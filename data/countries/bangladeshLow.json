@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Mymensingh",
+    "id": "BD-H",
+    "TYPE": "Division",
+    "CNTRY": "Bangladesh"
+  },
+  {
+    "name": "Sylhet",
+    "id": "BD-G",
+    "TYPE": "Division",
+    "CNTRY": "Bangladesh"
+  },
+  {
+    "name": "Rangpur",
+    "id": "BD-F",
+    "TYPE": "Division",
+    "CNTRY": "Bangladesh"
+  },
+  {
+    "name": "Rajshahi",
+    "id": "BD-E",
+    "TYPE": "Division",
+    "CNTRY": "Bangladesh"
+  },
+  {
+    "name": "Khulna",
+    "id": "BD-D",
+    "TYPE": "Division",
+    "CNTRY": "Bangladesh"
+  },
+  {
+    "name": "Dhaka",
+    "id": "BD-C",
+    "TYPE": "Division",
+    "CNTRY": "Bangladesh"
+  },
+  {
+    "name": "Chittagong",
+    "id": "BD-B",
+    "TYPE": "Division",
+    "CNTRY": "Bangladesh"
+  },
+  {
+    "name": "Barisal",
+    "id": "BD-A",
+    "TYPE": "Division",
+    "CNTRY": "Bangladesh"
+  }
+]

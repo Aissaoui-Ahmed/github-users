@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Valencia",
+    "id": "ES-VC",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "País Vasco",
+    "id": "ES-PV",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Islas Baleares",
+    "id": "ES-IB",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Navarra",
+    "id": "ES-NC",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Murcia",
+    "id": "ES-MC",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Madrid",
+    "id": "ES-MD",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "La Rioja",
+    "id": "ES-RI",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Galicia",
+    "id": "ES-GA",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Extremadura",
+    "id": "ES-EX",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Cataluña",
+    "id": "ES-CT",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Islas Canarias",
+    "id": "ES-CN",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Castilla-La Mancha",
+    "id": "ES-CM",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Castilla y León",
+    "id": "ES-CL",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Cantabria",
+    "id": "ES-CB",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Asturias",
+    "id": "ES-AS",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Aragón",
+    "id": "ES-AR",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  },
+  {
+    "name": "Andalucía",
+    "id": "ES-AN",
+    "CNTRY": "Spain",
+    "TYPE": "Autonomous Community"
+  }
+]

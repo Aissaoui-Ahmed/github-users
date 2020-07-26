@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Songwe",
+    "id": "TZ-31",
+    "NAME_ENG": "Songwe",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Simiyu",
+    "id": "TZ-30",
+    "NAME_ENG": "Simiyu",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Njombe",
+    "id": "TZ-29",
+    "NAME_ENG": "Njombe",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Katavi",
+    "id": "TZ-28",
+    "NAME_ENG": "Katavi",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Geita",
+    "id": "TZ-27",
+    "NAME_ENG": "Geita",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Manyara",
+    "id": "TZ-26",
+    "NAME_ENG": "Manyara",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Tanga",
+    "id": "TZ-25",
+    "NAME_ENG": "Tanga",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Tabora",
+    "id": "TZ-24",
+    "NAME_ENG": "Tabora",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Singida",
+    "id": "TZ-23",
+    "NAME_ENG": "Singida",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Shinyanga",
+    "id": "TZ-22",
+    "NAME_ENG": "Shinyanga",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Ruvuma",
+    "id": "TZ-21",
+    "NAME_ENG": "Ruvuma",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Rukwa",
+    "id": "TZ-20",
+    "NAME_ENG": "Rukwa",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Pwani",
+    "id": "TZ-19",
+    "NAME_ENG": "Coast",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Mwanza",
+    "id": "TZ-18",
+    "NAME_ENG": "Mwanza",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Mtwara",
+    "id": "TZ-17",
+    "NAME_ENG": "Mtwara",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Morogoro",
+    "id": "TZ-16",
+    "NAME_ENG": "Morogoro",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Mjini Magharibi",
+    "id": "TZ-15",
+    "NAME_ENG": "Zanzibar West",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Mbeya",
+    "id": "TZ-14",
+    "NAME_ENG": "Mbeya",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Mara",
+    "id": "TZ-13",
+    "NAME_ENG": "Mara",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Lindi",
+    "id": "TZ-12",
+    "NAME_ENG": "Lindi",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kusini Unguja",
+    "id": "TZ-11",
+    "NAME_ENG": "Zanzibar South and C",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kusini Pemba",
+    "id": "TZ-10",
+    "NAME_ENG": "Pemba South",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kilimanjaro",
+    "id": "TZ-09",
+    "NAME_ENG": "Kilimanjaro",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kigoma",
+    "id": "TZ-08",
+    "NAME_ENG": "Kigoma",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kaskazini Unguja",
+    "id": "TZ-07",
+    "NAME_ENG": "Zanzibar North",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kaskazini Pemba",
+    "id": "TZ-06",
+    "NAME_ENG": "Pemba North",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Kagera",
+    "id": "TZ-05",
+    "NAME_ENG": "Kagera",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Iringa",
+    "id": "TZ-04",
+    "NAME_ENG": "Iringa",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Dodoma",
+    "id": "TZ-03",
+    "NAME_ENG": "Dodoma",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Dar es Salaam",
+    "id": "TZ-02",
+    "NAME_ENG": "Dar es Salaam",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Arusha",
+    "id": "TZ-01",
+    "NAME_ENG": "Arusha",
+    "CNTRY": "Tanzania",
+    "TYPE": "Mkoa",
+    "TYPE_ENG": "Region"
+  }
+]

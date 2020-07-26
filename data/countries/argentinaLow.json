@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Tucumán",
+    "id": "AR-T",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Tierra del Fuego",
+    "id": "AR-V",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "National Territory"
+  },
+  {
+    "name": "San Luis",
+    "id": "AR-D",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "San Juan",
+    "id": "AR-J",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Santa Fe",
+    "id": "AR-S",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Santiago del Estero",
+    "id": "AR-G",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Santa Cruz",
+    "id": "AR-Z",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Salta",
+    "id": "AR-A",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Río Negro",
+    "id": "AR-R",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Neuquén",
+    "id": "AR-Q",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Misiones",
+    "id": "AR-N",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Mendoza",
+    "id": "AR-M",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "La Rioja",
+    "id": "AR-F",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "La Pampa",
+    "id": "AR-L",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Jujuy",
+    "id": "AR-Y",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Formosa",
+    "id": "AR-P",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Entre Ríos",
+    "id": "AR-E",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Corrientes",
+    "id": "AR-W",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Cordoba",
+    "id": "AR-X",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Ciudad de Buenos Aires",
+    "id": "AR-C",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "District"
+  },
+  {
+    "name": "Chubut",
+    "id": "AR-U",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Chaco",
+    "id": "AR-H",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Catamarca",
+    "id": "AR-K",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Buenos Aires",
+    "id": "AR-B",
+    "CNTRY_NAME": "Argentina",
+    "TYPE": "Province"
+  }
+]

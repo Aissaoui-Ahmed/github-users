@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Drenthe",
+    "id": "NL-DR",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "Drenthe",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Flevoland",
+    "id": "NL-FL",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "Flevoland",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Fryslân",
+    "id": "NL-FR",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "Friesland",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Gelderland",
+    "id": "NL-GE",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "Gelderland",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Groningen",
+    "id": "NL-GR",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "Groningen",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Limburg",
+    "id": "NL-LI",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "Limburg",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Noord-Brabant",
+    "id": "NL-NB",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "North Brabante",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Noord-Holland",
+    "id": "NL-NH",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "North Holland",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Overijssel",
+    "id": "NL-OV",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "Overijssel",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Utrecht",
+    "id": "NL-UT",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "Utrecht",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Zeeland",
+    "id": "NL-ZE",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "Zeeland",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  },
+  {
+    "name": "Zuid-Holland",
+    "id": "NL-ZH",
+    "CNTRY": "Netherlands",
+    "NAME_ENG": "South Holland",
+    "TYPE": "Provincie",
+    "TYPE_ENG": "Province"
+  }
+]

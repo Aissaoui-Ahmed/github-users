@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Lesotho",
+    "id": "LS",
+    "CNTRY": "South Africa",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Eastern Cape",
+    "id": "ZA-EC",
+    "CNTRY": "South Africa",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Free State",
+    "id": "ZA-FS",
+    "CNTRY": "South Africa",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Gauteng",
+    "id": "ZA-GT",
+    "CNTRY": "South Africa",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Limpopo",
+    "id": "ZA-LP",
+    "CNTRY": "South Africa",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Mpumalanga",
+    "id": "ZA-MP",
+    "CNTRY": "South Africa",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Northern Cape",
+    "id": "ZA-NC",
+    "CNTRY": "South Africa",
+    "TYPE": "Province"
+  },
+  {
+    "name": "KwaZulu-Natal",
+    "id": "ZA-NL",
+    "CNTRY": "South Africa",
+    "TYPE": "Province"
+  },
+  {
+    "name": "North West",
+    "id": "ZA-NW",
+    "CNTRY": "South Africa",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Western Cape",
+    "id": "ZA-WC",
+    "CNTRY": "South Africa",
+    "TYPE": "Province"
+  }
+]

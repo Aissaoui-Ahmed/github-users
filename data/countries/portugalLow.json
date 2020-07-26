@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Azores",
+    "id": "PT-20",
+    "CNTRY": "Portugal",
+    "TYPE": "Região Autónoma",
+    "TYPE_ENG": "Autonomous Region"
+  },
+  {
+    "name": "Madeira",
+    "id": "PT-30",
+    "CNTRY": "Portugal",
+    "TYPE": "Região Autónoma",
+    "TYPE_ENG": "Autonomous Region"
+  },
+  {
+    "name": "Aveiro",
+    "id": "PT-01",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Beja",
+    "id": "PT-02",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Braga",
+    "id": "PT-03",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Bragança",
+    "id": "PT-04",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Castelo Branco",
+    "id": "PT-05",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Coimbra",
+    "id": "PT-06",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Évora",
+    "id": "PT-07",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Faro",
+    "id": "PT-08",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Guarda",
+    "id": "PT-09",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Leiria",
+    "id": "PT-10",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Lisboa",
+    "id": "PT-11",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Portalegre",
+    "id": "PT-12",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Porto",
+    "id": "PT-13",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Santarém",
+    "id": "PT-14",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Setúbal",
+    "id": "PT-15",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Viana do Castelo",
+    "id": "PT-16",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Vila Real",
+    "id": "PT-17",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Viseu",
+    "id": "PT-18",
+    "CNTRY": "Portugal",
+    "TYPE": "Distrito",
+    "TYPE_ENG": "District"
+  }
+]

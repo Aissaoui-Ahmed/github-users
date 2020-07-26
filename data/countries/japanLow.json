@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Hokkaido",
+    "id": "JP-01",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Aomori",
+    "id": "JP-02",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Iwate",
+    "id": "JP-03",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Miyagi",
+    "id": "JP-04",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Akita",
+    "id": "JP-05",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Yamagata",
+    "id": "JP-06",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Fukushima",
+    "id": "JP-07",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Ibaraki",
+    "id": "JP-08",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Tochigi",
+    "id": "JP-09",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Gunma",
+    "id": "JP-10",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Chiba",
+    "id": "JP-12",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Ishikawa",
+    "id": "JP-17",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Fukui",
+    "id": "JP-18",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Hyogo",
+    "id": "JP-28",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Ehime",
+    "id": "JP-38",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Fukuoka",
+    "id": "JP-40",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Hiroshima",
+    "id": "JP-34",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Kagawa",
+    "id": "JP-37",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Kanagawa",
+    "id": "JP-14",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Tokyo",
+    "id": "JP-13",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Niigata",
+    "id": "JP-15",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Toyama",
+    "id": "JP-16",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Yamanashi",
+    "id": "JP-19",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Saitama",
+    "id": "JP-11",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Nagano",
+    "id": "JP-20",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Gifu",
+    "id": "JP-21",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Shizuoka",
+    "id": "JP-22",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Aichi",
+    "id": "JP-23",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Mie",
+    "id": "JP-24",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Shiga",
+    "id": "JP-25",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Kyoto",
+    "id": "JP-26",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Osaka",
+    "id": "JP-27",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Nara",
+    "id": "JP-29",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Wakayama",
+    "id": "JP-30",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Tottori",
+    "id": "JP-31",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Shimane",
+    "id": "JP-32",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Okayama",
+    "id": "JP-33",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Yamaguchi",
+    "id": "JP-35",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Tokushima",
+    "id": "JP-36",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Kochi",
+    "id": "JP-39",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Saga",
+    "id": "JP-41",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Nagasaki",
+    "id": "JP-42",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Kumamoto",
+    "id": "JP-43",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Miyazaki",
+    "id": "JP-45",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Oita",
+    "id": "JP-44",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Kagoshima",
+    "id": "JP-46",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  },
+  {
+    "name": "Okinawa",
+    "id": "JP-47",
+    "CNTRY": "Japan",
+    "TYPE": "Prefecture"
+  }
+]

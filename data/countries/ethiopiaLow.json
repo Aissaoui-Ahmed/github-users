@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ET-BE",
+    "name": "Bīnshangul Gumuz",
+    "NAME_EN": "Benshangul-Gumaz",
+    "TYPE": "Kilil",
+    "TYPE_EN": "Regional State",
+    "CNTRY": "Ethiopia"
+  },
+  {
+    "id": "ET-SO",
+    "name": "Sumalē",
+    "NAME_EN": "Somali",
+    "TYPE": "Kilil",
+    "TYPE_EN": "Regional State",
+    "CNTRY": "Ethiopia"
+  },
+  {
+    "id": "ET-OR",
+    "name": "Oromīya",
+    "NAME_EN": "Oromia",
+    "TYPE": "Kilil",
+    "TYPE_EN": "Regional State",
+    "CNTRY": "Ethiopia"
+  },
+  {
+    "id": "ET-DD",
+    "name": "Dirē Dawa",
+    "NAME_EN": "Dire Dawa",
+    "TYPE": "Astedader",
+    "TYPE_EN": "Administration",
+    "CNTRY": "Ethiopia"
+  },
+  {
+    "id": "ET-AA",
+    "name": "Ādīs Ābeba",
+    "NAME_EN": "Addis Ababa",
+    "TYPE": "Astedader",
+    "TYPE_EN": "Administration",
+    "CNTRY": "Ethiopia"
+  },
+  {
+    "id": "ET-HA",
+    "name": "Hārerī Hizb",
+    "NAME_EN": "Harari People",
+    "TYPE": "Kilil",
+    "TYPE_EN": "Regional State",
+    "CNTRY": "Ethiopia"
+  },
+  {
+    "id": "ET-TI",
+    "name": "Tigray",
+    "NAME_EN": "Tigrai",
+    "TYPE": "Kilil",
+    "TYPE_EN": "Regional State",
+    "CNTRY": "Ethiopia"
+  },
+  {
+    "id": "ET-AM",
+    "name": "Āmara",
+    "NAME_EN": "Amara",
+    "TYPE": "Kilil",
+    "TYPE_EN": "Regional State",
+    "CNTRY": "Ethiopia"
+  },
+  {
+    "id": "ET-AF",
+    "name": "Āfar",
+    "NAME_EN": "Afar",
+    "TYPE": "Kilil",
+    "TYPE_EN": "Regional State",
+    "CNTRY": "Ethiopia"
+  },
+  {
+    "id": "ET-SN",
+    "name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "NAME_EN": "Southern Nations, Nationalities and Peoples",
+    "TYPE": "Kilil",
+    "TYPE_EN": "Regional State",
+    "CNTRY": "Ethiopia"
+  },
+  {
+    "id": "ET-GA",
+    "name": "Gambēla Hizboch",
+    "NAME_EN": "Gambela Peoples",
+    "TYPE": "Kilil",
+    "TYPE_EN": "Regional State",
+    "CNTRY": "Ethiopia"
+  }
+]

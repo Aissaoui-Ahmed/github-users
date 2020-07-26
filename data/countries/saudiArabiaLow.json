@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Al Jawf",
+    "id": "SA-12",
+    "NAME_ENG": "Al Jawf",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Tabūk",
+    "id": "SA-07",
+    "NAME_ENG": "Tabuk",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ḩā'il",
+    "id": "SA-06",
+    "NAME_ENG": "Ha'il",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Al Qaşīm",
+    "id": "SA-05",
+    "NAME_ENG": "Al-Qassim",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Al Madīnah al Munawwarah",
+    "id": "SA-03",
+    "NAME_ENG": "Madinah",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Al Ḩudūd ash Shamālīyah",
+    "id": "SA-08",
+    "NAME_ENG": "Northern Borders",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Makkah al Mukarramah",
+    "id": "SA-02",
+    "NAME_ENG": "Makkah",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ash Sharqīyah",
+    "id": "SA-04",
+    "NAME_ENG": "Eastern Province",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Najrān",
+    "id": "SA-10",
+    "NAME_ENG": "Najran",
+    "TYPE": "Region"
+  },
+  {
+    "name": "'Asīr",
+    "id": "SA-14",
+    "NAME_ENG": "'Asir",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Al Bāḩah",
+    "id": "SA-11",
+    "NAME_ENG": "Al-Bahah",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Jāzān",
+    "id": "SA-09",
+    "NAME_ENG": "Jizan",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Ar Riyāḑ",
+    "id": "SA-01",
+    "NAME_ENG": "Riyadh",
+    "TYPE": "Region"
+  }
+]

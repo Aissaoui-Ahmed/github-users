@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Awdal",
+    "id": "SO-AW",
+    "NAME_ENG": "Awdal",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Bakool",
+    "id": "SO-BK",
+    "NAME_ENG": "Bakool",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Banaadir",
+    "id": "SO-BN",
+    "NAME_ENG": "Banaadir",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Bari",
+    "id": "SO-BR",
+    "NAME_ENG": "Bari",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Bay",
+    "id": "SO-BY",
+    "NAME_ENG": "Bay",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Galguduud",
+    "id": "SO-GA",
+    "NAME_ENG": "Galguduud",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Gedo",
+    "id": "SO-GE",
+    "NAME_ENG": "Gedo",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Hiiraan",
+    "id": "SO-HI",
+    "NAME_ENG": "Hiiraan",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Jubbada Dhexe",
+    "id": "SO-JD",
+    "NAME_ENG": "Middle Juba",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Jubbada Hoose",
+    "id": "SO-JH",
+    "NAME_ENG": "Lower Juba",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Mudug",
+    "id": "SO-MU",
+    "NAME_ENG": "Mudug",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Nugaal",
+    "id": "SO-NU",
+    "NAME_ENG": "Nugal",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Sanaag",
+    "id": "SO-SA",
+    "NAME_ENG": "Sanaag",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Shabeellaha Dhexe",
+    "id": "SO-SD",
+    "NAME_ENG": "Middle Shabelle",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Shabeellaha Hoose",
+    "id": "SO-SH",
+    "NAME_ENG": "Lower Shabelle",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Sool",
+    "id": "SO-SO",
+    "NAME_ENG": "Sool",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Togdheer",
+    "id": "SO-TO",
+    "NAME_ENG": "Togdheer",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Woqooyi Galbeed",
+    "id": "SO-WO",
+    "NAME_ENG": "Woqooyi Galbeed",
+    "CNTRY": "Somalia",
+    "TYPE": "Gobolka",
+    "TYPE_ENG": "Region"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Burgenland",
+    "id": "AT-1",
+    "CNTRYNAME": "Austria",
+    "TYPE": "State"
+  },
+  {
+    "name": "Carinthia",
+    "id": "AT-2",
+    "CNTRYNAME": "Austria",
+    "TYPE": "State"
+  },
+  {
+    "name": "Lower Austria",
+    "id": "AT-3",
+    "CNTRYNAME": "Austria",
+    "TYPE": "State"
+  },
+  {
+    "name": "Upper Austria",
+    "id": "AT-4",
+    "CNTRYNAME": "Austria",
+    "TYPE": "State"
+  },
+  {
+    "name": "Salzburg",
+    "id": "AT-5",
+    "CNTRYNAME": "Austria",
+    "TYPE": "State"
+  },
+  {
+    "name": "Styria",
+    "id": "AT-6",
+    "CNTRYNAME": "Austria",
+    "TYPE": "State"
+  },
+  {
+    "name": "Tyrol",
+    "id": "AT-7",
+    "CNTRYNAME": "Austria",
+    "TYPE": "State"
+  },
+  {
+    "name": "Vorarlberg",
+    "id": "AT-8",
+    "CNTRYNAME": "Austria",
+    "TYPE": "State"
+  },
+  {
+    "name": "Vienna",
+    "id": "AT-9",
+    "CNTRYNAME": "Austria",
+    "TYPE": "State"
+  }
+]

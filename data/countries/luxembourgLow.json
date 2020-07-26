@@ -1,0 +1,74 @@
+[
+  {
+    "id": "LU-WI",
+    "name": "Wiltz",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-RD",
+    "name": "Redange",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-DI",
+    "name": "Diekirch",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-VD",
+    "name": "Vianden",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-CA",
+    "name": "Capellen",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-ME",
+    "name": "Mersch",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-LU",
+    "name": "Luxembourg",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-GR",
+    "name": "Grevenmacher",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-EC",
+    "name": "Echternach",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-ES",
+    "name": "Esch-sur-Alzette",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-RM",
+    "name": "Remich",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  },
+  {
+    "id": "LU-CL",
+    "name": "Clervaux",
+    "TYPE": "District",
+    "CNTRY": "Luxembourg"
+  }
+]

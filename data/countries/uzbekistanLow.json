@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Sughd",
+    "id": "TJ-SU",
+    "NAME_ENG": "Sughd",
+    "CNTRY": "Tajikistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Andijon",
+    "id": "UZ-AN",
+    "NAME_ENG": "Andijan",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Buxoro",
+    "id": "UZ-BU",
+    "NAME_ENG": "Buxoro",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Farg`ona",
+    "id": "UZ-FA",
+    "NAME_ENG": "Fergana",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Jizzax",
+    "id": "UZ-JI",
+    "NAME_ENG": "Jizzakh",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Namangan",
+    "id": "UZ-NG",
+    "NAME_ENG": "Namangan",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Navoiy",
+    "id": "UZ-NW",
+    "NAME_ENG": "Navoiy",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Qashqadaryo",
+    "id": "UZ-QA",
+    "NAME_ENG": "Qashqadaryo",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Qoraqalpog‘iston",
+    "id": "UZ-QR",
+    "NAME_ENG": "Karakalpakstan",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Autonomous Republic",
+    "TYPE_ENG": "Autonomous Republic"
+  },
+  {
+    "name": "Samarqand",
+    "id": "UZ-SA",
+    "NAME_ENG": "Samarqand",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Sirdaryo",
+    "id": "UZ-SI",
+    "NAME_ENG": "Sirdarya",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Surxondaryo",
+    "id": "UZ-SU",
+    "NAME_ENG": "Surxondaryo",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Toshkent",
+    "id": "UZ-TK",
+    "NAME_ENG": "Tashkent",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "City",
+    "TYPE_ENG": "City"
+  },
+  {
+    "name": "Toshkent",
+    "id": "UZ-TO",
+    "NAME_ENG": "Tashkent",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Xorazm",
+    "id": "UZ-XO",
+    "NAME_ENG": "Khorezm",
+    "CNTRY": "Uzbekistan",
+    "TYPE": "Viloyat",
+    "TYPE_ENG": "Region"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "KM-G",
+    "name": "Grande Comore",
+    "NAME_ALT": "Ngazidja",
+    "TYPE": "Autonomous Island",
+    "CNTRY": "Comoros"
+  },
+  {
+    "id": "KM-M",
+    "name": "Mohéli",
+    "NAME_ALT": "Mwali",
+    "TYPE": "Autonomous Island",
+    "CNTRY": "Comoros"
+  },
+  {
+    "id": "KM-A",
+    "name": "Anjouan",
+    "NAME_ALT": "Ndzuwani",
+    "TYPE": "Autonomous Island",
+    "CNTRY": "Comoros"
+  }
+]

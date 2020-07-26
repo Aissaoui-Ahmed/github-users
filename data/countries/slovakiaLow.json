@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Banskobystrický",
+    "id": "SK-BC",
+    "NAME_ENG": "Banská Bystrica",
+    "CNTRY": "Slovakia",
+    "TYPE": "kraj",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Bratislavský",
+    "id": "SK-BL",
+    "NAME_ENG": "Bratislava",
+    "CNTRY": "Slovakia",
+    "TYPE": "kraj",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Košický",
+    "id": "SK-KI",
+    "NAME_ENG": "Košice",
+    "CNTRY": "Slovakia",
+    "TYPE": "kraj",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Nitriansky",
+    "id": "SK-NI",
+    "NAME_ENG": "Nitra",
+    "CNTRY": "Slovakia",
+    "TYPE": "kraj",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Prešovský",
+    "id": "SK-PV",
+    "NAME_ENG": "Prešov",
+    "CNTRY": "Slovakia",
+    "TYPE": "kraj",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Trnavský",
+    "id": "SK-TA",
+    "NAME_ENG": "Trnava",
+    "CNTRY": "Slovakia",
+    "TYPE": "kraj",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Trenčiansky",
+    "id": "SK-TC",
+    "NAME_ENG": "Trenčín",
+    "CNTRY": "Slovakia",
+    "TYPE": "kraj",
+    "TYPE_ENG": "Region"
+  },
+  {
+    "name": "Žilinský",
+    "id": "SK-ZI",
+    "NAME_ENG": "Žilina",
+    "CNTRY": "Slovakia",
+    "TYPE": "kraj",
+    "TYPE_ENG": "Region"
+  }
+]

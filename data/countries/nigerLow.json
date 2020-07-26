@@ -1,0 +1,50 @@
+[
+  {
+    "id": "NE-8",
+    "name": "Niamey",
+    "TYPE": "Capital District",
+    "CNTRY": "Niger"
+  },
+  {
+    "id": "NE-1",
+    "name": "Agadez",
+    "TYPE": "Region",
+    "CNTRY": "Niger"
+  },
+  {
+    "id": "NE-6",
+    "name": "Tillabéri",
+    "TYPE": "Region",
+    "CNTRY": "Niger"
+  },
+  {
+    "id": "NE-7",
+    "name": "Zinder",
+    "TYPE": "Region",
+    "CNTRY": "Niger"
+  },
+  {
+    "id": "NE-4",
+    "name": "Maradi",
+    "TYPE": "Region",
+    "CNTRY": "Niger"
+  },
+  {
+    "id": "NE-2",
+    "name": "Diffa",
+    "TYPE": "Region",
+    "CNTRY": "Niger"
+  },
+  {
+    "id": "NE-3",
+    "name": "Dosso",
+    "TYPE": "Region",
+    "CNTRY": "Niger"
+  },
+  {
+    "id": "NE-5",
+    "name": "Tahoua",
+    "TYPE": "Region",
+    "CNTRY": "Niger"
+  }
+]

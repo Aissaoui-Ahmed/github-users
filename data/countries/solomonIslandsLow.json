@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Central",
+    "id": "SB-CE",
+    "CNTRY": "Solomon Islands",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Choiseul",
+    "id": "SB-CH",
+    "CNTRY": "Solomon Islands",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Guadalcanal",
+    "id": "SB-GU",
+    "CNTRY": "Solomon Islands",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Capital Territory",
+    "id": "SB-CT",
+    "CNTRY": "Solomon Islands",
+    "TYPE": "Capital Territory"
+  },
+  {
+    "name": "Isabel",
+    "id": "SB-IS",
+    "CNTRY": "Solomon Islands",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Makira-Ulawa",
+    "id": "SB-MK",
+    "CNTRY": "Solomon Islands",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Malaita",
+    "id": "SB-ML",
+    "CNTRY": "Solomon Islands",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Rennell and Bellona",
+    "id": "SB-RB",
+    "CNTRY": "Solomon Islands",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Temotu",
+    "id": "SB-TE",
+    "CNTRY": "Solomon Islands",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Western",
+    "id": "SB-WE",
+    "CNTRY": "Solomon Islands",
+    "TYPE": "Province"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "GY-ES",
+    "name": "Essequibo Islands-West Demerara",
+    "TYPE": "Region",
+    "CNTRY": "Guyana"
+  },
+  {
+    "id": "GY-EB",
+    "name": "East Berbice-Corentyne",
+    "TYPE": "Region",
+    "CNTRY": "Guyana"
+  },
+  {
+    "id": "GY-UT",
+    "name": "Upper Takutu-Upper Essequibo",
+    "TYPE": "Region",
+    "CNTRY": "Guyana"
+  },
+  {
+    "id": "GY-CU",
+    "name": "Cuyuni-Mazaruni",
+    "TYPE": "Region",
+    "CNTRY": "Guyana"
+  },
+  {
+    "id": "GY-DE",
+    "name": "Demerara-Mahaica",
+    "TYPE": "Region",
+    "CNTRY": "Guyana"
+  },
+  {
+    "id": "GY-BA",
+    "name": "Barima-Waini",
+    "TYPE": "Region",
+    "CNTRY": "Guyana"
+  },
+  {
+    "id": "GY-UD",
+    "name": "Upper Demerara-Berbice",
+    "TYPE": "Region",
+    "CNTRY": "Guyana"
+  },
+  {
+    "id": "GY-PT",
+    "name": "Potaro-Siparuni",
+    "TYPE": "Region",
+    "CNTRY": "Guyana"
+  },
+  {
+    "id": "GY-PM",
+    "name": "Pomeroon-Supenaam",
+    "TYPE": "Region",
+    "CNTRY": "Guyana"
+  },
+  {
+    "id": "GY-MA",
+    "name": "Mahaica-Berbice",
+    "TYPE": "Region",
+    "CNTRY": "Guyana"
+  }
+]

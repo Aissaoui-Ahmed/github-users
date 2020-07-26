@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Jeju",
+    "id": "KR-49",
+    "TYPE": "Special Self-Governing Province",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "South Gyeongsang",
+    "id": "KR-48",
+    "TYPE": "Province",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "North Gyeongsang",
+    "id": "KR-47",
+    "TYPE": "Province",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "South Jeolla",
+    "id": "KR-46",
+    "TYPE": "Province",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "North Jeolla",
+    "id": "KR-45",
+    "TYPE": "Province",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "South Chungcheong",
+    "id": "KR-44",
+    "TYPE": "Province",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "North Chungcheong",
+    "id": "KR-43",
+    "TYPE": "Province",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "Gangwon",
+    "id": "KR-42",
+    "TYPE": "Province",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "Gyeonggi",
+    "id": "KR-41",
+    "TYPE": "Province",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "Ulsan",
+    "id": "KR-31",
+    "TYPE": "Metropolitan City",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "Daejeon",
+    "id": "KR-30",
+    "TYPE": "Metropolitan City",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "Gwangju",
+    "id": "KR-29",
+    "TYPE": "Metropolitan City",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "Incheon",
+    "id": "KR-28",
+    "TYPE": "Metropolitan City",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "Daegu",
+    "id": "KR-27",
+    "TYPE": "Metropolitan City",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "Busan",
+    "id": "KR-26",
+    "TYPE": "Metropolitan City",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "Seoul",
+    "id": "KR-11",
+    "TYPE": "Special City",
+    "CNTRY": "South Korea"
+  },
+  {
+    "name": "Sejong",
+    "id": "KR-50",
+    "TYPE": "Special Self-Governing City",
+    "CNTRY": "South Korea"
+  }
+]

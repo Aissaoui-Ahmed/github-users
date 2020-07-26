@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Norðoyar",
+    "id": "FO-NO",
+    "NAME_ALT": "Norðoyar",
+    "CNTRY": "Faroe Islands",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Sandoy",
+    "id": "FO-SA",
+    "NAME_ALT": "Sandoyar",
+    "CNTRY": "Faroe Islands",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Eysturoy",
+    "id": "FO-OS",
+    "NAME_ALT": "Eysturoyar",
+    "CNTRY": "Faroe Islands",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Streymoy",
+    "id": "FO-ST",
+    "NAME_ALT": "Streymoyar",
+    "CNTRY": "Faroe Islands",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Suðuroy",
+    "id": "FO-SU",
+    "NAME_ALT": "Suðuroyar",
+    "CNTRY": "Faroe Islands",
+    "TYPE": "Region"
+  },
+  {
+    "name": "Vágar",
+    "id": "FO-VG",
+    "NAME_ALT": "Vága",
+    "CNTRY": "Faroe Islands",
+    "TYPE": "Region"
+  }
+]

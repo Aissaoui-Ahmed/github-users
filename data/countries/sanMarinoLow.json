@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Acquaviva",
+    "id": "SM-01",
+    "CNTRY": "San Marino",
+    "TYPE": "Castello",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Chiesanuova",
+    "id": "SM-02",
+    "CNTRY": "San Marino",
+    "TYPE": "Castello",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Domagnano",
+    "id": "SM-03",
+    "CNTRY": "San Marino",
+    "TYPE": "Castello",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Faetano",
+    "id": "SM-04",
+    "CNTRY": "San Marino",
+    "TYPE": "Castello",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Fiorentino",
+    "id": "SM-05",
+    "CNTRY": "San Marino",
+    "TYPE": "Castello",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Borgo Maggiore",
+    "id": "SM-06",
+    "CNTRY": "San Marino",
+    "TYPE": "Castello",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "San Marino",
+    "id": "SM-07",
+    "CNTRY": "San Marino",
+    "TYPE": "Castello",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Montegiardino",
+    "id": "SM-08",
+    "CNTRY": "San Marino",
+    "TYPE": "Castello",
+    "TYPE_ENG": "Municipality"
+  },
+  {
+    "name": "Serravalle",
+    "id": "SM-09",
+    "CNTRY": "San Marino",
+    "TYPE": "Castello",
+    "TYPE_ENG": "Municipality"
+  }
+]

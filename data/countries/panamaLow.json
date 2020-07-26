@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Bocas del Toro",
+    "id": "PA-1",
+    "CNTRY": "Panama",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Coclé",
+    "id": "PA-2",
+    "CNTRY": "Panama",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Colón",
+    "id": "PA-3",
+    "CNTRY": "Panama",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Chiriquí",
+    "id": "PA-4",
+    "CNTRY": "Panama",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Darién",
+    "id": "PA-5",
+    "CNTRY": "Panama",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Herrera",
+    "id": "PA-6",
+    "CNTRY": "Panama",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Los Santos",
+    "id": "PA-7",
+    "CNTRY": "Panama",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Panamá",
+    "id": "PA-8",
+    "CNTRY": "Panama",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Veraguas",
+    "id": "PA-9",
+    "CNTRY": "Panama",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Panamá Oeste",
+    "id": "PA-10",
+    "CNTRY": "Panama",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Emberá",
+    "id": "PA-EM",
+    "CNTRY": "Panama",
+    "TYPE": "Indigenous"
+  },
+  {
+    "name": "Guna Yala",
+    "id": "PA-KY",
+    "CNTRY": "Panama",
+    "TYPE": "Indigenous"
+  },
+  {
+    "name": "Ngöbe-Buglé",
+    "id": "PA-NB",
+    "CNTRY": "Panama",
+    "TYPE": "Indigenous"
+  }
+]

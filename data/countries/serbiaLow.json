@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Beograd",
+    "id": "RS-00",
+    "NAME_ENG": "Belgrade",
+    "CNTRY": "Serbia",
+    "TYPE": "City",
+    "TYPE_ENG": "City"
+  },
+  {
+    "name": "Severnobački okrug",
+    "id": "RS-01",
+    "NAME_ENG": "North Backa",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Srednjebanatski okrug",
+    "id": "RS-02",
+    "NAME_ENG": "Central Banat",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Severnobanatski okrug",
+    "id": "RS-03",
+    "NAME_ENG": "North Banat",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Južnobanatski okrug",
+    "id": "RS-04",
+    "NAME_ENG": "South Banat",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Zapadnobački okrug",
+    "id": "RS-05",
+    "NAME_ENG": "West Backa",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Južnobački okrug",
+    "id": "RS-06",
+    "NAME_ENG": "South Backa",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Sremski okrug",
+    "id": "RS-07",
+    "NAME_ENG": "Srem",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Mačvanski okrug",
+    "id": "RS-08",
+    "NAME_ENG": "Macva",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Kolubarski okrug",
+    "id": "RS-09",
+    "NAME_ENG": "Kolubara",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Podunavski okrug",
+    "id": "RS-10",
+    "NAME_ENG": "Podunavlje",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Braničevski okrug",
+    "id": "RS-11",
+    "NAME_ENG": "Branicevo",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Šumadijski okrug",
+    "id": "RS-12",
+    "NAME_ENG": "Šumadija",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Pomoravski okrug",
+    "id": "RS-13",
+    "NAME_ENG": "Pomoravlje",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Borski okrug",
+    "id": "RS-14",
+    "NAME_ENG": "Bor",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Zaječarski okrug",
+    "id": "RS-15",
+    "NAME_ENG": "Zajecar",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Zlatiborski okrug",
+    "id": "RS-16",
+    "NAME_ENG": "Zlatibor",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Moravički okrug",
+    "id": "RS-17",
+    "NAME_ENG": "Moravica",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Raški okrug",
+    "id": "RS-18",
+    "NAME_ENG": "Raška",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Rasinski okrug",
+    "id": "RS-19",
+    "NAME_ENG": "Rasina",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Nišavski okrug",
+    "id": "RS-20",
+    "NAME_ENG": "Nišava",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Toplički okrug",
+    "id": "RS-21",
+    "NAME_ENG": "Toplica",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Pirotski okrug",
+    "id": "RS-22",
+    "NAME_ENG": "Pirot",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Jablanički okrug",
+    "id": "RS-23",
+    "NAME_ENG": "Jablanica",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Pčinjski okrug",
+    "id": "RS-24",
+    "NAME_ENG": "Pcinja",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Kosovski okrug",
+    "id": "RS-25",
+    "NAME_ENG": "Kosovo",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Pećki okrug",
+    "id": "RS-26",
+    "NAME_ENG": "Pec",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Prizrenski okrug",
+    "id": "RS-27",
+    "NAME_ENG": "Prizren",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Kosovsko-Mitrovački okrug",
+    "id": "RS-28",
+    "NAME_ENG": "Kosovska Mitrovica",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  },
+  {
+    "name": "Kosovsko-Pomoravski okrug",
+    "id": "RS-29",
+    "NAME_ENG": "Kosovo-Pomoravlje",
+    "CNTRY": "Serbia",
+    "TYPE": "Okrug",
+    "TYPE_ENG": "District"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MG-T",
+    "name": "Antananarivo",
+    "TYPE": "Province",
+    "CNTRY": "Madagascar"
+  },
+  {
+    "id": "MG-U",
+    "name": "Toliara",
+    "TYPE": "Province",
+    "CNTRY": "Madagascar"
+  },
+  {
+    "id": "MG-F",
+    "name": "Fianarantsoa",
+    "TYPE": "Province",
+    "CNTRY": "Madagascar"
+  },
+  {
+    "id": "MG-A",
+    "name": "Toamasina",
+    "TYPE": "Province",
+    "CNTRY": "Madagascar"
+  },
+  {
+    "id": "MG-D",
+    "name": "Antsiranana",
+    "TYPE": "Province",
+    "CNTRY": "Madagascar"
+  },
+  {
+    "id": "MG-M",
+    "name": "Mahajanga",
+    "TYPE": "Province",
+    "CNTRY": "Madagascar"
+  }
+]
