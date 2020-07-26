@@ -1,0 +1,32 @@
+{
+  "name": "users-github",
+  "version": "1.0.0",
+  "description": "GitHub users on map",
+  "scripts": {
+    "start": "node src/count.js",
+    "data": "node src/get_data.js"
+  },
+  "keywords": [
+    "map",
+    "github",
+    "users"
+  ],
+  "author": "Aissaoui Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aissaoui-Ahmed/users-github/issues"
+  },
+  "homepage": "https://github.com/Aissaoui-Ahmed/users-github#readme",
+  "dependencies": {
+    "@aissaoui-ahmed/accents": "^1.0.5-2",
+    "@octokit/graphql": "^4.5.1",
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "@amcharts/amcharts4-geodata": "^4.1.16",
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0"
+  }
+}
