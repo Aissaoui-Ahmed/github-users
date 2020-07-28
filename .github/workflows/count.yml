@@ -1,11 +1,11 @@
-name: Test
+name: Search users by location!
 
 on:
   push:
     branches:
       - master
   schedule:
-    - cron: '* 1 * * *'
+    - cron: '0 * * * *'
 
 env:
   CI: true
@@ -42,5 +42,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git remote set-url origin https://"$ACTOR":"$TOKEN"@github.com/"$REPO".git
           git add .
-          git commit -am "Update Repo `date '-I'` By GitHub CI [ci skip]"
+          git commit -am "Update Repo `date '-I'` By GitHub CI [ci skip]" || exit 0
           git push origin master
