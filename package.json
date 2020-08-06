@@ -23,7 +23,7 @@
     "moment": "^2.27.0"
   },
   "devDependencies": {
-    "@amcharts/amcharts4-geodata": "^4.1.16",
+    "@amcharts/amcharts4-geodata": "^4.1.17",
     "eslint": "^7.5.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
