@@ -1,77 +1,114 @@
 [
   {
-    "name": "Aisén del General Carlos Ibañez del Campo",
-    "id": "CL-AI",
-    "CNTRY": "Chile"
-  },
-  {
-    "name": "Antofagasta",
-    "id": "CL-AN",
-    "CNTRY": "Chile"
-  },
-  {
-    "name": "Arica and Parinacota",
-    "id": "CL-AP",
-    "CNTRY": "Chile"
-  },
-  {
-    "name": "La Araucanía",
-    "id": "CL-AR",
-    "CNTRY": "Chile"
-  },
-  {
-    "name": "Atacama",
-    "id": "CL-AT",
-    "CNTRY": "Chile"
-  },
-  {
-    "name": "Biobío",
-    "id": "CL-BI",
-    "CNTRY": "Chile"
-  },
-  {
-    "name": "Coquimbo",
-    "id": "CL-CO",
-    "CNTRY": "Chile"
-  },
-  {
-    "name": "Libertador General Bernardo O'Higgins",
-    "id": "CL-LI",
-    "CNTRY": "Chile"
-  },
-  {
-    "name": "Los Lagos",
-    "id": "CL-LL",
-    "CNTRY": "Chile"
+    "name": "Maule",
+    "id": "CL-ML",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
   },
   {
     "name": "Los Ríos",
     "id": "CL-LR",
-    "CNTRY": "Chile"
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
   },
   {
-    "name": "Magallanes",
-    "id": "CL-MA",
-    "CNTRY": "Chile"
+    "name": "Biobío",
+    "id": "CL-BI",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
   },
   {
-    "name": "Maule",
-    "id": "CL-ML",
-    "CNTRY": "Chile"
+    "name": "Ñuble",
+    "id": "CL-NB",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
+  },
+  {
+    "name": "Libertador General Bernardo O'Higgins",
+    "id": "CL-LI",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
   },
   {
     "name": "Región Metropolitana de Santiago",
     "id": "CL-RM",
-    "CNTRY": "Chile"
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
+  },
+  {
+    "name": "Coquimbo",
+    "id": "CL-CO",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
+  },
+  {
+    "name": "Atacama",
+    "id": "CL-AT",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
   },
   {
     "name": "Tarapacá",
     "id": "CL-TA",
-    "CNTRY": "Chile"
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
+  },
+  {
+    "name": "Arica y Parinacota",
+    "id": "CL-AP",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
+  },
+  {
+    "name": "Magallanes and Chilean Antarctica Región",
+    "id": "CL-MA",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
+  },
+  {
+    "name": "Aisén del General Carlos Ibañez del Campo",
+    "id": "CL-AI",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
+  },
+  {
+    "name": "Los Lagos",
+    "id": "CL-LL",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
+  },
+  {
+    "name": "La Araucanía",
+    "id": "CL-AR",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
   },
   {
     "name": "Valparaíso",
     "id": "CL-VS",
-    "CNTRY": "Chile"
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
+  },
+  {
+    "name": "Antofagasta",
+    "id": "CL-AN",
+    "CNTRY": "Chile",
+    "TYPE": "Región",
+    "TYPE_EN": "Region"
   }
 ]

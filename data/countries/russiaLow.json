@@ -113,7 +113,7 @@
   },
   {
     "name": "Tatarstan",
-    "id": "RU-TT",
+    "id": "RU-TA",
     "TYPE": "Respublika",
     "TYPE_ENG": "Republic",
     "CNTRY": "Russia"
@@ -476,8 +476,8 @@
     "CNTRY": "Russia"
   },
   {
-    "name": "Gorno-Altay",
-    "id": "RU-GA?",
+    "name": "Altay",
+    "id": "RU-AL",
     "TYPE": "Respublika",
     "TYPE_ENG": "Republic",
     "CNTRY": "Russia"
@@ -574,7 +574,7 @@
     "CNTRY": "Russia"
   },
   {
-    "name": "Altay",
+    "name": "Altay Kray",
     "id": "RU-ALT",
     "TYPE": "Kray",
     "TYPE_ENG": "Territory",

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Nusa Tenggara Timur",
+    "id": "ID-NT",
+    "CNTRY": "Indonesia",
+    "TYPE": "Province"
+  },
+  {
+    "name": "Aileu",
+    "id": "TL-AL",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ermera",
+    "id": "TL-ER",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Liquiça",
+    "id": "TL-LI",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Dili",
+    "id": "TL-DI",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Baucau",
+    "id": "TL-BA",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Lautém",
+    "id": "TL-LA",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Viqueque",
+    "id": "TL-VI",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Manatuto",
+    "id": "TL-MT",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Manufahi",
+    "id": "TL-MF",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Ainaro",
+    "id": "TL-AN",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Cova Lima",
+    "id": "TL-CO",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Bobonaro",
+    "id": "TL-BO",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Municipality"
+  },
+  {
+    "name": "Oecusse",
+    "id": "TL-OE",
+    "CNTRY": "Timor-Leste",
+    "TYPE": "Special Administrative Region"
+  }
+]
