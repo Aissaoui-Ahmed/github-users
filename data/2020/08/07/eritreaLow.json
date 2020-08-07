@@ -3,24 +3,28 @@
     "date": "2020-08-07",
     "list": [
       {
-        "users": 2576,
-        "id": "AS-WT"
+        "users": 0,
+        "id": "ER-DK"
       },
       {
         "users": 0,
-        "id": "AS-SW"
+        "id": "ER-DU"
       },
       {
         "users": 0,
-        "id": "AS-RI"
+        "id": "ER-SK"
       },
       {
         "users": 0,
-        "id": "AS-MA"
+        "id": "ER-GB"
       },
       {
         "users": 0,
-        "id": "AS-ET"
+        "id": "ER-MA"
+      },
+      {
+        "users": 0,
+        "id": "ER-AN"
       }
     ]
   }
