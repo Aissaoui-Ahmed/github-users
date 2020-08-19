@@ -1,0 +1,335 @@
+[
+  {
+    "date": "2020-08-19",
+    "list": [
+      {
+        "users": 2,
+        "id": "PH-BAS"
+      },
+      {
+        "users": 26,
+        "id": "PH-ZMB"
+      },
+      {
+        "users": 8,
+        "id": "PH-SUR"
+      },
+      {
+        "users": 47,
+        "id": "PH-TAR"
+      },
+      {
+        "users": 2,
+        "id": "PH-TAW"
+      },
+      {
+        "users": 9,
+        "id": "PH-ZAN"
+      },
+      {
+        "users": 5,
+        "id": "PH-ZSI"
+      },
+      {
+        "users": 0,
+        "id": "PH-ABR"
+      },
+      {
+        "users": 11,
+        "id": "PH-AGN"
+      },
+      {
+        "users": 6,
+        "id": "PH-AGS"
+      },
+      {
+        "users": 16,
+        "id": "PH-AKL"
+      },
+      {
+        "users": 54,
+        "id": "PH-ALB"
+      },
+      {
+        "users": 10,
+        "id": "PH-ANT"
+      },
+      {
+        "users": 0,
+        "id": "PH-APA"
+      },
+      {
+        "users": 627,
+        "id": "PH-AUR"
+      },
+      {
+        "users": 50,
+        "id": "PH-BAN"
+      },
+      {
+        "users": 0,
+        "id": "PH-BTN"
+      },
+      {
+        "users": 132,
+        "id": "PH-BTG"
+      },
+      {
+        "users": 18,
+        "id": "PH-BEN"
+      },
+      {
+        "users": 6,
+        "id": "PH-BIL"
+      },
+      {
+        "users": 97,
+        "id": "PH-BOH"
+      },
+      {
+        "users": 54,
+        "id": "PH-BUK"
+      },
+      {
+        "users": 210,
+        "id": "PH-BUL"
+      },
+      {
+        "users": 201,
+        "id": "PH-CAG"
+      },
+      {
+        "users": 11,
+        "id": "PH-CAN"
+      },
+      {
+        "users": 36,
+        "id": "PH-CAS"
+      },
+      {
+        "users": 1,
+        "id": "PH-CAM"
+      },
+      {
+        "users": 16,
+        "id": "PH-CAP"
+      },
+      {
+        "users": 7,
+        "id": "PH-CAT"
+      },
+      {
+        "users": 354,
+        "id": "PH-CAV"
+      },
+      {
+        "users": 1778,
+        "id": "PH-CEB"
+      },
+      {
+        "users": 3,
+        "id": "PH-COM"
+      },
+      {
+        "users": 4,
+        "id": "PH-DAO"
+      },
+      {
+        "users": 33,
+        "id": "PH-DAS"
+      },
+      {
+        "users": 18,
+        "id": "PH-DAV"
+      },
+      {
+        "users": 0,
+        "id": "PH-DVO"
+      },
+      {
+        "users": 0,
+        "id": "PH-DIN"
+      },
+      {
+        "users": 3,
+        "id": "PH-EAS"
+      },
+      {
+        "users": 1,
+        "id": "PH-GUI"
+      },
+      {
+        "users": 0,
+        "id": "PH-IFU"
+      },
+      {
+        "users": 15,
+        "id": "PH-ILN"
+      },
+      {
+        "users": 7,
+        "id": "PH-ILS"
+      },
+      {
+        "users": 129,
+        "id": "PH-ILI"
+      },
+      {
+        "users": 28,
+        "id": "PH-ISA"
+      },
+      {
+        "users": 5,
+        "id": "PH-KAL"
+      },
+      {
+        "users": 48,
+        "id": "PH-LUN"
+      },
+      {
+        "users": 657,
+        "id": "PH-LAG"
+      },
+      {
+        "users": 13,
+        "id": "PH-LAN"
+      },
+      {
+        "users": 3,
+        "id": "PH-LAS"
+      },
+      {
+        "users": 91,
+        "id": "PH-LEY"
+      },
+      {
+        "users": 3,
+        "id": "PH-MAG"
+      },
+      {
+        "users": 10,
+        "id": "PH-MAD"
+      },
+      {
+        "users": 5,
+        "id": "PH-MAS"
+      },
+      {
+        "users": 4,
+        "id": "PH-00"
+      },
+      {
+        "users": 11,
+        "id": "PH-MSC"
+      },
+      {
+        "users": 22,
+        "id": "PH-MSR"
+      },
+      {
+        "users": 2,
+        "id": "PH-MOU"
+      },
+      {
+        "users": 34,
+        "id": "PH-NEC"
+      },
+      {
+        "users": 35,
+        "id": "PH-NER"
+      },
+      {
+        "users": 44,
+        "id": "PH-NCO"
+      },
+      {
+        "users": 3,
+        "id": "PH-NSA"
+      },
+      {
+        "users": 36,
+        "id": "PH-NUE"
+      },
+      {
+        "users": 14,
+        "id": "PH-NUV"
+      },
+      {
+        "users": 4,
+        "id": "PH-MDC"
+      },
+      {
+        "users": 10,
+        "id": "PH-MDR"
+      },
+      {
+        "users": 22,
+        "id": "PH-PLW"
+      },
+      {
+        "users": 165,
+        "id": "PH-PAM"
+      },
+      {
+        "users": 101,
+        "id": "PH-PAN"
+      },
+      {
+        "users": 847,
+        "id": "PH-QUE"
+      },
+      {
+        "users": 3,
+        "id": "PH-QUI"
+      },
+      {
+        "users": 174,
+        "id": "PH-RIZ"
+      },
+      {
+        "users": 8,
+        "id": "PH-ROM"
+      },
+      {
+        "users": 21,
+        "id": "PH-WSA"
+      },
+      {
+        "users": 4,
+        "id": "PH-SAR"
+      },
+      {
+        "users": 6,
+        "id": "PH-SIG"
+      },
+      {
+        "users": 18,
+        "id": "PH-SOR"
+      },
+      {
+        "users": 14,
+        "id": "PH-SCO"
+      },
+      {
+        "users": 11,
+        "id": "PH-SLE"
+      },
+      {
+        "users": 2,
+        "id": "PH-SUK"
+      },
+      {
+        "users": 2,
+        "id": "PH-SLU"
+      },
+      {
+        "users": 11,
+        "id": "PH-SUN"
+      },
+      {
+        "users": 17,
+        "id": "PH-ZAS"
+      }
+    ]
+  }
+]
