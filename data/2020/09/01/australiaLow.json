@@ -1,0 +1,39 @@
+[
+  {
+    "date": "2020-09-01",
+    "list": [
+      {
+        "users": 17,
+        "id": "AU-NT"
+      },
+      {
+        "users": 1695,
+        "id": "AU-WA"
+      },
+      {
+        "users": 9,
+        "id": "AU-ACT"
+      },
+      {
+        "users": 246,
+        "id": "AU-NSW"
+      },
+      {
+        "users": 1097,
+        "id": "AU-SA"
+      },
+      {
+        "users": 4353,
+        "id": "AU-VIC"
+      },
+      {
+        "users": 1226,
+        "id": "AU-QLD"
+      },
+      {
+        "users": 539,
+        "id": "AU-TAS"
+      }
+    ]
+  }
+]
