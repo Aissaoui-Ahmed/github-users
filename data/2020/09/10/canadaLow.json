@@ -1,0 +1,59 @@
+[
+  {
+    "date": "2020-09-10",
+    "list": [
+      {
+        "users": 3240,
+        "id": "CA-AB"
+      },
+      {
+        "users": 1849,
+        "id": "CA-BC"
+      },
+      {
+        "users": 554,
+        "id": "CA-MB"
+      },
+      {
+        "users": 813,
+        "id": "CA-NB"
+      },
+      {
+        "users": 26,
+        "id": "CA-NL"
+      },
+      {
+        "users": 968,
+        "id": "CA-NS"
+      },
+      {
+        "users": 7,
+        "id": "CA-NT"
+      },
+      {
+        "users": 11,
+        "id": "CA-NU"
+      },
+      {
+        "users": 16939,
+        "id": "CA-ON"
+      },
+      {
+        "users": 85,
+        "id": "CA-PE"
+      },
+      {
+        "users": 3646,
+        "id": "CA-QC"
+      },
+      {
+        "users": 347,
+        "id": "CA-SK"
+      },
+      {
+        "users": 75,
+        "id": "CA-YT"
+      }
+    ]
+  }
+]
