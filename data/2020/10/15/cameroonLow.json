@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2020-10-15",
+    "list": [
+      {
+        "users": 1,
+        "id": "CM-AD"
+      },
+      {
+        "users": 370,
+        "id": "CM-CE"
+      },
+      {
+        "users": 12,
+        "id": "CM-EN"
+      },
+      {
+        "users": 5243,
+        "id": "CM-ES"
+      },
+      {
+        "users": 9,
+        "id": "CM-LT"
+      },
+      {
+        "users": 10457,
+        "id": "CM-NO"
+      },
+      {
+        "users": 1,
+        "id": "CM-NW"
+      },
+      {
+        "users": 10681,
+        "id": "CM-OU"
+      },
+      {
+        "users": 35288,
+        "id": "CM-SU"
+      },
+      {
+        "users": 323,
+        "id": "CM-SW"
+      }
+    ]
+  }
+]
