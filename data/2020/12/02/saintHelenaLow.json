@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2020-12-02",
+    "list": [
+      {
+        "users": 3,
+        "id": "SH-AC"
+      },
+      {
+        "users": 5,
+        "id": "SH-TA"
+      },
+      {
+        "users": 0,
+        "id": "SH-HL-AF"
+      },
+      {
+        "users": 5,
+        "id": "SH-HL-BH"
+      },
+      {
+        "users": 0,
+        "id": "SH-HL-HT"
+      },
+      {
+        "users": 64,
+        "id": "SH-HL-JM"
+      },
+      {
+        "users": 0,
+        "id": "SH-HL-LV"
+      },
+      {
+        "users": 40,
+        "id": "SH-HL-LW"
+      },
+      {
+        "users": 1,
+        "id": "SH-HL-SB"
+      },
+      {
+        "users": 2,
+        "id": "SH-HL-SP"
+      }
+    ]
+  }
+]
