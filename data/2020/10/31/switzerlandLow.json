@@ -1,115 +1,110 @@
 [
   {
-    "date": "2020-10-31",
-    "list": [
-      {
-        "users": 30,
-        "id": "CH-AG"
-      },
-      {
-        "users": 0,
-        "id": "CH-AI"
-      },
-      {
-        "users": 0,
-        "id": "CH-AR"
-      },
-      {
-        "users": 1,
-        "id": "CH-BL"
-      },
-      {
-        "users": 1571,
-        "id": "CH-BE"
-      },
-      {
-        "users": 6,
-        "id": "CH-BS"
-      },
-      {
-        "users": 193,
-        "id": "CH-FR"
-      },
-      {
-        "users": 261,
-        "id": "CH-GE"
-      },
-      {
-        "users": 32,
-        "id": "CH-GL"
-      },
-      {
-        "users": 5,
-        "id": "CH-GR"
-      },
-      {
-        "users": 30,
-        "id": "CH-JU"
-      },
-      {
-        "users": 171,
-        "id": "CH-LU"
-      },
-      {
-        "users": 182,
-        "id": "CH-NE"
-      },
-      {
-        "users": 1,
-        "id": "CH-NW"
-      },
-      {
-        "users": 2,
-        "id": "CH-OW"
-      },
-      {
-        "users": 6,
-        "id": "CH-SG"
-      },
-      {
-        "users": 40,
-        "id": "CH-SH"
-      },
-      {
-        "users": 67,
-        "id": "CH-SO"
-      },
-      {
-        "users": 17,
-        "id": "CH-SZ"
-      },
-      {
-        "users": 16,
-        "id": "CH-TG"
-      },
-      {
-        "users": 38,
-        "id": "CH-TI"
-      },
-      {
-        "users": 3,
-        "id": "CH-UR"
-      },
-      {
-        "users": 37,
-        "id": "CH-VD"
-      },
-      {
-        "users": 48,
-        "id": "CH-VS"
-      },
-      {
-        "users": 442,
-        "id": "CH-ZG"
-      },
-      {
-        "users": 9283,
-        "id": "CH-ZH"
-      },
-      {
-        "users": 0,
-        "id": "IT-CO"
-      }
-    ]
+    "users": 30,
+    "id": "CH-AG"
+  },
+  {
+    "users": 0,
+    "id": "CH-AI"
+  },
+  {
+    "users": 0,
+    "id": "CH-AR"
+  },
+  {
+    "users": 1,
+    "id": "CH-BL"
+  },
+  {
+    "users": 1571,
+    "id": "CH-BE"
+  },
+  {
+    "users": 6,
+    "id": "CH-BS"
+  },
+  {
+    "users": 193,
+    "id": "CH-FR"
+  },
+  {
+    "users": 261,
+    "id": "CH-GE"
+  },
+  {
+    "users": 32,
+    "id": "CH-GL"
+  },
+  {
+    "users": 5,
+    "id": "CH-GR"
+  },
+  {
+    "users": 30,
+    "id": "CH-JU"
+  },
+  {
+    "users": 171,
+    "id": "CH-LU"
+  },
+  {
+    "users": 182,
+    "id": "CH-NE"
+  },
+  {
+    "users": 1,
+    "id": "CH-NW"
+  },
+  {
+    "users": 2,
+    "id": "CH-OW"
+  },
+  {
+    "users": 6,
+    "id": "CH-SG"
+  },
+  {
+    "users": 40,
+    "id": "CH-SH"
+  },
+  {
+    "users": 67,
+    "id": "CH-SO"
+  },
+  {
+    "users": 17,
+    "id": "CH-SZ"
+  },
+  {
+    "users": 16,
+    "id": "CH-TG"
+  },
+  {
+    "users": 38,
+    "id": "CH-TI"
+  },
+  {
+    "users": 3,
+    "id": "CH-UR"
+  },
+  {
+    "users": 37,
+    "id": "CH-VD"
+  },
+  {
+    "users": 48,
+    "id": "CH-VS"
+  },
+  {
+    "users": 442,
+    "id": "CH-ZG"
+  },
+  {
+    "users": 9283,
+    "id": "CH-ZH"
+  },
+  {
+    "users": 0,
+    "id": "IT-CO"
   }
 ]

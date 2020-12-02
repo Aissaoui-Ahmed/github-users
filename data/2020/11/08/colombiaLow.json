@@ -1,139 +1,134 @@
 [
   {
-    "date": "2020-11-08",
-    "list": [
-      {
-        "users": 0,
-        "id": "CO-VID"
-      },
-      {
-        "users": 0,
-        "id": "CO-VAU"
-      },
-      {
-        "users": 222,
-        "id": "CO-VAC"
-      },
-      {
-        "users": 57,
-        "id": "CO-TOL"
-      },
-      {
-        "users": 120,
-        "id": "CO-SUC"
-      },
-      {
-        "users": 0,
-        "id": "CO-SAP"
-      },
-      {
-        "users": 448,
-        "id": "CO-SAN"
-      },
-      {
-        "users": 92,
-        "id": "CO-RIS"
-      },
-      {
-        "users": 63,
-        "id": "CO-QUI"
-      },
-      {
-        "users": 5,
-        "id": "CO-PUT"
-      },
-      {
-        "users": 0,
-        "id": "CO-NSA"
-      },
-      {
-        "users": 42,
-        "id": "CO-NAR"
-      },
-      {
-        "users": 58,
-        "id": "CO-MET"
-      },
-      {
-        "users": 39,
-        "id": "CO-MAG"
-      },
-      {
-        "users": 9,
-        "id": "CO-LAG"
-      },
-      {
-        "users": 87,
-        "id": "CO-HUI"
-      },
-      {
-        "users": 4,
-        "id": "CO-GUV"
-      },
-      {
-        "users": 1,
-        "id": "CO-GUA"
-      },
-      {
-        "users": 0,
-        "id": "CO-DC"
-      },
-      {
-        "users": 88,
-        "id": "CO-CUN"
-      },
-      {
-        "users": 3285,
-        "id": "CO-COR"
-      },
-      {
-        "users": 16,
-        "id": "CO-CHO"
-      },
-      {
-        "users": 31,
-        "id": "CO-CES"
-      },
-      {
-        "users": 313,
-        "id": "CO-CAU"
-      },
-      {
-        "users": 16,
-        "id": "CO-CAS"
-      },
-      {
-        "users": 37,
-        "id": "CO-CAQ"
-      },
-      {
-        "users": 345,
-        "id": "CO-CAL"
-      },
-      {
-        "users": 66,
-        "id": "CO-BOY"
-      },
-      {
-        "users": 131,
-        "id": "CO-BOL"
-      },
-      {
-        "users": 83,
-        "id": "CO-ATL"
-      },
-      {
-        "users": 7,
-        "id": "CO-ARA"
-      },
-      {
-        "users": 570,
-        "id": "CO-ANT"
-      },
-      {
-        "users": 445,
-        "id": "CO-AMA"
-      }
-    ]
+    "users": 0,
+    "id": "CO-VID"
+  },
+  {
+    "users": 0,
+    "id": "CO-VAU"
+  },
+  {
+    "users": 222,
+    "id": "CO-VAC"
+  },
+  {
+    "users": 57,
+    "id": "CO-TOL"
+  },
+  {
+    "users": 120,
+    "id": "CO-SUC"
+  },
+  {
+    "users": 0,
+    "id": "CO-SAP"
+  },
+  {
+    "users": 448,
+    "id": "CO-SAN"
+  },
+  {
+    "users": 92,
+    "id": "CO-RIS"
+  },
+  {
+    "users": 63,
+    "id": "CO-QUI"
+  },
+  {
+    "users": 5,
+    "id": "CO-PUT"
+  },
+  {
+    "users": 0,
+    "id": "CO-NSA"
+  },
+  {
+    "users": 42,
+    "id": "CO-NAR"
+  },
+  {
+    "users": 58,
+    "id": "CO-MET"
+  },
+  {
+    "users": 39,
+    "id": "CO-MAG"
+  },
+  {
+    "users": 9,
+    "id": "CO-LAG"
+  },
+  {
+    "users": 87,
+    "id": "CO-HUI"
+  },
+  {
+    "users": 4,
+    "id": "CO-GUV"
+  },
+  {
+    "users": 1,
+    "id": "CO-GUA"
+  },
+  {
+    "users": 0,
+    "id": "CO-DC"
+  },
+  {
+    "users": 88,
+    "id": "CO-CUN"
+  },
+  {
+    "users": 3285,
+    "id": "CO-COR"
+  },
+  {
+    "users": 16,
+    "id": "CO-CHO"
+  },
+  {
+    "users": 31,
+    "id": "CO-CES"
+  },
+  {
+    "users": 313,
+    "id": "CO-CAU"
+  },
+  {
+    "users": 16,
+    "id": "CO-CAS"
+  },
+  {
+    "users": 37,
+    "id": "CO-CAQ"
+  },
+  {
+    "users": 345,
+    "id": "CO-CAL"
+  },
+  {
+    "users": 66,
+    "id": "CO-BOY"
+  },
+  {
+    "users": 131,
+    "id": "CO-BOL"
+  },
+  {
+    "users": 83,
+    "id": "CO-ATL"
+  },
+  {
+    "users": 7,
+    "id": "CO-ARA"
+  },
+  {
+    "users": 570,
+    "id": "CO-ANT"
+  },
+  {
+    "users": 445,
+    "id": "CO-AMA"
   }
 ]

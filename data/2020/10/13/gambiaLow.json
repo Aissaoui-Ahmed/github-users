@@ -1,39 +1,34 @@
 [
   {
-    "date": "2020-10-13",
-    "list": [
-      {
-        "users": 0,
-        "id": "GM-JA"
-      },
-      {
-        "users": 1,
-        "id": "GM-KA"
-      },
-      {
-        "users": 26,
-        "id": "GM-BJ"
-      },
-      {
-        "users": 12,
-        "id": "GM-UR"
-      },
-      {
-        "users": 0,
-        "id": "GM-LR"
-      },
-      {
-        "users": 3,
-        "id": "GM-WE"
-      },
-      {
-        "users": 1,
-        "id": "GM-NB"
-      },
-      {
-        "users": 0,
-        "id": "GM-KU"
-      }
-    ]
+    "users": 0,
+    "id": "GM-JA"
+  },
+  {
+    "users": 1,
+    "id": "GM-KA"
+  },
+  {
+    "users": 26,
+    "id": "GM-BJ"
+  },
+  {
+    "users": 12,
+    "id": "GM-UR"
+  },
+  {
+    "users": 0,
+    "id": "GM-LR"
+  },
+  {
+    "users": 3,
+    "id": "GM-WE"
+  },
+  {
+    "users": 1,
+    "id": "GM-NB"
+  },
+  {
+    "users": 0,
+    "id": "GM-KU"
   }
 ]

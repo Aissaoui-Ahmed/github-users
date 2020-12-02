@@ -1,39 +1,34 @@
 [
   {
-    "date": "2020-10-23",
-    "list": [
-      {
-        "users": 0,
-        "id": "QA-RA"
-      },
-      {
-        "users": 1,
-        "id": "QA-DA"
-      },
-      {
-        "users": 0,
-        "id": "QA-KH"
-      },
-      {
-        "users": 0,
-        "id": "QA-MS"
-      },
-      {
-        "users": 0,
-        "id": "QA-SH"
-      },
-      {
-        "users": 0,
-        "id": "QA-US"
-      },
-      {
-        "users": 3,
-        "id": "QA-WA"
-      },
-      {
-        "users": 0,
-        "id": "QA-ZA"
-      }
-    ]
+    "users": 0,
+    "id": "QA-RA"
+  },
+  {
+    "users": 1,
+    "id": "QA-DA"
+  },
+  {
+    "users": 0,
+    "id": "QA-KH"
+  },
+  {
+    "users": 0,
+    "id": "QA-MS"
+  },
+  {
+    "users": 0,
+    "id": "QA-SH"
+  },
+  {
+    "users": 0,
+    "id": "QA-US"
+  },
+  {
+    "users": 3,
+    "id": "QA-WA"
+  },
+  {
+    "users": 0,
+    "id": "QA-ZA"
   }
 ]

@@ -1,51 +1,46 @@
 [
   {
-    "date": "2020-10-11",
-    "list": [
-      {
-        "users": 0,
-        "id": "ET-BE"
-      },
-      {
-        "users": 0,
-        "id": "ET-SO"
-      },
-      {
-        "users": 3,
-        "id": "ET-OR"
-      },
-      {
-        "users": 6,
-        "id": "ET-DD"
-      },
-      {
-        "users": 3,
-        "id": "ET-AA"
-      },
-      {
-        "users": 0,
-        "id": "ET-HA"
-      },
-      {
-        "users": 18,
-        "id": "ET-TI"
-      },
-      {
-        "users": 3,
-        "id": "ET-AM"
-      },
-      {
-        "users": 3,
-        "id": "ET-AF"
-      },
-      {
-        "users": 0,
-        "id": "ET-SN"
-      },
-      {
-        "users": 0,
-        "id": "ET-GA"
-      }
-    ]
+    "users": 0,
+    "id": "ET-BE"
+  },
+  {
+    "users": 0,
+    "id": "ET-SO"
+  },
+  {
+    "users": 3,
+    "id": "ET-OR"
+  },
+  {
+    "users": 6,
+    "id": "ET-DD"
+  },
+  {
+    "users": 3,
+    "id": "ET-AA"
+  },
+  {
+    "users": 0,
+    "id": "ET-HA"
+  },
+  {
+    "users": 18,
+    "id": "ET-TI"
+  },
+  {
+    "users": 3,
+    "id": "ET-AM"
+  },
+  {
+    "users": 3,
+    "id": "ET-AF"
+  },
+  {
+    "users": 0,
+    "id": "ET-SN"
+  },
+  {
+    "users": 0,
+    "id": "ET-GA"
   }
 ]

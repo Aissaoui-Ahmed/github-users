@@ -1,63 +1,58 @@
 [
   {
-    "date": "2020-11-04",
-    "list": [
-      {
-        "users": 9,
-        "id": "SN-ZG"
-      },
-      {
-        "users": 1,
-        "id": "SN-KD"
-      },
-      {
-        "users": 1,
-        "id": "SN-SE"
-      },
-      {
-        "users": 0,
-        "id": "SN-KE"
-      },
-      {
-        "users": 4,
-        "id": "SN-MT"
-      },
-      {
-        "users": 1222,
-        "id": "SN-SL"
-      },
-      {
-        "users": 1,
-        "id": "SN-LG"
-      },
-      {
-        "users": 0,
-        "id": "SN-KA"
-      },
-      {
-        "users": 0,
-        "id": "SN-KL"
-      },
-      {
-        "users": 2,
-        "id": "SN-DB"
-      },
-      {
-        "users": 1,
-        "id": "SN-FK"
-      },
-      {
-        "users": 28,
-        "id": "SN-TH"
-      },
-      {
-        "users": 715,
-        "id": "SN-DK"
-      },
-      {
-        "users": 1,
-        "id": "SN-TC"
-      }
-    ]
+    "users": 9,
+    "id": "SN-ZG"
+  },
+  {
+    "users": 1,
+    "id": "SN-KD"
+  },
+  {
+    "users": 1,
+    "id": "SN-SE"
+  },
+  {
+    "users": 0,
+    "id": "SN-KE"
+  },
+  {
+    "users": 4,
+    "id": "SN-MT"
+  },
+  {
+    "users": 1222,
+    "id": "SN-SL"
+  },
+  {
+    "users": 1,
+    "id": "SN-LG"
+  },
+  {
+    "users": 0,
+    "id": "SN-KA"
+  },
+  {
+    "users": 0,
+    "id": "SN-KL"
+  },
+  {
+    "users": 2,
+    "id": "SN-DB"
+  },
+  {
+    "users": 1,
+    "id": "SN-FK"
+  },
+  {
+    "users": 28,
+    "id": "SN-TH"
+  },
+  {
+    "users": 715,
+    "id": "SN-DK"
+  },
+  {
+    "users": 1,
+    "id": "SN-TC"
   }
 ]

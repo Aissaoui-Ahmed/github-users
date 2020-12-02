@@ -1,51 +1,46 @@
 [
   {
-    "date": "2020-10-20",
-    "list": [
-      {
-        "users": 272,
-        "id": "BE-VAN"
-      },
-      {
-        "users": 1,
-        "id": "BE-WBR"
-      },
-      {
-        "users": 0,
-        "id": "BE-BRU"
-      },
-      {
-        "users": 7,
-        "id": "BE-WHT"
-      },
-      {
-        "users": 616,
-        "id": "BE-WLG"
-      },
-      {
-        "users": 154,
-        "id": "BE-VLI"
-      },
-      {
-        "users": 2223,
-        "id": "BE-WLX"
-      },
-      {
-        "users": 13,
-        "id": "BE-VOV"
-      },
-      {
-        "users": 175,
-        "id": "BE-WNA"
-      },
-      {
-        "users": 2,
-        "id": "BE-VBR"
-      },
-      {
-        "users": 13,
-        "id": "BE-VWV"
-      }
-    ]
+    "users": 272,
+    "id": "BE-VAN"
+  },
+  {
+    "users": 1,
+    "id": "BE-WBR"
+  },
+  {
+    "users": 0,
+    "id": "BE-BRU"
+  },
+  {
+    "users": 7,
+    "id": "BE-WHT"
+  },
+  {
+    "users": 616,
+    "id": "BE-WLG"
+  },
+  {
+    "users": 154,
+    "id": "BE-VLI"
+  },
+  {
+    "users": 2223,
+    "id": "BE-WLX"
+  },
+  {
+    "users": 13,
+    "id": "BE-VOV"
+  },
+  {
+    "users": 175,
+    "id": "BE-WNA"
+  },
+  {
+    "users": 2,
+    "id": "BE-VBR"
+  },
+  {
+    "users": 13,
+    "id": "BE-VWV"
   }
 ]

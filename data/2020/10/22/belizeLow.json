@@ -1,31 +1,26 @@
 [
   {
-    "date": "2020-10-22",
-    "list": [
-      {
-        "users": 161,
-        "id": "BZ-BZ"
-      },
-      {
-        "users": 5,
-        "id": "BZ-CY"
-      },
-      {
-        "users": 7,
-        "id": "BZ-CZL"
-      },
-      {
-        "users": 1,
-        "id": "BZ-OW"
-      },
-      {
-        "users": 0,
-        "id": "BZ-SC"
-      },
-      {
-        "users": 673,
-        "id": "BZ-TOL"
-      }
-    ]
+    "users": 161,
+    "id": "BZ-BZ"
+  },
+  {
+    "users": 5,
+    "id": "BZ-CY"
+  },
+  {
+    "users": 7,
+    "id": "BZ-CZL"
+  },
+  {
+    "users": 1,
+    "id": "BZ-OW"
+  },
+  {
+    "users": 0,
+    "id": "BZ-SC"
+  },
+  {
+    "users": 673,
+    "id": "BZ-TOL"
   }
 ]

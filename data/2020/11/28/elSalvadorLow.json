@@ -1,63 +1,58 @@
 [
   {
-    "date": "2020-11-28",
-    "list": [
-      {
-        "users": 8,
-        "id": "SV-US"
-      },
-      {
-        "users": 57,
-        "id": "SV-UN"
-      },
-      {
-        "users": 49,
-        "id": "SV-SV"
-      },
-      {
-        "users": 446,
-        "id": "SV-SS"
-      },
-      {
-        "users": 14,
-        "id": "SV-SO"
-      },
-      {
-        "users": 229,
-        "id": "SV-SM"
-      },
-      {
-        "users": 322,
-        "id": "SV-SA"
-      },
-      {
-        "users": 724,
-        "id": "SV-PA"
-      },
-      {
-        "users": 18,
-        "id": "SV-MO"
-      },
-      {
-        "users": 60,
-        "id": "SV-LI"
-      },
-      {
-        "users": 6,
-        "id": "SV-CU"
-      },
-      {
-        "users": 2,
-        "id": "SV-CH"
-      },
-      {
-        "users": 3,
-        "id": "SV-CA"
-      },
-      {
-        "users": 7,
-        "id": "SV-Ah"
-      }
-    ]
+    "users": 8,
+    "id": "SV-US"
+  },
+  {
+    "users": 57,
+    "id": "SV-UN"
+  },
+  {
+    "users": 49,
+    "id": "SV-SV"
+  },
+  {
+    "users": 446,
+    "id": "SV-SS"
+  },
+  {
+    "users": 14,
+    "id": "SV-SO"
+  },
+  {
+    "users": 229,
+    "id": "SV-SM"
+  },
+  {
+    "users": 322,
+    "id": "SV-SA"
+  },
+  {
+    "users": 724,
+    "id": "SV-PA"
+  },
+  {
+    "users": 18,
+    "id": "SV-MO"
+  },
+  {
+    "users": 60,
+    "id": "SV-LI"
+  },
+  {
+    "users": 6,
+    "id": "SV-CU"
+  },
+  {
+    "users": 2,
+    "id": "SV-CH"
+  },
+  {
+    "users": 3,
+    "id": "SV-CA"
+  },
+  {
+    "users": 7,
+    "id": "SV-Ah"
   }
 ]

@@ -1,155 +1,150 @@
 [
   {
-    "date": "2020-10-03",
-    "list": [
-      {
-        "users": 85,
-        "id": "NG-AB"
-      },
-      {
-        "users": 29,
-        "id": "NG-AD"
-      },
-      {
-        "users": 109,
-        "id": "NG-AK"
-      },
-      {
-        "users": 84,
-        "id": "NG-AN"
-      },
-      {
-        "users": 71,
-        "id": "NG-BA"
-      },
-      {
-        "users": 44,
-        "id": "NG-BE"
-      },
-      {
-        "users": 14,
-        "id": "NG-BO"
-      },
-      {
-        "users": 35,
-        "id": "NG-BY"
-      },
-      {
-        "users": 56,
-        "id": "NG-CR"
-      },
-      {
-        "users": 223,
-        "id": "NG-DE"
-      },
-      {
-        "users": 16,
-        "id": "NG-EB"
-      },
-      {
-        "users": 244,
-        "id": "NG-ED"
-      },
-      {
-        "users": 58,
-        "id": "NG-EK"
-      },
-      {
-        "users": 322,
-        "id": "NG-EN"
-      },
-      {
-        "users": 1,
-        "id": "NG-FC"
-      },
-      {
-        "users": 55,
-        "id": "NG-GO"
-      },
-      {
-        "users": 90,
-        "id": "NG-IM"
-      },
-      {
-        "users": 19,
-        "id": "NG-JI"
-      },
-      {
-        "users": 239,
-        "id": "NG-KD"
-      },
-      {
-        "users": 10,
-        "id": "NG-KE"
-      },
-      {
-        "users": 272,
-        "id": "NG-KN"
-      },
-      {
-        "users": 46,
-        "id": "NG-KO"
-      },
-      {
-        "users": 41,
-        "id": "NG-KT"
-      },
-      {
-        "users": 113,
-        "id": "NG-KW"
-      },
-      {
-        "users": 10351,
-        "id": "NG-LA"
-      },
-      {
-        "users": 29,
-        "id": "NG-NA"
-      },
-      {
-        "users": 124,
-        "id": "NG-NI"
-      },
-      {
-        "users": 175,
-        "id": "NG-OG"
-      },
-      {
-        "users": 81,
-        "id": "NG-ON"
-      },
-      {
-        "users": 109,
-        "id": "NG-OS"
-      },
-      {
-        "users": 134,
-        "id": "NG-OY"
-      },
-      {
-        "users": 108,
-        "id": "NG-PL"
-      },
-      {
-        "users": 202,
-        "id": "NG-RI"
-      },
-      {
-        "users": 31,
-        "id": "NG-SO"
-      },
-      {
-        "users": 21,
-        "id": "NG-TA"
-      },
-      {
-        "users": 21,
-        "id": "NG-YO"
-      },
-      {
-        "users": 11,
-        "id": "NG-ZA"
-      }
-    ]
+    "users": 85,
+    "id": "NG-AB"
+  },
+  {
+    "users": 29,
+    "id": "NG-AD"
+  },
+  {
+    "users": 109,
+    "id": "NG-AK"
+  },
+  {
+    "users": 84,
+    "id": "NG-AN"
+  },
+  {
+    "users": 71,
+    "id": "NG-BA"
+  },
+  {
+    "users": 44,
+    "id": "NG-BE"
+  },
+  {
+    "users": 14,
+    "id": "NG-BO"
+  },
+  {
+    "users": 35,
+    "id": "NG-BY"
+  },
+  {
+    "users": 56,
+    "id": "NG-CR"
+  },
+  {
+    "users": 223,
+    "id": "NG-DE"
+  },
+  {
+    "users": 16,
+    "id": "NG-EB"
+  },
+  {
+    "users": 244,
+    "id": "NG-ED"
+  },
+  {
+    "users": 58,
+    "id": "NG-EK"
+  },
+  {
+    "users": 322,
+    "id": "NG-EN"
+  },
+  {
+    "users": 1,
+    "id": "NG-FC"
+  },
+  {
+    "users": 55,
+    "id": "NG-GO"
+  },
+  {
+    "users": 90,
+    "id": "NG-IM"
+  },
+  {
+    "users": 19,
+    "id": "NG-JI"
+  },
+  {
+    "users": 239,
+    "id": "NG-KD"
+  },
+  {
+    "users": 10,
+    "id": "NG-KE"
+  },
+  {
+    "users": 272,
+    "id": "NG-KN"
+  },
+  {
+    "users": 46,
+    "id": "NG-KO"
+  },
+  {
+    "users": 41,
+    "id": "NG-KT"
+  },
+  {
+    "users": 113,
+    "id": "NG-KW"
+  },
+  {
+    "users": 10351,
+    "id": "NG-LA"
+  },
+  {
+    "users": 29,
+    "id": "NG-NA"
+  },
+  {
+    "users": 124,
+    "id": "NG-NI"
+  },
+  {
+    "users": 175,
+    "id": "NG-OG"
+  },
+  {
+    "users": 81,
+    "id": "NG-ON"
+  },
+  {
+    "users": 109,
+    "id": "NG-OS"
+  },
+  {
+    "users": 134,
+    "id": "NG-OY"
+  },
+  {
+    "users": 108,
+    "id": "NG-PL"
+  },
+  {
+    "users": 202,
+    "id": "NG-RI"
+  },
+  {
+    "users": 31,
+    "id": "NG-SO"
+  },
+  {
+    "users": 21,
+    "id": "NG-TA"
+  },
+  {
+    "users": 21,
+    "id": "NG-YO"
+  },
+  {
+    "users": 11,
+    "id": "NG-ZA"
   }
 ]

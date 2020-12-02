@@ -1,39 +1,34 @@
 [
   {
-    "date": "2020-10-24",
-    "list": [
-      {
-        "users": 0,
-        "id": "GB-DX"
-      },
-      {
-        "users": 31,
-        "id": "CY-03"
-      },
-      {
-        "users": 21,
-        "id": "CY-04"
-      },
-      {
-        "users": 11,
-        "id": "CY-06"
-      },
-      {
-        "users": 24,
-        "id": "CY-05"
-      },
-      {
-        "users": 278,
-        "id": "CY-02"
-      },
-      {
-        "users": 0,
-        "id": "GB-AX"
-      },
-      {
-        "users": 251,
-        "id": "CY-01"
-      }
-    ]
+    "users": 0,
+    "id": "GB-DX"
+  },
+  {
+    "users": 31,
+    "id": "CY-03"
+  },
+  {
+    "users": 21,
+    "id": "CY-04"
+  },
+  {
+    "users": 11,
+    "id": "CY-06"
+  },
+  {
+    "users": 24,
+    "id": "CY-05"
+  },
+  {
+    "users": 278,
+    "id": "CY-02"
+  },
+  {
+    "users": 0,
+    "id": "GB-AX"
+  },
+  {
+    "users": 251,
+    "id": "CY-01"
   }
 ]

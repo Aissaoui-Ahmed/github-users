@@ -1,111 +1,106 @@
 [
   {
-    "date": "2020-11-10",
-    "list": [
-      {
-        "users": 0,
-        "id": "CD-BC"
-      },
-      {
-        "users": 0,
-        "id": "CD-BU"
-      },
-      {
-        "users": 0,
-        "id": "CD-EQ"
-      },
-      {
-        "users": 8,
-        "id": "CD-HK"
-      },
-      {
-        "users": 0,
-        "id": "CD-HL"
-      },
-      {
-        "users": 0,
-        "id": "CD-HU"
-      },
-      {
-        "users": 0,
-        "id": "CD-IT"
-      },
-      {
-        "users": 0,
-        "id": "CD-KC"
-      },
-      {
-        "users": 0,
-        "id": "CD-KE"
-      },
-      {
-        "users": 0,
-        "id": "CD-KG"
-      },
-      {
-        "users": 0,
-        "id": "CD-KL"
-      },
-      {
-        "users": 1,
-        "id": "CD-KN"
-      },
-      {
-        "users": 0,
-        "id": "CD-KS"
-      },
-      {
-        "users": 0,
-        "id": "CD-LO"
-      },
-      {
-        "users": 0,
-        "id": "CD-LU"
-      },
-      {
-        "users": 0,
-        "id": "CD-MA"
-      },
-      {
-        "users": 0,
-        "id": "CD-MN"
-      },
-      {
-        "users": 0,
-        "id": "CD-MO"
-      },
-      {
-        "users": 3,
-        "id": "CD-NK"
-      },
-      {
-        "users": 0,
-        "id": "CD-NU"
-      },
-      {
-        "users": 1,
-        "id": "CD-SA"
-      },
-      {
-        "users": 1,
-        "id": "CD-SK"
-      },
-      {
-        "users": 0,
-        "id": "CD-SU"
-      },
-      {
-        "users": 1,
-        "id": "CD-TA"
-      },
-      {
-        "users": 0,
-        "id": "CD-TO"
-      },
-      {
-        "users": 0,
-        "id": "CD-TU"
-      }
-    ]
+    "users": 0,
+    "id": "CD-BC"
+  },
+  {
+    "users": 0,
+    "id": "CD-BU"
+  },
+  {
+    "users": 0,
+    "id": "CD-EQ"
+  },
+  {
+    "users": 8,
+    "id": "CD-HK"
+  },
+  {
+    "users": 0,
+    "id": "CD-HL"
+  },
+  {
+    "users": 0,
+    "id": "CD-HU"
+  },
+  {
+    "users": 0,
+    "id": "CD-IT"
+  },
+  {
+    "users": 0,
+    "id": "CD-KC"
+  },
+  {
+    "users": 0,
+    "id": "CD-KE"
+  },
+  {
+    "users": 0,
+    "id": "CD-KG"
+  },
+  {
+    "users": 0,
+    "id": "CD-KL"
+  },
+  {
+    "users": 1,
+    "id": "CD-KN"
+  },
+  {
+    "users": 0,
+    "id": "CD-KS"
+  },
+  {
+    "users": 0,
+    "id": "CD-LO"
+  },
+  {
+    "users": 0,
+    "id": "CD-LU"
+  },
+  {
+    "users": 0,
+    "id": "CD-MA"
+  },
+  {
+    "users": 0,
+    "id": "CD-MN"
+  },
+  {
+    "users": 0,
+    "id": "CD-MO"
+  },
+  {
+    "users": 3,
+    "id": "CD-NK"
+  },
+  {
+    "users": 0,
+    "id": "CD-NU"
+  },
+  {
+    "users": 1,
+    "id": "CD-SA"
+  },
+  {
+    "users": 1,
+    "id": "CD-SK"
+  },
+  {
+    "users": 0,
+    "id": "CD-SU"
+  },
+  {
+    "users": 1,
+    "id": "CD-TA"
+  },
+  {
+    "users": 0,
+    "id": "CD-TO"
+  },
+  {
+    "users": 0,
+    "id": "CD-TU"
   }
 ]

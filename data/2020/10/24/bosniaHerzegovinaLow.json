@@ -1,19 +1,14 @@
 [
   {
-    "date": "2020-10-24",
-    "list": [
-      {
-        "users": 2,
-        "id": "BA-BIH"
-      },
-      {
-        "users": 4,
-        "id": "BA-BRC"
-      },
-      {
-        "users": 12,
-        "id": "BA-SRP"
-      }
-    ]
+    "users": 2,
+    "id": "BA-BIH"
+  },
+  {
+    "users": 4,
+    "id": "BA-BRC"
+  },
+  {
+    "users": 12,
+    "id": "BA-SRP"
   }
 ]

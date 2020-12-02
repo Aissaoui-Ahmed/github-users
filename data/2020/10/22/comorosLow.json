@@ -1,19 +1,14 @@
 [
   {
-    "date": "2020-10-22",
-    "list": [
-      {
-        "users": 0,
-        "id": "KM-G"
-      },
-      {
-        "users": 0,
-        "id": "KM-M"
-      },
-      {
-        "users": 0,
-        "id": "KM-A"
-      }
-    ]
+    "users": 0,
+    "id": "KM-G"
+  },
+  {
+    "users": 0,
+    "id": "KM-M"
+  },
+  {
+    "users": 0,
+    "id": "KM-A"
   }
 ]

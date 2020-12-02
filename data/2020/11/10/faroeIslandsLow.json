@@ -1,31 +1,26 @@
 [
   {
-    "date": "2020-11-10",
-    "list": [
-      {
-        "users": 0,
-        "id": "FO-NO"
-      },
-      {
-        "users": 0,
-        "id": "FO-SA"
-      },
-      {
-        "users": 0,
-        "id": "FO-OS"
-      },
-      {
-        "users": 0,
-        "id": "FO-ST"
-      },
-      {
-        "users": 0,
-        "id": "FO-SU"
-      },
-      {
-        "users": 0,
-        "id": "FO-VG"
-      }
-    ]
+    "users": 0,
+    "id": "FO-NO"
+  },
+  {
+    "users": 0,
+    "id": "FO-SA"
+  },
+  {
+    "users": 0,
+    "id": "FO-OS"
+  },
+  {
+    "users": 0,
+    "id": "FO-ST"
+  },
+  {
+    "users": 0,
+    "id": "FO-SU"
+  },
+  {
+    "users": 0,
+    "id": "FO-VG"
   }
 ]

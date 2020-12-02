@@ -1,59 +1,54 @@
 [
   {
-    "date": "2020-10-05",
-    "list": [
-      {
-        "users": 15,
-        "id": "FR-PAC"
-      },
-      {
-        "users": 27,
-        "id": "FR-PDL"
-      },
-      {
-        "users": 41,
-        "id": "FR-OCC"
-      },
-      {
-        "users": 25,
-        "id": "FR-NAQ"
-      },
-      {
-        "users": 111,
-        "id": "FR-NOR"
-      },
-      {
-        "users": 308,
-        "id": "FR-IDF"
-      },
-      {
-        "users": 36,
-        "id": "FR-HDF"
-      },
-      {
-        "users": 30,
-        "id": "FR-GES"
-      },
-      {
-        "users": 28,
-        "id": "FR-COR"
-      },
-      {
-        "users": 12,
-        "id": "FR-CVL"
-      },
-      {
-        "users": 293,
-        "id": "FR-BRE"
-      },
-      {
-        "users": 7,
-        "id": "FR-BFC"
-      },
-      {
-        "users": 17,
-        "id": "FR-ARA"
-      }
-    ]
+    "users": 15,
+    "id": "FR-PAC"
+  },
+  {
+    "users": 27,
+    "id": "FR-PDL"
+  },
+  {
+    "users": 41,
+    "id": "FR-OCC"
+  },
+  {
+    "users": 25,
+    "id": "FR-NAQ"
+  },
+  {
+    "users": 111,
+    "id": "FR-NOR"
+  },
+  {
+    "users": 308,
+    "id": "FR-IDF"
+  },
+  {
+    "users": 36,
+    "id": "FR-HDF"
+  },
+  {
+    "users": 30,
+    "id": "FR-GES"
+  },
+  {
+    "users": 28,
+    "id": "FR-COR"
+  },
+  {
+    "users": 12,
+    "id": "FR-CVL"
+  },
+  {
+    "users": 293,
+    "id": "FR-BRE"
+  },
+  {
+    "users": 7,
+    "id": "FR-BFC"
+  },
+  {
+    "users": 17,
+    "id": "FR-ARA"
   }
 ]

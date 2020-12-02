@@ -1,71 +1,66 @@
 [
   {
-    "date": "2020-11-29",
-    "list": [
-      {
-        "users": 117,
-        "id": "DE-BB"
-      },
-      {
-        "users": 38250,
-        "id": "DE-BE"
-      },
-      {
-        "users": 258,
-        "id": "DE-BW"
-      },
-      {
-        "users": 1446,
-        "id": "DE-BY"
-      },
-      {
-        "users": 1692,
-        "id": "DE-HB"
-      },
-      {
-        "users": 96,
-        "id": "DE-HE"
-      },
-      {
-        "users": 11001,
-        "id": "DE-HH"
-      },
-      {
-        "users": 1,
-        "id": "DE-MV"
-      },
-      {
-        "users": 176,
-        "id": "DE-NI"
-      },
-      {
-        "users": 118,
-        "id": "DE-NW"
-      },
-      {
-        "users": 28,
-        "id": "DE-RP"
-      },
-      {
-        "users": 95,
-        "id": "DE-SH"
-      },
-      {
-        "users": 235,
-        "id": "DE-SL"
-      },
-      {
-        "users": 448,
-        "id": "DE-SN"
-      },
-      {
-        "users": 29,
-        "id": "DE-ST"
-      },
-      {
-        "users": 73,
-        "id": "DE-TH"
-      }
-    ]
+    "users": 117,
+    "id": "DE-BB"
+  },
+  {
+    "users": 38250,
+    "id": "DE-BE"
+  },
+  {
+    "users": 258,
+    "id": "DE-BW"
+  },
+  {
+    "users": 1446,
+    "id": "DE-BY"
+  },
+  {
+    "users": 1692,
+    "id": "DE-HB"
+  },
+  {
+    "users": 96,
+    "id": "DE-HE"
+  },
+  {
+    "users": 11001,
+    "id": "DE-HH"
+  },
+  {
+    "users": 1,
+    "id": "DE-MV"
+  },
+  {
+    "users": 176,
+    "id": "DE-NI"
+  },
+  {
+    "users": 118,
+    "id": "DE-NW"
+  },
+  {
+    "users": 28,
+    "id": "DE-RP"
+  },
+  {
+    "users": 95,
+    "id": "DE-SH"
+  },
+  {
+    "users": 235,
+    "id": "DE-SL"
+  },
+  {
+    "users": 448,
+    "id": "DE-SN"
+  },
+  {
+    "users": 29,
+    "id": "DE-ST"
+  },
+  {
+    "users": 73,
+    "id": "DE-TH"
   }
 ]

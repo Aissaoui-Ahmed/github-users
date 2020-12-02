@@ -1,343 +1,338 @@
 [
   {
-    "date": "2020-11-28",
-    "list": [
-      {
-        "users": 155,
-        "id": "RU-KR"
-      },
-      {
-        "users": 1,
-        "id": "RU-ZAB"
-      },
-      {
-        "users": 0,
-        "id": "RU-YEV"
-      },
-      {
-        "users": 426,
-        "id": "RU-YAR"
-      },
-      {
-        "users": 0,
-        "id": "RU-YAN"
-      },
-      {
-        "users": 921,
-        "id": "RU-VOR"
-      },
-      {
-        "users": 146,
-        "id": "RU-VLG"
-      },
-      {
-        "users": 511,
-        "id": "RU-VGG"
-      },
-      {
-        "users": 207,
-        "id": "RU-VLA"
-      },
-      {
-        "users": 317,
-        "id": "RU-ULY"
-      },
-      {
-        "users": 14,
-        "id": "RU-UD"
-      },
-      {
-        "users": 388,
-        "id": "RU-TYU"
-      },
-      {
-        "users": 365,
-        "id": "RU-TVE"
-      },
-      {
-        "users": 4,
-        "id": "RU-TY"
-      },
-      {
-        "users": 349,
-        "id": "RU-TUL"
-      },
-      {
-        "users": 1075,
-        "id": "RU-TOM"
-      },
-      {
-        "users": 195,
-        "id": "RU-TA"
-      },
-      {
-        "users": 120,
-        "id": "RU-TAM"
-      },
-      {
-        "users": 26,
-        "id": "RU-SVE"
-      },
-      {
-        "users": 208,
-        "id": "RU-STA"
-      },
-      {
-        "users": 176,
-        "id": "RU-SMO"
-      },
-      {
-        "users": 767,
-        "id": "RU-SAR"
-      },
-      {
-        "users": 1256,
-        "id": "RU-SAM"
-      },
-      {
-        "users": 35,
-        "id": "RU-SAK"
-      },
-      {
-        "users": 11,
-        "id": "RU-SA"
-      },
-      {
-        "users": 334,
-        "id": "RU-RYA"
-      },
-      {
-        "users": 1116,
-        "id": "RU-ROS"
-      },
-      {
-        "users": 78,
-        "id": "RU-PSK"
-      },
-      {
-        "users": 22,
-        "id": "RU-PRI"
-      },
-      {
-        "users": 1042,
-        "id": "RU-PER"
-      },
-      {
-        "users": 302,
-        "id": "RU-PNZ"
-      },
-      {
-        "users": 184,
-        "id": "RU-ORE"
-      },
-      {
-        "users": 22,
-        "id": "RU-ORL"
-      },
-      {
-        "users": 1012,
-        "id": "RU-OMS"
-      },
-      {
-        "users": 3269,
-        "id": "RU-NVS"
-      },
-      {
-        "users": 1540,
-        "id": "RU-NGR"
-      },
-      {
-        "users": 1,
-        "id": "RU-SE"
-      },
-      {
-        "users": 1,
-        "id": "RU-NIZ"
-      },
-      {
-        "users": 0,
-        "id": "RU-NEN"
-      },
-      {
-        "users": 125,
-        "id": "RU-MUR"
-      },
-      {
-        "users": 28,
-        "id": "RU-MOS"
-      },
-      {
-        "users": 69,
-        "id": "RU-MOW"
-      },
-      {
-        "users": 17,
-        "id": "RU-MO"
-      },
-      {
-        "users": 1,
-        "id": "RU-ME"
-      },
-      {
-        "users": 16,
-        "id": "RU-MAG"
-      },
-      {
-        "users": 127,
-        "id": "RU-LIP"
-      },
-      {
-        "users": 43,
-        "id": "RU-LEN"
-      },
-      {
-        "users": 164,
-        "id": "RU-KRS"
-      },
-      {
-        "users": 62,
-        "id": "RU-KGN"
-      },
-      {
-        "users": 810,
-        "id": "RU-KYA"
-      },
-      {
-        "users": 1285,
-        "id": "RU-KDA"
-      },
-      {
-        "users": 85,
-        "id": "RU-KOS"
-      },
-      {
-        "users": 16,
-        "id": "RU-KO"
-      },
-      {
-        "users": 233,
-        "id": "RU-KIR"
-      },
-      {
-        "users": 26,
-        "id": "RU-KHM"
-      },
-      {
-        "users": 6,
-        "id": "RU-KK"
-      },
-      {
-        "users": 272,
-        "id": "RU-KHA"
-      },
-      {
-        "users": 195,
-        "id": "RU-KEM"
-      },
-      {
-        "users": 46,
-        "id": "RU-KR"
-      },
-      {
-        "users": 0,
-        "id": "RU-KC"
-      },
-      {
-        "users": 21,
-        "id": "RU-KAM"
-      },
-      {
-        "users": 195,
-        "id": "RU-KLU"
-      },
-      {
-        "users": 2,
-        "id": "RU-KL"
-      },
-      {
-        "users": 709,
-        "id": "RU-KGD"
-      },
-      {
-        "users": 1,
-        "id": "RU-KB"
-      },
-      {
-        "users": 224,
-        "id": "RU-IVA"
-      },
-      {
-        "users": 504,
-        "id": "RU-IRK"
-      },
-      {
-        "users": 5,
-        "id": "RU-IN"
-      },
-      {
-        "users": 25,
-        "id": "RU-AL"
-      },
-      {
-        "users": 41,
-        "id": "RU-DA"
-      },
-      {
-        "users": 3299,
-        "id": "RU-SPE"
-      },
-      {
-        "users": 8,
-        "id": "RU-CU"
-      },
-      {
-        "users": 1,
-        "id": "RU-CHU"
-      },
-      {
-        "users": 633,
-        "id": "RU-CHE"
-      },
-      {
-        "users": 7,
-        "id": "RU-CE"
-      },
-      {
-        "users": 0,
-        "id": "RU-BU"
-      },
-      {
-        "users": 181,
-        "id": "RU-BRY"
-      },
-      {
-        "users": 246,
-        "id": "RU-BEL"
-      },
-      {
-        "users": 59,
-        "id": "RU-BA"
-      },
-      {
-        "users": 119,
-        "id": "RU-AST"
-      },
-      {
-        "users": 104,
-        "id": "RU-ARK"
-      },
-      {
-        "users": 46,
-        "id": "RU-AMU"
-      },
-      {
-        "users": 0,
-        "id": "RU-ALT"
-      },
-      {
-        "users": 1,
-        "id": "RU-AD"
-      }
-    ]
+    "users": 155,
+    "id": "RU-KR"
+  },
+  {
+    "users": 1,
+    "id": "RU-ZAB"
+  },
+  {
+    "users": 0,
+    "id": "RU-YEV"
+  },
+  {
+    "users": 426,
+    "id": "RU-YAR"
+  },
+  {
+    "users": 0,
+    "id": "RU-YAN"
+  },
+  {
+    "users": 921,
+    "id": "RU-VOR"
+  },
+  {
+    "users": 146,
+    "id": "RU-VLG"
+  },
+  {
+    "users": 511,
+    "id": "RU-VGG"
+  },
+  {
+    "users": 207,
+    "id": "RU-VLA"
+  },
+  {
+    "users": 317,
+    "id": "RU-ULY"
+  },
+  {
+    "users": 14,
+    "id": "RU-UD"
+  },
+  {
+    "users": 388,
+    "id": "RU-TYU"
+  },
+  {
+    "users": 365,
+    "id": "RU-TVE"
+  },
+  {
+    "users": 4,
+    "id": "RU-TY"
+  },
+  {
+    "users": 349,
+    "id": "RU-TUL"
+  },
+  {
+    "users": 1075,
+    "id": "RU-TOM"
+  },
+  {
+    "users": 195,
+    "id": "RU-TA"
+  },
+  {
+    "users": 120,
+    "id": "RU-TAM"
+  },
+  {
+    "users": 26,
+    "id": "RU-SVE"
+  },
+  {
+    "users": 208,
+    "id": "RU-STA"
+  },
+  {
+    "users": 176,
+    "id": "RU-SMO"
+  },
+  {
+    "users": 767,
+    "id": "RU-SAR"
+  },
+  {
+    "users": 1256,
+    "id": "RU-SAM"
+  },
+  {
+    "users": 35,
+    "id": "RU-SAK"
+  },
+  {
+    "users": 11,
+    "id": "RU-SA"
+  },
+  {
+    "users": 334,
+    "id": "RU-RYA"
+  },
+  {
+    "users": 1116,
+    "id": "RU-ROS"
+  },
+  {
+    "users": 78,
+    "id": "RU-PSK"
+  },
+  {
+    "users": 22,
+    "id": "RU-PRI"
+  },
+  {
+    "users": 1042,
+    "id": "RU-PER"
+  },
+  {
+    "users": 302,
+    "id": "RU-PNZ"
+  },
+  {
+    "users": 184,
+    "id": "RU-ORE"
+  },
+  {
+    "users": 22,
+    "id": "RU-ORL"
+  },
+  {
+    "users": 1012,
+    "id": "RU-OMS"
+  },
+  {
+    "users": 3269,
+    "id": "RU-NVS"
+  },
+  {
+    "users": 1540,
+    "id": "RU-NGR"
+  },
+  {
+    "users": 1,
+    "id": "RU-SE"
+  },
+  {
+    "users": 1,
+    "id": "RU-NIZ"
+  },
+  {
+    "users": 0,
+    "id": "RU-NEN"
+  },
+  {
+    "users": 125,
+    "id": "RU-MUR"
+  },
+  {
+    "users": 28,
+    "id": "RU-MOS"
+  },
+  {
+    "users": 69,
+    "id": "RU-MOW"
+  },
+  {
+    "users": 17,
+    "id": "RU-MO"
+  },
+  {
+    "users": 1,
+    "id": "RU-ME"
+  },
+  {
+    "users": 16,
+    "id": "RU-MAG"
+  },
+  {
+    "users": 127,
+    "id": "RU-LIP"
+  },
+  {
+    "users": 43,
+    "id": "RU-LEN"
+  },
+  {
+    "users": 164,
+    "id": "RU-KRS"
+  },
+  {
+    "users": 62,
+    "id": "RU-KGN"
+  },
+  {
+    "users": 810,
+    "id": "RU-KYA"
+  },
+  {
+    "users": 1285,
+    "id": "RU-KDA"
+  },
+  {
+    "users": 85,
+    "id": "RU-KOS"
+  },
+  {
+    "users": 16,
+    "id": "RU-KO"
+  },
+  {
+    "users": 233,
+    "id": "RU-KIR"
+  },
+  {
+    "users": 26,
+    "id": "RU-KHM"
+  },
+  {
+    "users": 6,
+    "id": "RU-KK"
+  },
+  {
+    "users": 272,
+    "id": "RU-KHA"
+  },
+  {
+    "users": 195,
+    "id": "RU-KEM"
+  },
+  {
+    "users": 46,
+    "id": "RU-KR"
+  },
+  {
+    "users": 0,
+    "id": "RU-KC"
+  },
+  {
+    "users": 21,
+    "id": "RU-KAM"
+  },
+  {
+    "users": 195,
+    "id": "RU-KLU"
+  },
+  {
+    "users": 2,
+    "id": "RU-KL"
+  },
+  {
+    "users": 709,
+    "id": "RU-KGD"
+  },
+  {
+    "users": 1,
+    "id": "RU-KB"
+  },
+  {
+    "users": 224,
+    "id": "RU-IVA"
+  },
+  {
+    "users": 504,
+    "id": "RU-IRK"
+  },
+  {
+    "users": 5,
+    "id": "RU-IN"
+  },
+  {
+    "users": 25,
+    "id": "RU-AL"
+  },
+  {
+    "users": 41,
+    "id": "RU-DA"
+  },
+  {
+    "users": 3299,
+    "id": "RU-SPE"
+  },
+  {
+    "users": 8,
+    "id": "RU-CU"
+  },
+  {
+    "users": 1,
+    "id": "RU-CHU"
+  },
+  {
+    "users": 633,
+    "id": "RU-CHE"
+  },
+  {
+    "users": 7,
+    "id": "RU-CE"
+  },
+  {
+    "users": 0,
+    "id": "RU-BU"
+  },
+  {
+    "users": 181,
+    "id": "RU-BRY"
+  },
+  {
+    "users": 246,
+    "id": "RU-BEL"
+  },
+  {
+    "users": 59,
+    "id": "RU-BA"
+  },
+  {
+    "users": 119,
+    "id": "RU-AST"
+  },
+  {
+    "users": 104,
+    "id": "RU-ARK"
+  },
+  {
+    "users": 46,
+    "id": "RU-AMU"
+  },
+  {
+    "users": 0,
+    "id": "RU-ALT"
+  },
+  {
+    "users": 1,
+    "id": "RU-AD"
   }
 ]

@@ -1,27 +1,22 @@
 [
   {
-    "date": "2020-10-30",
-    "list": [
-      {
-        "users": 2942,
-        "id": "MT-NO"
-      },
-      {
-        "users": 2262,
-        "id": "MT-CE"
-      },
-      {
-        "users": 2037,
-        "id": "MT-SO"
-      },
-      {
-        "users": 55,
-        "id": "MT-SE"
-      },
-      {
-        "users": 10,
-        "id": "MT-GO"
-      }
-    ]
+    "users": 2942,
+    "id": "MT-NO"
+  },
+  {
+    "users": 2262,
+    "id": "MT-CE"
+  },
+  {
+    "users": 2037,
+    "id": "MT-SO"
+  },
+  {
+    "users": 55,
+    "id": "MT-SE"
+  },
+  {
+    "users": 10,
+    "id": "MT-GO"
   }
 ]

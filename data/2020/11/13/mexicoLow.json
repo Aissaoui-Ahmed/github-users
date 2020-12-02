@@ -1,135 +1,130 @@
 [
   {
-    "date": "2020-11-13",
-    "list": [
-      {
-        "users": 211,
-        "id": "MX-ZAC"
-      },
-      {
-        "users": 532,
-        "id": "MX-YUC"
-      },
-      {
-        "users": 503,
-        "id": "MX-VER"
-      },
-      {
-        "users": 72,
-        "id": "MX-TLA"
-      },
-      {
-        "users": 173,
-        "id": "MX-TAM"
-      },
-      {
-        "users": 180,
-        "id": "MX-TAB"
-      },
-      {
-        "users": 700,
-        "id": "MX-SON"
-      },
-      {
-        "users": 387,
-        "id": "MX-SIN"
-      },
-      {
-        "users": 267,
-        "id": "MX-SLP"
-      },
-      {
-        "users": 198,
-        "id": "MX-ROO"
-      },
-      {
-        "users": 867,
-        "id": "MX-QUE"
-      },
-      {
-        "users": 880,
-        "id": "MX-PUE"
-      },
-      {
-        "users": 339,
-        "id": "MX-OAX"
-      },
-      {
-        "users": 792,
-        "id": "MX-NLE"
-      },
-      {
-        "users": 113,
-        "id": "MX-NAY"
-      },
-      {
-        "users": 211,
-        "id": "MX-MOR"
-      },
-      {
-        "users": 245,
-        "id": "MX-MIC"
-      },
-      {
-        "users": 34802,
-        "id": "MX-MEX"
-      },
-      {
-        "users": 1761,
-        "id": "MX-JAL"
-      },
-      {
-        "users": 204,
-        "id": "MX-HID"
-      },
-      {
-        "users": 83,
-        "id": "MX-GRO"
-      },
-      {
-        "users": 480,
-        "id": "MX-GUA"
-      },
-      {
-        "users": 301,
-        "id": "MX-DUR"
-      },
-      {
-        "users": 1219,
-        "id": "MX-CMX"
-      },
-      {
-        "users": 454,
-        "id": "MX-COL"
-      },
-      {
-        "users": 270,
-        "id": "MX-COA"
-      },
-      {
-        "users": 549,
-        "id": "MX-CHH"
-      },
-      {
-        "users": 213,
-        "id": "MX-CHP"
-      },
-      {
-        "users": 87,
-        "id": "MX-CAM"
-      },
-      {
-        "users": 53,
-        "id": "MX-BCS"
-      },
-      {
-        "users": 430,
-        "id": "MX-BCN"
-      },
-      {
-        "users": 427,
-        "id": "MX-AGU"
-      }
-    ]
+    "users": 211,
+    "id": "MX-ZAC"
+  },
+  {
+    "users": 532,
+    "id": "MX-YUC"
+  },
+  {
+    "users": 503,
+    "id": "MX-VER"
+  },
+  {
+    "users": 72,
+    "id": "MX-TLA"
+  },
+  {
+    "users": 173,
+    "id": "MX-TAM"
+  },
+  {
+    "users": 180,
+    "id": "MX-TAB"
+  },
+  {
+    "users": 700,
+    "id": "MX-SON"
+  },
+  {
+    "users": 387,
+    "id": "MX-SIN"
+  },
+  {
+    "users": 267,
+    "id": "MX-SLP"
+  },
+  {
+    "users": 198,
+    "id": "MX-ROO"
+  },
+  {
+    "users": 867,
+    "id": "MX-QUE"
+  },
+  {
+    "users": 880,
+    "id": "MX-PUE"
+  },
+  {
+    "users": 339,
+    "id": "MX-OAX"
+  },
+  {
+    "users": 792,
+    "id": "MX-NLE"
+  },
+  {
+    "users": 113,
+    "id": "MX-NAY"
+  },
+  {
+    "users": 211,
+    "id": "MX-MOR"
+  },
+  {
+    "users": 245,
+    "id": "MX-MIC"
+  },
+  {
+    "users": 34802,
+    "id": "MX-MEX"
+  },
+  {
+    "users": 1761,
+    "id": "MX-JAL"
+  },
+  {
+    "users": 204,
+    "id": "MX-HID"
+  },
+  {
+    "users": 83,
+    "id": "MX-GRO"
+  },
+  {
+    "users": 480,
+    "id": "MX-GUA"
+  },
+  {
+    "users": 301,
+    "id": "MX-DUR"
+  },
+  {
+    "users": 1219,
+    "id": "MX-CMX"
+  },
+  {
+    "users": 454,
+    "id": "MX-COL"
+  },
+  {
+    "users": 270,
+    "id": "MX-COA"
+  },
+  {
+    "users": 549,
+    "id": "MX-CHH"
+  },
+  {
+    "users": 213,
+    "id": "MX-CHP"
+  },
+  {
+    "users": 87,
+    "id": "MX-CAM"
+  },
+  {
+    "users": 53,
+    "id": "MX-BCS"
+  },
+  {
+    "users": 430,
+    "id": "MX-BCN"
+  },
+  {
+    "users": 427,
+    "id": "MX-AGU"
   }
 ]

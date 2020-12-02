@@ -1,15 +1,10 @@
 [
   {
-    "date": "2020-11-12",
-    "list": [
-      {
-        "users": 18,
-        "id": "SJSV"
-      },
-      {
-        "users": 5,
-        "id": "SJ-JN"
-      }
-    ]
+    "users": 18,
+    "id": "SJSV"
+  },
+  {
+    "users": 5,
+    "id": "SJ-JN"
   }
 ]

@@ -1,51 +1,46 @@
 [
   {
-    "date": "2020-11-18",
-    "list": [
-      {
-        "users": 0,
-        "id": "BM-SG"
-      },
-      {
-        "users": 14,
-        "id": "BM-SM"
-      },
-      {
-        "users": 6,
-        "id": "BM-DE"
-      },
-      {
-        "users": 1599,
-        "id": "BM-HC"
-      },
-      {
-        "users": 4,
-        "id": "BM-SC"
-      },
-      {
-        "users": 1599,
-        "id": "BM-HA"
-      },
-      {
-        "users": 118,
-        "id": "BM-PE"
-      },
-      {
-        "users": 3,
-        "id": "BM-PA"
-      },
-      {
-        "users": 283,
-        "id": "BM-WA"
-      },
-      {
-        "users": 1370,
-        "id": "BM-SO"
-      },
-      {
-        "users": 1,
-        "id": "BM-SA"
-      }
-    ]
+    "users": 0,
+    "id": "BM-SG"
+  },
+  {
+    "users": 14,
+    "id": "BM-SM"
+  },
+  {
+    "users": 6,
+    "id": "BM-DE"
+  },
+  {
+    "users": 1599,
+    "id": "BM-HC"
+  },
+  {
+    "users": 4,
+    "id": "BM-SC"
+  },
+  {
+    "users": 1599,
+    "id": "BM-HA"
+  },
+  {
+    "users": 118,
+    "id": "BM-PE"
+  },
+  {
+    "users": 3,
+    "id": "BM-PA"
+  },
+  {
+    "users": 283,
+    "id": "BM-WA"
+  },
+  {
+    "users": 1370,
+    "id": "BM-SO"
+  },
+  {
+    "users": 1,
+    "id": "BM-SA"
   }
 ]

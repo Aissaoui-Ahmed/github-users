@@ -1,71 +1,66 @@
 [
   {
-    "date": "2020-10-05",
-    "list": [
-      {
-        "users": 5624,
-        "id": "GB-SCT"
-      },
-      {
-        "users": 83,
-        "id": "GB-UKC"
-      },
-      {
-        "users": 76,
-        "id": "GB-UKD"
-      },
-      {
-        "users": 2,
-        "id": "GB-UKE"
-      },
-      {
-        "users": 63,
-        "id": "GB-UKF"
-      },
-      {
-        "users": 330,
-        "id": "GB-UKG"
-      },
-      {
-        "users": 22,
-        "id": "GB-UKH"
-      },
-      {
-        "users": 82,
-        "id": "GB-UKI"
-      },
-      {
-        "users": 47,
-        "id": "GB-UKJ"
-      },
-      {
-        "users": 45,
-        "id": "GB-UKK"
-      },
-      {
-        "users": 2141,
-        "id": "GB-WLS"
-      },
-      {
-        "users": 1015,
-        "id": "GB-NIR"
-      },
-      {
-        "users": 83,
-        "id": "GG"
-      },
-      {
-        "users": 8121,
-        "id": "JE"
-      },
-      {
-        "users": 180,
-        "id": "IM"
-      },
-      {
-        "users": 16834,
-        "id": "IE"
-      }
-    ]
+    "users": 5624,
+    "id": "GB-SCT"
+  },
+  {
+    "users": 83,
+    "id": "GB-UKC"
+  },
+  {
+    "users": 76,
+    "id": "GB-UKD"
+  },
+  {
+    "users": 2,
+    "id": "GB-UKE"
+  },
+  {
+    "users": 63,
+    "id": "GB-UKF"
+  },
+  {
+    "users": 330,
+    "id": "GB-UKG"
+  },
+  {
+    "users": 22,
+    "id": "GB-UKH"
+  },
+  {
+    "users": 82,
+    "id": "GB-UKI"
+  },
+  {
+    "users": 47,
+    "id": "GB-UKJ"
+  },
+  {
+    "users": 45,
+    "id": "GB-UKK"
+  },
+  {
+    "users": 2141,
+    "id": "GB-WLS"
+  },
+  {
+    "users": 1015,
+    "id": "GB-NIR"
+  },
+  {
+    "users": 83,
+    "id": "GG"
+  },
+  {
+    "users": 8121,
+    "id": "JE"
+  },
+  {
+    "users": 180,
+    "id": "IM"
+  },
+  {
+    "users": 16834,
+    "id": "IE"
   }
 ]

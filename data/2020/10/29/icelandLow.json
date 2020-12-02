@@ -1,79 +1,74 @@
 [
   {
-    "date": "2020-10-29",
-    "list": [
-      {
-        "users": 0,
-        "id": "IS-8"
-      },
-      {
-        "users": 0,
-        "id": "IS-7"
-      },
-      {
-        "users": 0,
-        "id": "IS-6"
-      },
-      {
-        "users": 0,
-        "id": "IS-5"
-      },
-      {
-        "users": 0,
-        "id": "IS-4"
-      },
-      {
-        "users": 0,
-        "id": "IS-3"
-      },
-      {
-        "users": 0,
-        "id": "IS-2"
-      },
-      {
-        "users": 0,
-        "id": "IS-1"
-      },
-      {
-        "users": 0,
-        "id": "GL10"
-      },
-      {
-        "users": 0,
-        "id": "GL9"
-      },
-      {
-        "users": 0,
-        "id": "GL8"
-      },
-      {
-        "users": 2,
-        "id": "GL7"
-      },
-      {
-        "users": 0,
-        "id": "GL6"
-      },
-      {
-        "users": 0,
-        "id": "GL5"
-      },
-      {
-        "users": 1,
-        "id": "GL4"
-      },
-      {
-        "users": 0,
-        "id": "GL3"
-      },
-      {
-        "users": 0,
-        "id": "GL2"
-      },
-      {
-        "users": 0,
-        "id": "GL1"
-      }
-    ]
+    "users": 0,
+    "id": "IS-8"
+  },
+  {
+    "users": 0,
+    "id": "IS-7"
+  },
+  {
+    "users": 0,
+    "id": "IS-6"
+  },
+  {
+    "users": 0,
+    "id": "IS-5"
+  },
+  {
+    "users": 0,
+    "id": "IS-4"
+  },
+  {
+    "users": 0,
+    "id": "IS-3"
+  },
+  {
+    "users": 0,
+    "id": "IS-2"
+  },
+  {
+    "users": 0,
+    "id": "IS-1"
+  },
+  {
+    "users": 0,
+    "id": "GL10"
+  },
+  {
+    "users": 0,
+    "id": "GL9"
+  },
+  {
+    "users": 0,
+    "id": "GL8"
+  },
+  {
+    "users": 2,
+    "id": "GL7"
+  },
+  {
+    "users": 0,
+    "id": "GL6"
+  },
+  {
+    "users": 0,
+    "id": "GL5"
+  },
+  {
+    "users": 1,
+    "id": "GL4"
+  },
+  {
+    "users": 0,
+    "id": "GL3"
+  },
+  {
+    "users": 0,
+    "id": "GL2"
+  },
+  {
+    "users": 0,
+    "id": "GL1"
   }
 ]

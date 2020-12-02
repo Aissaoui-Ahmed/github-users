@@ -1,47 +1,42 @@
 [
   {
-    "date": "2020-10-08",
-    "list": [
-      {
-        "users": 99,
-        "id": "LS"
-      },
-      {
-        "users": 61,
-        "id": "ZA-EC"
-      },
-      {
-        "users": 42,
-        "id": "ZA-FS"
-      },
-      {
-        "users": 653,
-        "id": "ZA-GT"
-      },
-      {
-        "users": 36,
-        "id": "ZA-LP"
-      },
-      {
-        "users": 49,
-        "id": "ZA-MP"
-      },
-      {
-        "users": 14,
-        "id": "ZA-NC"
-      },
-      {
-        "users": 63,
-        "id": "ZA-NL"
-      },
-      {
-        "users": 286,
-        "id": "ZA-NW"
-      },
-      {
-        "users": 294,
-        "id": "ZA-WC"
-      }
-    ]
+    "users": 99,
+    "id": "LS"
+  },
+  {
+    "users": 61,
+    "id": "ZA-EC"
+  },
+  {
+    "users": 42,
+    "id": "ZA-FS"
+  },
+  {
+    "users": 653,
+    "id": "ZA-GT"
+  },
+  {
+    "users": 36,
+    "id": "ZA-LP"
+  },
+  {
+    "users": 49,
+    "id": "ZA-MP"
+  },
+  {
+    "users": 14,
+    "id": "ZA-NC"
+  },
+  {
+    "users": 63,
+    "id": "ZA-NL"
+  },
+  {
+    "users": 286,
+    "id": "ZA-NW"
+  },
+  {
+    "users": 294,
+    "id": "ZA-WC"
   }
 ]

@@ -1,211 +1,206 @@
 [
   {
-    "date": "2020-11-02",
-    "list": [
-      {
-        "users": 834,
-        "id": "US-AK"
-      },
-      {
-        "users": 1784,
-        "id": "US-AL"
-      },
-      {
-        "users": 1394,
-        "id": "US-AR"
-      },
-      {
-        "users": 5941,
-        "id": "US-AZ"
-      },
-      {
-        "users": 37939,
-        "id": "US-CA"
-      },
-      {
-        "users": 11126,
-        "id": "US-CO"
-      },
-      {
-        "users": 1677,
-        "id": "US-CT"
-      },
-      {
-        "users": 78,
-        "id": "US-DC"
-      },
-      {
-        "users": 901,
-        "id": "US-DE"
-      },
-      {
-        "users": 14389,
-        "id": "US-FL"
-      },
-      {
-        "users": 6459,
-        "id": "US-GA"
-      },
-      {
-        "users": 1276,
-        "id": "US-HI"
-      },
-      {
-        "users": 3029,
-        "id": "US-IA"
-      },
-      {
-        "users": 2014,
-        "id": "US-ID"
-      },
-      {
-        "users": 4871,
-        "id": "US-IL"
-      },
-      {
-        "users": 4016,
-        "id": "US-IN"
-      },
-      {
-        "users": 5569,
-        "id": "US-KS"
-      },
-      {
-        "users": 1529,
-        "id": "US-KY"
-      },
-      {
-        "users": 1315,
-        "id": "US-LA"
-      },
-      {
-        "users": 4308,
-        "id": "US-MA"
-      },
-      {
-        "users": 4924,
-        "id": "US-MD"
-      },
-      {
-        "users": 1578,
-        "id": "US-ME"
-      },
-      {
-        "users": 7336,
-        "id": "US-MI"
-      },
-      {
-        "users": 4269,
-        "id": "US-MN"
-      },
-      {
-        "users": 2827,
-        "id": "US-MO"
-      },
-      {
-        "users": 503,
-        "id": "US-MS"
-      },
-      {
-        "users": 807,
-        "id": "US-MT"
-      },
-      {
-        "users": 4891,
-        "id": "US-NC"
-      },
-      {
-        "users": 208,
-        "id": "US-ND"
-      },
-      {
-        "users": 1058,
-        "id": "US-NE"
-      },
-      {
-        "users": 1179,
-        "id": "US-NH"
-      },
-      {
-        "users": 7059,
-        "id": "US-NJ"
-      },
-      {
-        "users": 1018,
-        "id": "US-NM"
-      },
-      {
-        "users": 1492,
-        "id": "US-NV"
-      },
-      {
-        "users": 68663,
-        "id": "US-NY"
-      },
-      {
-        "users": 10042,
-        "id": "US-OH"
-      },
-      {
-        "users": 2898,
-        "id": "US-OK"
-      },
-      {
-        "users": 8288,
-        "id": "US-OR"
-      },
-      {
-        "users": 3334,
-        "id": "US-PA"
-      },
-      {
-        "users": 903,
-        "id": "US-RI"
-      },
-      {
-        "users": 1433,
-        "id": "US-SC"
-      },
-      {
-        "users": 257,
-        "id": "US-SD"
-      },
-      {
-        "users": 1948,
-        "id": "US-TN"
-      },
-      {
-        "users": 24325,
-        "id": "US-TX"
-      },
-      {
-        "users": 7086,
-        "id": "US-UT"
-      },
-      {
-        "users": 7259,
-        "id": "US-VA"
-      },
-      {
-        "users": 924,
-        "id": "US-VT"
-      },
-      {
-        "users": 22112,
-        "id": "US-WA"
-      },
-      {
-        "users": 2972,
-        "id": "US-WI"
-      },
-      {
-        "users": 354,
-        "id": "US-WV"
-      },
-      {
-        "users": 444,
-        "id": "US-WY"
-      }
-    ]
+    "users": 834,
+    "id": "US-AK"
+  },
+  {
+    "users": 1784,
+    "id": "US-AL"
+  },
+  {
+    "users": 1394,
+    "id": "US-AR"
+  },
+  {
+    "users": 5941,
+    "id": "US-AZ"
+  },
+  {
+    "users": 37939,
+    "id": "US-CA"
+  },
+  {
+    "users": 11126,
+    "id": "US-CO"
+  },
+  {
+    "users": 1677,
+    "id": "US-CT"
+  },
+  {
+    "users": 78,
+    "id": "US-DC"
+  },
+  {
+    "users": 901,
+    "id": "US-DE"
+  },
+  {
+    "users": 14389,
+    "id": "US-FL"
+  },
+  {
+    "users": 6459,
+    "id": "US-GA"
+  },
+  {
+    "users": 1276,
+    "id": "US-HI"
+  },
+  {
+    "users": 3029,
+    "id": "US-IA"
+  },
+  {
+    "users": 2014,
+    "id": "US-ID"
+  },
+  {
+    "users": 4871,
+    "id": "US-IL"
+  },
+  {
+    "users": 4016,
+    "id": "US-IN"
+  },
+  {
+    "users": 5569,
+    "id": "US-KS"
+  },
+  {
+    "users": 1529,
+    "id": "US-KY"
+  },
+  {
+    "users": 1315,
+    "id": "US-LA"
+  },
+  {
+    "users": 4308,
+    "id": "US-MA"
+  },
+  {
+    "users": 4924,
+    "id": "US-MD"
+  },
+  {
+    "users": 1578,
+    "id": "US-ME"
+  },
+  {
+    "users": 7336,
+    "id": "US-MI"
+  },
+  {
+    "users": 4269,
+    "id": "US-MN"
+  },
+  {
+    "users": 2827,
+    "id": "US-MO"
+  },
+  {
+    "users": 503,
+    "id": "US-MS"
+  },
+  {
+    "users": 807,
+    "id": "US-MT"
+  },
+  {
+    "users": 4891,
+    "id": "US-NC"
+  },
+  {
+    "users": 208,
+    "id": "US-ND"
+  },
+  {
+    "users": 1058,
+    "id": "US-NE"
+  },
+  {
+    "users": 1179,
+    "id": "US-NH"
+  },
+  {
+    "users": 7059,
+    "id": "US-NJ"
+  },
+  {
+    "users": 1018,
+    "id": "US-NM"
+  },
+  {
+    "users": 1492,
+    "id": "US-NV"
+  },
+  {
+    "users": 68663,
+    "id": "US-NY"
+  },
+  {
+    "users": 10042,
+    "id": "US-OH"
+  },
+  {
+    "users": 2898,
+    "id": "US-OK"
+  },
+  {
+    "users": 8288,
+    "id": "US-OR"
+  },
+  {
+    "users": 3334,
+    "id": "US-PA"
+  },
+  {
+    "users": 903,
+    "id": "US-RI"
+  },
+  {
+    "users": 1433,
+    "id": "US-SC"
+  },
+  {
+    "users": 257,
+    "id": "US-SD"
+  },
+  {
+    "users": 1948,
+    "id": "US-TN"
+  },
+  {
+    "users": 24325,
+    "id": "US-TX"
+  },
+  {
+    "users": 7086,
+    "id": "US-UT"
+  },
+  {
+    "users": 7259,
+    "id": "US-VA"
+  },
+  {
+    "users": 924,
+    "id": "US-VT"
+  },
+  {
+    "users": 22112,
+    "id": "US-WA"
+  },
+  {
+    "users": 2972,
+    "id": "US-WI"
+  },
+  {
+    "users": 354,
+    "id": "US-WV"
+  },
+  {
+    "users": 444,
+    "id": "US-WY"
   }
 ]

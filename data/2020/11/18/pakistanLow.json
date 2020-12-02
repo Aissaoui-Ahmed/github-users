@@ -1,35 +1,30 @@
 [
   {
-    "date": "2020-11-18",
-    "list": [
-      {
-        "users": 4633,
-        "id": "PK-IS"
-      },
-      {
-        "users": 40,
-        "id": "PK-BA"
-      },
-      {
-        "users": 32,
-        "id": "PK-GB"
-      },
-      {
-        "users": 0,
-        "id": "PK-JK"
-      },
-      {
-        "users": 3554,
-        "id": "PK-PB"
-      },
-      {
-        "users": 386,
-        "id": "PK-SD"
-      },
-      {
-        "users": 16,
-        "id": "PK-KP"
-      }
-    ]
+    "users": 4633,
+    "id": "PK-IS"
+  },
+  {
+    "users": 40,
+    "id": "PK-BA"
+  },
+  {
+    "users": 32,
+    "id": "PK-GB"
+  },
+  {
+    "users": 0,
+    "id": "PK-JK"
+  },
+  {
+    "users": 3554,
+    "id": "PK-PB"
+  },
+  {
+    "users": 386,
+    "id": "PK-SD"
+  },
+  {
+    "users": 16,
+    "id": "PK-KP"
   }
 ]

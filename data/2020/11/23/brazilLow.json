@@ -1,115 +1,110 @@
 [
   {
-    "date": "2020-11-23",
-    "list": [
-      {
-        "users": 113,
-        "id": "BR-AC"
-      },
-      {
-        "users": 513,
-        "id": "BR-AL"
-      },
-      {
-        "users": 447,
-        "id": "BR-AM"
-      },
-      {
-        "users": 47,
-        "id": "BR-AP"
-      },
-      {
-        "users": 2059,
-        "id": "BR-BA"
-      },
-      {
-        "users": 1637,
-        "id": "BR-CE"
-      },
-      {
-        "users": 357,
-        "id": "BR-DF"
-      },
-      {
-        "users": 530,
-        "id": "BR-ES"
-      },
-      {
-        "users": 1044,
-        "id": "BR-GO"
-      },
-      {
-        "users": 290,
-        "id": "BR-MA"
-      },
-      {
-        "users": 2729,
-        "id": "BR-MG"
-      },
-      {
-        "users": 135,
-        "id": "BR-MS"
-      },
-      {
-        "users": 319,
-        "id": "BR-MT"
-      },
-      {
-        "users": 692,
-        "id": "BR-PA"
-      },
-      {
-        "users": 791,
-        "id": "BR-PB"
-      },
-      {
-        "users": 1358,
-        "id": "BR-PE"
-      },
-      {
-        "users": 364,
-        "id": "BR-PI"
-      },
-      {
-        "users": 2619,
-        "id": "BR-PR"
-      },
-      {
-        "users": 14595,
-        "id": "BR-RJ"
-      },
-      {
-        "users": 319,
-        "id": "BR-RN"
-      },
-      {
-        "users": 192,
-        "id": "BR-RO"
-      },
-      {
-        "users": 76,
-        "id": "BR-RR"
-      },
-      {
-        "users": 1440,
-        "id": "BR-RS"
-      },
-      {
-        "users": 1739,
-        "id": "BR-SC"
-      },
-      {
-        "users": 319,
-        "id": "BR-SE"
-      },
-      {
-        "users": 43431,
-        "id": "BR-SP"
-      },
-      {
-        "users": 268,
-        "id": "BR-TO"
-      }
-    ]
+    "users": 113,
+    "id": "BR-AC"
+  },
+  {
+    "users": 513,
+    "id": "BR-AL"
+  },
+  {
+    "users": 447,
+    "id": "BR-AM"
+  },
+  {
+    "users": 47,
+    "id": "BR-AP"
+  },
+  {
+    "users": 2059,
+    "id": "BR-BA"
+  },
+  {
+    "users": 1637,
+    "id": "BR-CE"
+  },
+  {
+    "users": 357,
+    "id": "BR-DF"
+  },
+  {
+    "users": 530,
+    "id": "BR-ES"
+  },
+  {
+    "users": 1044,
+    "id": "BR-GO"
+  },
+  {
+    "users": 290,
+    "id": "BR-MA"
+  },
+  {
+    "users": 2729,
+    "id": "BR-MG"
+  },
+  {
+    "users": 135,
+    "id": "BR-MS"
+  },
+  {
+    "users": 319,
+    "id": "BR-MT"
+  },
+  {
+    "users": 692,
+    "id": "BR-PA"
+  },
+  {
+    "users": 791,
+    "id": "BR-PB"
+  },
+  {
+    "users": 1358,
+    "id": "BR-PE"
+  },
+  {
+    "users": 364,
+    "id": "BR-PI"
+  },
+  {
+    "users": 2619,
+    "id": "BR-PR"
+  },
+  {
+    "users": 14595,
+    "id": "BR-RJ"
+  },
+  {
+    "users": 319,
+    "id": "BR-RN"
+  },
+  {
+    "users": 192,
+    "id": "BR-RO"
+  },
+  {
+    "users": 76,
+    "id": "BR-RR"
+  },
+  {
+    "users": 1440,
+    "id": "BR-RS"
+  },
+  {
+    "users": 1739,
+    "id": "BR-SC"
+  },
+  {
+    "users": 319,
+    "id": "BR-SE"
+  },
+  {
+    "users": 43431,
+    "id": "BR-SP"
+  },
+  {
+    "users": 268,
+    "id": "BR-TO"
   }
 ]

@@ -1,175 +1,170 @@
 [
   {
-    "date": "2020-11-20",
-    "list": [
-      {
-        "users": 88,
-        "id": "RO-AB"
-      },
-      {
-        "users": 19,
-        "id": "RO-AG"
-      },
-      {
-        "users": 129,
-        "id": "RO-AR"
-      },
-      {
-        "users": 64,
-        "id": "RO-BC"
-      },
-      {
-        "users": 17,
-        "id": "RO-BH"
-      },
-      {
-        "users": 3,
-        "id": "RO-BN"
-      },
-      {
-        "users": 31,
-        "id": "RO-BR"
-      },
-      {
-        "users": 24,
-        "id": "RO-BT"
-      },
-      {
-        "users": 470,
-        "id": "RO-B"
-      },
-      {
-        "users": 560,
-        "id": "RO-BV"
-      },
-      {
-        "users": 41,
-        "id": "RO-BZ"
-      },
-      {
-        "users": 3453,
-        "id": "RO-CJ"
-      },
-      {
-        "users": 3,
-        "id": "RO-CL"
-      },
-      {
-        "users": 0,
-        "id": "RO-CS"
-      },
-      {
-        "users": 167,
-        "id": "RO-CT"
-      },
-      {
-        "users": 6,
-        "id": "RO-CV"
-      },
-      {
-        "users": 5,
-        "id": "RO-DB"
-      },
-      {
-        "users": 14,
-        "id": "RO-DJ"
-      },
-      {
-        "users": 6,
-        "id": "RO-GJ"
-      },
-      {
-        "users": 100,
-        "id": "RO-GL"
-      },
-      {
-        "users": 9,
-        "id": "RO-GR"
-      },
-      {
-        "users": 15,
-        "id": "RO-HD"
-      },
-      {
-        "users": 6,
-        "id": "RO-HR"
-      },
-      {
-        "users": 12,
-        "id": "RO-IF"
-      },
-      {
-        "users": 1,
-        "id": "RO-IL"
-      },
-      {
-        "users": 1337,
-        "id": "RO-IS"
-      },
-      {
-        "users": 3,
-        "id": "RO-MH"
-      },
-      {
-        "users": 13,
-        "id": "RO-MM"
-      },
-      {
-        "users": 131,
-        "id": "RO-MS"
-      },
-      {
-        "users": 26,
-        "id": "RO-NT"
-      },
-      {
-        "users": 5,
-        "id": "RO-OT"
-      },
-      {
-        "users": 22,
-        "id": "RO-PH"
-      },
-      {
-        "users": 316,
-        "id": "RO-SB"
-      },
-      {
-        "users": 2,
-        "id": "RO-SJ"
-      },
-      {
-        "users": 23,
-        "id": "RO-SM"
-      },
-      {
-        "users": 102,
-        "id": "RO-SV"
-      },
-      {
-        "users": 18,
-        "id": "RO-TL"
-      },
-      {
-        "users": 32,
-        "id": "RO-TM"
-      },
-      {
-        "users": 1,
-        "id": "RO-TR"
-      },
-      {
-        "users": 22,
-        "id": "RO-VL"
-      },
-      {
-        "users": 4,
-        "id": "RO-VN"
-      },
-      {
-        "users": 8,
-        "id": "RO-VS"
-      }
-    ]
+    "users": 88,
+    "id": "RO-AB"
+  },
+  {
+    "users": 19,
+    "id": "RO-AG"
+  },
+  {
+    "users": 129,
+    "id": "RO-AR"
+  },
+  {
+    "users": 64,
+    "id": "RO-BC"
+  },
+  {
+    "users": 17,
+    "id": "RO-BH"
+  },
+  {
+    "users": 3,
+    "id": "RO-BN"
+  },
+  {
+    "users": 31,
+    "id": "RO-BR"
+  },
+  {
+    "users": 24,
+    "id": "RO-BT"
+  },
+  {
+    "users": 470,
+    "id": "RO-B"
+  },
+  {
+    "users": 560,
+    "id": "RO-BV"
+  },
+  {
+    "users": 41,
+    "id": "RO-BZ"
+  },
+  {
+    "users": 3453,
+    "id": "RO-CJ"
+  },
+  {
+    "users": 3,
+    "id": "RO-CL"
+  },
+  {
+    "users": 0,
+    "id": "RO-CS"
+  },
+  {
+    "users": 167,
+    "id": "RO-CT"
+  },
+  {
+    "users": 6,
+    "id": "RO-CV"
+  },
+  {
+    "users": 5,
+    "id": "RO-DB"
+  },
+  {
+    "users": 14,
+    "id": "RO-DJ"
+  },
+  {
+    "users": 6,
+    "id": "RO-GJ"
+  },
+  {
+    "users": 100,
+    "id": "RO-GL"
+  },
+  {
+    "users": 9,
+    "id": "RO-GR"
+  },
+  {
+    "users": 15,
+    "id": "RO-HD"
+  },
+  {
+    "users": 6,
+    "id": "RO-HR"
+  },
+  {
+    "users": 12,
+    "id": "RO-IF"
+  },
+  {
+    "users": 1,
+    "id": "RO-IL"
+  },
+  {
+    "users": 1337,
+    "id": "RO-IS"
+  },
+  {
+    "users": 3,
+    "id": "RO-MH"
+  },
+  {
+    "users": 13,
+    "id": "RO-MM"
+  },
+  {
+    "users": 131,
+    "id": "RO-MS"
+  },
+  {
+    "users": 26,
+    "id": "RO-NT"
+  },
+  {
+    "users": 5,
+    "id": "RO-OT"
+  },
+  {
+    "users": 22,
+    "id": "RO-PH"
+  },
+  {
+    "users": 316,
+    "id": "RO-SB"
+  },
+  {
+    "users": 2,
+    "id": "RO-SJ"
+  },
+  {
+    "users": 23,
+    "id": "RO-SM"
+  },
+  {
+    "users": 102,
+    "id": "RO-SV"
+  },
+  {
+    "users": 18,
+    "id": "RO-TL"
+  },
+  {
+    "users": 32,
+    "id": "RO-TM"
+  },
+  {
+    "users": 1,
+    "id": "RO-TR"
+  },
+  {
+    "users": 22,
+    "id": "RO-VL"
+  },
+  {
+    "users": 4,
+    "id": "RO-VN"
+  },
+  {
+    "users": 8,
+    "id": "RO-VS"
   }
 ]

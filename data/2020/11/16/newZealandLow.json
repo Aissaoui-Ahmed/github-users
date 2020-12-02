@@ -1,75 +1,70 @@
 [
   {
-    "date": "2020-11-16",
-    "list": [
-      {
-        "users": 7,
-        "id": "NZ-TAS"
-      },
-      {
-        "users": 6974,
-        "id": "NZ-AUK"
-      },
-      {
-        "users": 24,
-        "id": "NZ-BOP"
-      },
-      {
-        "users": 352,
-        "id": "NZ-CAN"
-      },
-      {
-        "users": 0,
-        "id": "NZ-CIT"
-      },
-      {
-        "users": 20,
-        "id": "NZ-GIS"
-      },
-      {
-        "users": 12,
-        "id": "NZ-HKB"
-      },
-      {
-        "users": 87,
-        "id": "NZ-MBH"
-      },
-      {
-        "users": 0,
-        "id": "NZ-MWT"
-      },
-      {
-        "users": 204,
-        "id": "NZ-NSN"
-      },
-      {
-        "users": 17,
-        "id": "NZ-NTL"
-      },
-      {
-        "users": 23,
-        "id": "NZ-OTA"
-      },
-      {
-        "users": 5,
-        "id": "NZ-STL"
-      },
-      {
-        "users": 14,
-        "id": "NZ-TKI"
-      },
-      {
-        "users": 50,
-        "id": "NZ-WKO"
-      },
-      {
-        "users": 3519,
-        "id": "NZ-WGN"
-      },
-      {
-        "users": 281,
-        "id": "NZ-WTC"
-      }
-    ]
+    "users": 7,
+    "id": "NZ-TAS"
+  },
+  {
+    "users": 6974,
+    "id": "NZ-AUK"
+  },
+  {
+    "users": 24,
+    "id": "NZ-BOP"
+  },
+  {
+    "users": 352,
+    "id": "NZ-CAN"
+  },
+  {
+    "users": 0,
+    "id": "NZ-CIT"
+  },
+  {
+    "users": 20,
+    "id": "NZ-GIS"
+  },
+  {
+    "users": 12,
+    "id": "NZ-HKB"
+  },
+  {
+    "users": 87,
+    "id": "NZ-MBH"
+  },
+  {
+    "users": 0,
+    "id": "NZ-MWT"
+  },
+  {
+    "users": 204,
+    "id": "NZ-NSN"
+  },
+  {
+    "users": 17,
+    "id": "NZ-NTL"
+  },
+  {
+    "users": 23,
+    "id": "NZ-OTA"
+  },
+  {
+    "users": 5,
+    "id": "NZ-STL"
+  },
+  {
+    "users": 14,
+    "id": "NZ-TKI"
+  },
+  {
+    "users": 50,
+    "id": "NZ-WKO"
+  },
+  {
+    "users": 3519,
+    "id": "NZ-WGN"
+  },
+  {
+    "users": 281,
+    "id": "NZ-WTC"
   }
 ]

@@ -1,47 +1,42 @@
 [
   {
-    "date": "2020-10-06",
-    "list": [
-      {
-        "users": 1,
-        "id": "CM-AD"
-      },
-      {
-        "users": 372,
-        "id": "CM-CE"
-      },
-      {
-        "users": 12,
-        "id": "CM-EN"
-      },
-      {
-        "users": 5216,
-        "id": "CM-ES"
-      },
-      {
-        "users": 9,
-        "id": "CM-LT"
-      },
-      {
-        "users": 10423,
-        "id": "CM-NO"
-      },
-      {
-        "users": 1,
-        "id": "CM-NW"
-      },
-      {
-        "users": 10607,
-        "id": "CM-OU"
-      },
-      {
-        "users": 35077,
-        "id": "CM-SU"
-      },
-      {
-        "users": 321,
-        "id": "CM-SW"
-      }
-    ]
+    "users": 1,
+    "id": "CM-AD"
+  },
+  {
+    "users": 372,
+    "id": "CM-CE"
+  },
+  {
+    "users": 12,
+    "id": "CM-EN"
+  },
+  {
+    "users": 5216,
+    "id": "CM-ES"
+  },
+  {
+    "users": 9,
+    "id": "CM-LT"
+  },
+  {
+    "users": 10423,
+    "id": "CM-NO"
+  },
+  {
+    "users": 1,
+    "id": "CM-NW"
+  },
+  {
+    "users": 10607,
+    "id": "CM-OU"
+  },
+  {
+    "users": 35077,
+    "id": "CM-SU"
+  },
+  {
+    "users": 321,
+    "id": "CM-SW"
   }
 ]

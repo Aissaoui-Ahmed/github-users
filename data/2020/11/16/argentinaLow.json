@@ -1,103 +1,98 @@
 [
   {
-    "date": "2020-11-16",
-    "list": [
-      {
-        "users": 357,
-        "id": "AR-T"
-      },
-      {
-        "users": 65,
-        "id": "AR-V"
-      },
-      {
-        "users": 1351,
-        "id": "AR-D"
-      },
-      {
-        "users": 711,
-        "id": "AR-J"
-      },
-      {
-        "users": 1406,
-        "id": "AR-S"
-      },
-      {
-        "users": 35,
-        "id": "AR-G"
-      },
-      {
-        "users": 2540,
-        "id": "AR-Z"
-      },
-      {
-        "users": 181,
-        "id": "AR-A"
-      },
-      {
-        "users": 117,
-        "id": "AR-R"
-      },
-      {
-        "users": 192,
-        "id": "AR-Q"
-      },
-      {
-        "users": 170,
-        "id": "AR-N"
-      },
-      {
-        "users": 879,
-        "id": "AR-M"
-      },
-      {
-        "users": 135,
-        "id": "AR-F"
-      },
-      {
-        "users": 46,
-        "id": "AR-L"
-      },
-      {
-        "users": 115,
-        "id": "AR-Y"
-      },
-      {
-        "users": 80,
-        "id": "AR-P"
-      },
-      {
-        "users": 213,
-        "id": "AR-E"
-      },
-      {
-        "users": 188,
-        "id": "AR-W"
-      },
-      {
-        "users": 1117,
-        "id": "AR-X"
-      },
-      {
-        "users": 503,
-        "id": "AR-C"
-      },
-      {
-        "users": 111,
-        "id": "AR-U"
-      },
-      {
-        "users": 198,
-        "id": "AR-H"
-      },
-      {
-        "users": 43,
-        "id": "AR-K"
-      },
-      {
-        "users": 14313,
-        "id": "AR-B"
-      }
-    ]
+    "users": 357,
+    "id": "AR-T"
+  },
+  {
+    "users": 65,
+    "id": "AR-V"
+  },
+  {
+    "users": 1351,
+    "id": "AR-D"
+  },
+  {
+    "users": 711,
+    "id": "AR-J"
+  },
+  {
+    "users": 1406,
+    "id": "AR-S"
+  },
+  {
+    "users": 35,
+    "id": "AR-G"
+  },
+  {
+    "users": 2540,
+    "id": "AR-Z"
+  },
+  {
+    "users": 181,
+    "id": "AR-A"
+  },
+  {
+    "users": 117,
+    "id": "AR-R"
+  },
+  {
+    "users": 192,
+    "id": "AR-Q"
+  },
+  {
+    "users": 170,
+    "id": "AR-N"
+  },
+  {
+    "users": 879,
+    "id": "AR-M"
+  },
+  {
+    "users": 135,
+    "id": "AR-F"
+  },
+  {
+    "users": 46,
+    "id": "AR-L"
+  },
+  {
+    "users": 115,
+    "id": "AR-Y"
+  },
+  {
+    "users": 80,
+    "id": "AR-P"
+  },
+  {
+    "users": 213,
+    "id": "AR-E"
+  },
+  {
+    "users": 188,
+    "id": "AR-W"
+  },
+  {
+    "users": 1117,
+    "id": "AR-X"
+  },
+  {
+    "users": 503,
+    "id": "AR-C"
+  },
+  {
+    "users": 111,
+    "id": "AR-U"
+  },
+  {
+    "users": 198,
+    "id": "AR-H"
+  },
+  {
+    "users": 43,
+    "id": "AR-K"
+  },
+  {
+    "users": 14313,
+    "id": "AR-B"
   }
 ]

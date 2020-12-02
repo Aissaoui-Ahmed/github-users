@@ -1,31 +1,26 @@
 [
   {
-    "date": "2020-10-03",
-    "list": [
-      {
-        "users": 0,
-        "id": "GL-NP"
-      },
-      {
-        "users": 0,
-        "id": "GL-QE"
-      },
-      {
-        "users": 1,
-        "id": "GL-SM"
-      },
-      {
-        "users": 0,
-        "id": "GL-KU"
-      },
-      {
-        "users": 1,
-        "id": "GL-QT"
-      },
-      {
-        "users": 0,
-        "id": "GL-AV"
-      }
-    ]
+    "users": 0,
+    "id": "GL-NP"
+  },
+  {
+    "users": 0,
+    "id": "GL-QE"
+  },
+  {
+    "users": 1,
+    "id": "GL-SM"
+  },
+  {
+    "users": 0,
+    "id": "GL-KU"
+  },
+  {
+    "users": 1,
+    "id": "GL-QT"
+  },
+  {
+    "users": 0,
+    "id": "GL-AV"
   }
 ]

@@ -1,27 +1,22 @@
 [
   {
-    "date": "2020-11-02",
-    "list": [
-      {
-        "users": 35,
-        "id": "TG-M"
-      },
-      {
-        "users": 2,
-        "id": "TG-P"
-      },
-      {
-        "users": 13,
-        "id": "TG-C"
-      },
-      {
-        "users": 3,
-        "id": "TG-K"
-      },
-      {
-        "users": 0,
-        "id": "TG-S"
-      }
-    ]
+    "users": 35,
+    "id": "TG-M"
+  },
+  {
+    "users": 2,
+    "id": "TG-P"
+  },
+  {
+    "users": 13,
+    "id": "TG-C"
+  },
+  {
+    "users": 3,
+    "id": "TG-K"
+  },
+  {
+    "users": 0,
+    "id": "TG-S"
   }
 ]

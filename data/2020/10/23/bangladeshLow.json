@@ -1,39 +1,34 @@
 [
   {
-    "date": "2020-10-23",
-    "list": [
-      {
-        "users": 217,
-        "id": "BD-H"
-      },
-      {
-        "users": 992,
-        "id": "BD-G"
-      },
-      {
-        "users": 366,
-        "id": "BD-F"
-      },
-      {
-        "users": 815,
-        "id": "BD-E"
-      },
-      {
-        "users": 917,
-        "id": "BD-D"
-      },
-      {
-        "users": 24245,
-        "id": "BD-C"
-      },
-      {
-        "users": 1403,
-        "id": "BD-B"
-      },
-      {
-        "users": 109,
-        "id": "BD-A"
-      }
-    ]
+    "users": 217,
+    "id": "BD-H"
+  },
+  {
+    "users": 992,
+    "id": "BD-G"
+  },
+  {
+    "users": 366,
+    "id": "BD-F"
+  },
+  {
+    "users": 815,
+    "id": "BD-E"
+  },
+  {
+    "users": 917,
+    "id": "BD-D"
+  },
+  {
+    "users": 24245,
+    "id": "BD-C"
+  },
+  {
+    "users": 1403,
+    "id": "BD-B"
+  },
+  {
+    "users": 109,
+    "id": "BD-A"
   }
 ]

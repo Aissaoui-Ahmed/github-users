@@ -1,39 +1,34 @@
 [
   {
-    "date": "2020-10-18",
-    "list": [
-      {
-        "users": 19,
-        "id": "AU-NT"
-      },
-      {
-        "users": 1729,
-        "id": "AU-WA"
-      },
-      {
-        "users": 10,
-        "id": "AU-ACT"
-      },
-      {
-        "users": 262,
-        "id": "AU-NSW"
-      },
-      {
-        "users": 1143,
-        "id": "AU-SA"
-      },
-      {
-        "users": 4413,
-        "id": "AU-VIC"
-      },
-      {
-        "users": 1249,
-        "id": "AU-QLD"
-      },
-      {
-        "users": 550,
-        "id": "AU-TAS"
-      }
-    ]
+    "users": 19,
+    "id": "AU-NT"
+  },
+  {
+    "users": 1729,
+    "id": "AU-WA"
+  },
+  {
+    "users": 10,
+    "id": "AU-ACT"
+  },
+  {
+    "users": 262,
+    "id": "AU-NSW"
+  },
+  {
+    "users": 1143,
+    "id": "AU-SA"
+  },
+  {
+    "users": 4413,
+    "id": "AU-VIC"
+  },
+  {
+    "users": 1249,
+    "id": "AU-QLD"
+  },
+  {
+    "users": 550,
+    "id": "AU-TAS"
   }
 ]

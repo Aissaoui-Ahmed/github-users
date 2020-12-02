@@ -1,5 +1,10 @@
 /* eslint-disable no-await-in-loop */
-const fs = require('fs');
+const {
+  existsSync,
+  mkdirSync,
+  writeFileSync,
+  statSync,
+} = require('fs');
 const moment = require('moment');
 const accents = require('@aissaoui-ahmed/accents');
 const data = require('@amcharts/amcharts4-geodata/json/data/countries2.json');
@@ -21,14 +26,13 @@ const countUsers = async () => {
         const countryInfo = require(`../data/countries/${countryLow}.json`);
         const fileJSON = `./data/${moment().format('YYYY')}/${moment().format('MM')}/${moment().format('DD')}/${countryLow}.json`;
         const directory = `./data/${moment().format('YYYY')}/${moment().format('MM')}/${moment().format('DD')}`;
-        if (!fs.existsSync(fileJSON)) {
-          fs.mkdirSync(directory, { recursive: true });
-          fs.writeFileSync(fileJSON, '[]');
+        if (!existsSync(fileJSON)) {
+          mkdirSync(directory, { recursive: true });
         }
 
-        const dataArray = JSON.parse(fs.readFileSync(fileJSON, { encoding: 'utf8' }));
-        const condition = dataArray.some((x) => x.date === moment().format('YYYY-MM-DD'));
-        if (!condition) {
+        const { size } = statSync(directory);
+
+        if (!size) {
           const list = [];
           for (let j = 0; j < countryInfo.length; j += 1) {
             const stateName = countryInfo[j].name;
@@ -58,10 +62,7 @@ const countUsers = async () => {
               list.push({ users: searchResults.search.userCount, id: stateID });
             }
           }
-          const oldFile = JSON.parse(fs.readFileSync(fileJSON, { encoding: 'utf8' }));
-          const users = { date: moment().format('YYYY-MM-DD'), list };
-          oldFile.push(users);
-          fs.writeFileSync(fileJSON, JSON.stringify(oldFile, null, 2));
+          writeFileSync(fileJSON, JSON.stringify(list, null, 2));
         }
       }
     }

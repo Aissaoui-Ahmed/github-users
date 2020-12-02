@@ -1,159 +1,154 @@
 [
   {
-    "date": "2020-10-12",
-    "list": [
-      {
-        "users": 469,
-        "id": "ID-AC"
-      },
-      {
-        "users": 1311,
-        "id": "ID-BA"
-      },
-      {
-        "users": 4,
-        "id": "ID-BB"
-      },
-      {
-        "users": 108,
-        "id": "ID-BE"
-      },
-      {
-        "users": 419,
-        "id": "ID-BT"
-      },
-      {
-        "users": 75,
-        "id": "ID-GO"
-      },
-      {
-        "users": 149,
-        "id": "ID-JA"
-      },
-      {
-        "users": 1137,
-        "id": "ID-JB"
-      },
-      {
-        "users": 798,
-        "id": "ID-JI"
-      },
-      {
-        "users": 64,
-        "id": "ID-JK"
-      },
-      {
-        "users": 664,
-        "id": "ID-JT"
-      },
-      {
-        "users": 53,
-        "id": "ID-KR"
-      },
-      {
-        "users": 81,
-        "id": "ID-KB"
-      },
-      {
-        "users": 110,
-        "id": "ID-KI"
-      },
-      {
-        "users": 73,
-        "id": "ID-KS"
-      },
-      {
-        "users": 51,
-        "id": "ID-KT"
-      },
-      {
-        "users": 12,
-        "id": "ID-KU"
-      },
-      {
-        "users": 620,
-        "id": "ID-LA"
-      },
-      {
-        "users": 46,
-        "id": "ID-MA"
-      },
-      {
-        "users": 16,
-        "id": "ID-MU"
-      },
-      {
-        "users": 47,
-        "id": "ID-NB"
-      },
-      {
-        "users": 24,
-        "id": "ID-NT"
-      },
-      {
-        "users": 259,
-        "id": "ID-PA"
-      },
-      {
-        "users": 18,
-        "id": "ID-PB"
-      },
-      {
-        "users": 392,
-        "id": "ID-RI"
-      },
-      {
-        "users": 30,
-        "id": "ID-SA"
-      },
-      {
-        "users": 65,
-        "id": "ID-SB"
-      },
-      {
-        "users": 40,
-        "id": "ID-SG"
-      },
-      {
-        "users": 104,
-        "id": "ID-SN"
-      },
-      {
-        "users": 11,
-        "id": "ID-SR"
-      },
-      {
-        "users": 75,
-        "id": "ID-SS"
-      },
-      {
-        "users": 37,
-        "id": "ID-ST"
-      },
-      {
-        "users": 196,
-        "id": "ID-SU"
-      },
-      {
-        "users": 3733,
-        "id": "ID-YO"
-      },
-      {
-        "users": 62,
-        "id": "TL"
-      },
-      {
-        "users": 160,
-        "id": "MY-12"
-      },
-      {
-        "users": 151,
-        "id": "MY-13"
-      },
-      {
-        "users": 72,
-        "id": "BN"
-      }
-    ]
+    "users": 469,
+    "id": "ID-AC"
+  },
+  {
+    "users": 1311,
+    "id": "ID-BA"
+  },
+  {
+    "users": 4,
+    "id": "ID-BB"
+  },
+  {
+    "users": 108,
+    "id": "ID-BE"
+  },
+  {
+    "users": 419,
+    "id": "ID-BT"
+  },
+  {
+    "users": 75,
+    "id": "ID-GO"
+  },
+  {
+    "users": 149,
+    "id": "ID-JA"
+  },
+  {
+    "users": 1137,
+    "id": "ID-JB"
+  },
+  {
+    "users": 798,
+    "id": "ID-JI"
+  },
+  {
+    "users": 64,
+    "id": "ID-JK"
+  },
+  {
+    "users": 664,
+    "id": "ID-JT"
+  },
+  {
+    "users": 53,
+    "id": "ID-KR"
+  },
+  {
+    "users": 81,
+    "id": "ID-KB"
+  },
+  {
+    "users": 110,
+    "id": "ID-KI"
+  },
+  {
+    "users": 73,
+    "id": "ID-KS"
+  },
+  {
+    "users": 51,
+    "id": "ID-KT"
+  },
+  {
+    "users": 12,
+    "id": "ID-KU"
+  },
+  {
+    "users": 620,
+    "id": "ID-LA"
+  },
+  {
+    "users": 46,
+    "id": "ID-MA"
+  },
+  {
+    "users": 16,
+    "id": "ID-MU"
+  },
+  {
+    "users": 47,
+    "id": "ID-NB"
+  },
+  {
+    "users": 24,
+    "id": "ID-NT"
+  },
+  {
+    "users": 259,
+    "id": "ID-PA"
+  },
+  {
+    "users": 18,
+    "id": "ID-PB"
+  },
+  {
+    "users": 392,
+    "id": "ID-RI"
+  },
+  {
+    "users": 30,
+    "id": "ID-SA"
+  },
+  {
+    "users": 65,
+    "id": "ID-SB"
+  },
+  {
+    "users": 40,
+    "id": "ID-SG"
+  },
+  {
+    "users": 104,
+    "id": "ID-SN"
+  },
+  {
+    "users": 11,
+    "id": "ID-SR"
+  },
+  {
+    "users": 75,
+    "id": "ID-SS"
+  },
+  {
+    "users": 37,
+    "id": "ID-ST"
+  },
+  {
+    "users": 196,
+    "id": "ID-SU"
+  },
+  {
+    "users": 3733,
+    "id": "ID-YO"
+  },
+  {
+    "users": 62,
+    "id": "TL"
+  },
+  {
+    "users": 160,
+    "id": "MY-12"
+  },
+  {
+    "users": 151,
+    "id": "MY-13"
+  },
+  {
+    "users": 72,
+    "id": "BN"
   }
 ]

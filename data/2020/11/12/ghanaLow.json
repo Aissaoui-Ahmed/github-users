@@ -1,71 +1,66 @@
 [
   {
-    "date": "2020-11-12",
-    "list": [
-      {
-        "users": 271,
-        "id": "GH-NE"
-      },
-      {
-        "users": 2961,
-        "id": "GH-NP"
-      },
-      {
-        "users": 6,
-        "id": "GH-UE"
-      },
-      {
-        "users": 8,
-        "id": "GH-UW"
-      },
-      {
-        "users": 0,
-        "id": "GH-OT"
-      },
-      {
-        "users": 1,
-        "id": "GH-BE"
-      },
-      {
-        "users": 17,
-        "id": "GH-AH"
-      },
-      {
-        "users": 2,
-        "id": "GH-BO"
-      },
-      {
-        "users": 3,
-        "id": "GH-AF"
-      },
-      {
-        "users": 564,
-        "id": "GH-EP"
-      },
-      {
-        "users": 172,
-        "id": "GH-TV"
-      },
-      {
-        "users": 2287,
-        "id": "GH-CP"
-      },
-      {
-        "users": 43,
-        "id": "GH-WN"
-      },
-      {
-        "users": 22,
-        "id": "GH-AA"
-      },
-      {
-        "users": 2696,
-        "id": "GH-WP"
-      },
-      {
-        "users": 479,
-        "id": "GH-SV"
-      }
-    ]
+    "users": 271,
+    "id": "GH-NE"
+  },
+  {
+    "users": 2961,
+    "id": "GH-NP"
+  },
+  {
+    "users": 6,
+    "id": "GH-UE"
+  },
+  {
+    "users": 8,
+    "id": "GH-UW"
+  },
+  {
+    "users": 0,
+    "id": "GH-OT"
+  },
+  {
+    "users": 1,
+    "id": "GH-BE"
+  },
+  {
+    "users": 17,
+    "id": "GH-AH"
+  },
+  {
+    "users": 2,
+    "id": "GH-BO"
+  },
+  {
+    "users": 3,
+    "id": "GH-AF"
+  },
+  {
+    "users": 564,
+    "id": "GH-EP"
+  },
+  {
+    "users": 172,
+    "id": "GH-TV"
+  },
+  {
+    "users": 2287,
+    "id": "GH-CP"
+  },
+  {
+    "users": 43,
+    "id": "GH-WN"
+  },
+  {
+    "users": 22,
+    "id": "GH-AA"
+  },
+  {
+    "users": 2696,
+    "id": "GH-WP"
+  },
+  {
+    "users": 479,
+    "id": "GH-SV"
   }
 ]

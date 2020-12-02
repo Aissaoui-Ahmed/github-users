@@ -1,39 +1,34 @@
 [
   {
-    "date": "2020-11-13",
-    "list": [
-      {
-        "users": 2,
-        "id": "IL-JM"
-      },
-      {
-        "users": 2,
-        "id": "IL-D"
-      },
-      {
-        "users": 3741,
-        "id": "IL-TA"
-      },
-      {
-        "users": 5,
-        "id": "IL-M"
-      },
-      {
-        "users": 0,
-        "id": "IL-HA"
-      },
-      {
-        "users": 0,
-        "id": "IL-Z"
-      },
-      {
-        "users": 0,
-        "id": "IL-GH"
-      },
-      {
-        "users": 3,
-        "id": "PS"
-      }
-    ]
+    "users": 2,
+    "id": "IL-JM"
+  },
+  {
+    "users": 2,
+    "id": "IL-D"
+  },
+  {
+    "users": 3741,
+    "id": "IL-TA"
+  },
+  {
+    "users": 5,
+    "id": "IL-M"
+  },
+  {
+    "users": 0,
+    "id": "IL-HA"
+  },
+  {
+    "users": 0,
+    "id": "IL-Z"
+  },
+  {
+    "users": 0,
+    "id": "IL-GH"
+  },
+  {
+    "users": 3,
+    "id": "PS"
   }
 ]

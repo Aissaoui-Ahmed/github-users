@@ -1,79 +1,74 @@
 [
   {
-    "date": "2020-11-19",
-    "list": [
-      {
-        "users": 1,
-        "id": "HK-YT"
-      },
-      {
-        "users": 1,
-        "id": "HK-YL"
-      },
-      {
-        "users": 2,
-        "id": "HK-WT"
-      },
-      {
-        "users": 9,
-        "id": "HK-WC"
-      },
-      {
-        "users": 4,
-        "id": "HK-TW"
-      },
-      {
-        "users": 4,
-        "id": "HK-TP"
-      },
-      {
-        "users": 6,
-        "id": "HK-TM"
-      },
-      {
-        "users": 9,
-        "id": "HK-ST"
-      },
-      {
-        "users": 3,
-        "id": "HK-SS"
-      },
-      {
-        "users": 2052,
-        "id": "HK-SO"
-      },
-      {
-        "users": 6,
-        "id": "HK-SK"
-      },
-      {
-        "users": 10669,
-        "id": "HK-NO"
-      },
-      {
-        "users": 7,
-        "id": "HK-KU"
-      },
-      {
-        "users": 2,
-        "id": "HK-KI"
-      },
-      {
-        "users": 8,
-        "id": "HK-KC"
-      },
-      {
-        "users": 984,
-        "id": "HK-IS"
-      },
-      {
-        "users": 571,
-        "id": "HK-EA"
-      },
-      {
-        "users": 2,
-        "id": "HK-CW"
-      }
-    ]
+    "users": 1,
+    "id": "HK-YT"
+  },
+  {
+    "users": 1,
+    "id": "HK-YL"
+  },
+  {
+    "users": 2,
+    "id": "HK-WT"
+  },
+  {
+    "users": 9,
+    "id": "HK-WC"
+  },
+  {
+    "users": 4,
+    "id": "HK-TW"
+  },
+  {
+    "users": 4,
+    "id": "HK-TP"
+  },
+  {
+    "users": 6,
+    "id": "HK-TM"
+  },
+  {
+    "users": 9,
+    "id": "HK-ST"
+  },
+  {
+    "users": 3,
+    "id": "HK-SS"
+  },
+  {
+    "users": 2052,
+    "id": "HK-SO"
+  },
+  {
+    "users": 6,
+    "id": "HK-SK"
+  },
+  {
+    "users": 10669,
+    "id": "HK-NO"
+  },
+  {
+    "users": 7,
+    "id": "HK-KU"
+  },
+  {
+    "users": 2,
+    "id": "HK-KI"
+  },
+  {
+    "users": 8,
+    "id": "HK-KC"
+  },
+  {
+    "users": 984,
+    "id": "HK-IS"
+  },
+  {
+    "users": 571,
+    "id": "HK-EA"
+  },
+  {
+    "users": 2,
+    "id": "HK-CW"
   }
 ]

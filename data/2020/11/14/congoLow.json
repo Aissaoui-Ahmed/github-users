@@ -1,55 +1,50 @@
 [
   {
-    "date": "2020-11-14",
-    "list": [
-      {
-        "users": 0,
-        "id": "CG-2"
-      },
-      {
-        "users": 0,
-        "id": "CG-5"
-      },
-      {
-        "users": 0,
-        "id": "CG-7"
-      },
-      {
-        "users": 0,
-        "id": "CG-8"
-      },
-      {
-        "users": 0,
-        "id": "CG-9"
-      },
-      {
-        "users": 0,
-        "id": "CG-11"
-      },
-      {
-        "users": 9,
-        "id": "CG-12"
-      },
-      {
-        "users": 0,
-        "id": "CG-13"
-      },
-      {
-        "users": 2,
-        "id": "CG-14"
-      },
-      {
-        "users": 0,
-        "id": "CG-15"
-      },
-      {
-        "users": 16,
-        "id": "CG-16"
-      },
-      {
-        "users": 68,
-        "id": "CG-BZV"
-      }
-    ]
+    "users": 0,
+    "id": "CG-2"
+  },
+  {
+    "users": 0,
+    "id": "CG-5"
+  },
+  {
+    "users": 0,
+    "id": "CG-7"
+  },
+  {
+    "users": 0,
+    "id": "CG-8"
+  },
+  {
+    "users": 0,
+    "id": "CG-9"
+  },
+  {
+    "users": 0,
+    "id": "CG-11"
+  },
+  {
+    "users": 9,
+    "id": "CG-12"
+  },
+  {
+    "users": 0,
+    "id": "CG-13"
+  },
+  {
+    "users": 2,
+    "id": "CG-14"
+  },
+  {
+    "users": 0,
+    "id": "CG-15"
+  },
+  {
+    "users": 16,
+    "id": "CG-16"
+  },
+  {
+    "users": 68,
+    "id": "CG-BZV"
   }
 ]

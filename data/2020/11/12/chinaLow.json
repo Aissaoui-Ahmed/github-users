@@ -1,143 +1,138 @@
 [
   {
-    "date": "2020-11-12",
-    "list": [
-      {
-        "users": 1310,
-        "id": "CN-AH"
-      },
-      {
-        "users": 58569,
-        "id": "CN-BJ"
-      },
-      {
-        "users": 2673,
-        "id": "CN-CQ"
-      },
-      {
-        "users": 1221,
-        "id": "CN-FJ"
-      },
-      {
-        "users": 5405,
-        "id": "CN-GD"
-      },
-      {
-        "users": 139,
-        "id": "CN-GS"
-      },
-      {
-        "users": 6,
-        "id": "CN-GX"
-      },
-      {
-        "users": 186,
-        "id": "CN-GZ"
-      },
-      {
-        "users": 731,
-        "id": "CN-HA"
-      },
-      {
-        "users": 1860,
-        "id": "CN-HB"
-      },
-      {
-        "users": 405,
-        "id": "CN-HE"
-      },
-      {
-        "users": 144,
-        "id": "CN-HI"
-      },
-      {
-        "users": 10880,
-        "id": "CN-HK"
-      },
-      {
-        "users": 175,
-        "id": "CN-HL"
-      },
-      {
-        "users": 1255,
-        "id": "CN-HN"
-      },
-      {
-        "users": 300,
-        "id": "CN-JL"
-      },
-      {
-        "users": 3015,
-        "id": "CN-JX"
-      },
-      {
-        "users": 435,
-        "id": "CN-36"
-      },
-      {
-        "users": 750,
-        "id": "CN-LN"
-      },
-      {
-        "users": 334,
-        "id": "CN-MO"
-      },
-      {
-        "users": 1,
-        "id": "CN-NM"
-      },
-      {
-        "users": 1,
-        "id": "CN-NX"
-      },
-      {
-        "users": 16,
-        "id": "CN-QH"
-      },
-      {
-        "users": 2804,
-        "id": "CN-SC"
-      },
-      {
-        "users": 1530,
-        "id": "CN-SD"
-      },
-      {
-        "users": 43291,
-        "id": "CN-SH"
-      },
-      {
-        "users": 816,
-        "id": "CN-SN"
-      },
-      {
-        "users": 644,
-        "id": "CN-SX"
-      },
-      {
-        "users": 2075,
-        "id": "CN-TJ"
-      },
-      {
-        "users": 21083,
-        "id": "CN-TW"
-      },
-      {
-        "users": 1,
-        "id": "CN-XJ"
-      },
-      {
-        "users": 0,
-        "id": "CN-XZ"
-      },
-      {
-        "users": 342,
-        "id": "CN-YN"
-      },
-      {
-        "users": 3388,
-        "id": "CN-ZJ"
-      }
-    ]
+    "users": 1310,
+    "id": "CN-AH"
+  },
+  {
+    "users": 58569,
+    "id": "CN-BJ"
+  },
+  {
+    "users": 2673,
+    "id": "CN-CQ"
+  },
+  {
+    "users": 1221,
+    "id": "CN-FJ"
+  },
+  {
+    "users": 5405,
+    "id": "CN-GD"
+  },
+  {
+    "users": 139,
+    "id": "CN-GS"
+  },
+  {
+    "users": 6,
+    "id": "CN-GX"
+  },
+  {
+    "users": 186,
+    "id": "CN-GZ"
+  },
+  {
+    "users": 731,
+    "id": "CN-HA"
+  },
+  {
+    "users": 1860,
+    "id": "CN-HB"
+  },
+  {
+    "users": 405,
+    "id": "CN-HE"
+  },
+  {
+    "users": 144,
+    "id": "CN-HI"
+  },
+  {
+    "users": 10880,
+    "id": "CN-HK"
+  },
+  {
+    "users": 175,
+    "id": "CN-HL"
+  },
+  {
+    "users": 1255,
+    "id": "CN-HN"
+  },
+  {
+    "users": 300,
+    "id": "CN-JL"
+  },
+  {
+    "users": 3015,
+    "id": "CN-JX"
+  },
+  {
+    "users": 435,
+    "id": "CN-36"
+  },
+  {
+    "users": 750,
+    "id": "CN-LN"
+  },
+  {
+    "users": 334,
+    "id": "CN-MO"
+  },
+  {
+    "users": 1,
+    "id": "CN-NM"
+  },
+  {
+    "users": 1,
+    "id": "CN-NX"
+  },
+  {
+    "users": 16,
+    "id": "CN-QH"
+  },
+  {
+    "users": 2804,
+    "id": "CN-SC"
+  },
+  {
+    "users": 1530,
+    "id": "CN-SD"
+  },
+  {
+    "users": 43291,
+    "id": "CN-SH"
+  },
+  {
+    "users": 816,
+    "id": "CN-SN"
+  },
+  {
+    "users": 644,
+    "id": "CN-SX"
+  },
+  {
+    "users": 2075,
+    "id": "CN-TJ"
+  },
+  {
+    "users": 21083,
+    "id": "CN-TW"
+  },
+  {
+    "users": 1,
+    "id": "CN-XJ"
+  },
+  {
+    "users": 0,
+    "id": "CN-XZ"
+  },
+  {
+    "users": 342,
+    "id": "CN-YN"
+  },
+  {
+    "users": 3388,
+    "id": "CN-ZJ"
   }
 ]

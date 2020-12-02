@@ -1,87 +1,82 @@
 [
   {
-    "date": "2020-11-13",
-    "list": [
-      {
-        "users": 0,
-        "id": "AI-DGI"
-      },
-      {
-        "users": 1,
-        "id": "AI-SEI"
-      },
-      {
-        "users": 0,
-        "id": "AI-PPE"
-      },
-      {
-        "users": 0,
-        "id": "AI-PPW"
-      },
-      {
-        "users": 0,
-        "id": "AI-SOI"
-      },
-      {
-        "users": 1,
-        "id": "AI-IH"
-      },
-      {
-        "users": 0,
-        "id": "AI-SCI"
-      },
-      {
-        "users": 14,
-        "id": "AI-WE"
-      },
-      {
-        "users": 0,
-        "id": "AI-BP"
-      },
-      {
-        "users": 15,
-        "id": "AI-SO"
-      },
-      {
-        "users": 0,
-        "id": "AI-ST"
-      },
-      {
-        "users": 4,
-        "id": "AI-NS"
-      },
-      {
-        "users": 0,
-        "id": "AI-SG"
-      },
-      {
-        "users": 157,
-        "id": "AI-NH"
-      },
-      {
-        "users": 0,
-        "id": "AI-GH"
-      },
-      {
-        "users": 58,
-        "id": "AI-TV"
-      },
-      {
-        "users": 1,
-        "id": "AI-TQ"
-      },
-      {
-        "users": 0,
-        "id": "AI-TF"
-      },
-      {
-        "users": 0,
-        "id": "AI-SH"
-      },
-      {
-        "users": 2,
-        "id": "AI-EE"
-      }
-    ]
+    "users": 0,
+    "id": "AI-DGI"
+  },
+  {
+    "users": 1,
+    "id": "AI-SEI"
+  },
+  {
+    "users": 0,
+    "id": "AI-PPE"
+  },
+  {
+    "users": 0,
+    "id": "AI-PPW"
+  },
+  {
+    "users": 0,
+    "id": "AI-SOI"
+  },
+  {
+    "users": 1,
+    "id": "AI-IH"
+  },
+  {
+    "users": 0,
+    "id": "AI-SCI"
+  },
+  {
+    "users": 14,
+    "id": "AI-WE"
+  },
+  {
+    "users": 0,
+    "id": "AI-BP"
+  },
+  {
+    "users": 15,
+    "id": "AI-SO"
+  },
+  {
+    "users": 0,
+    "id": "AI-ST"
+  },
+  {
+    "users": 4,
+    "id": "AI-NS"
+  },
+  {
+    "users": 0,
+    "id": "AI-SG"
+  },
+  {
+    "users": 157,
+    "id": "AI-NH"
+  },
+  {
+    "users": 0,
+    "id": "AI-GH"
+  },
+  {
+    "users": 58,
+    "id": "AI-TV"
+  },
+  {
+    "users": 1,
+    "id": "AI-TQ"
+  },
+  {
+    "users": 0,
+    "id": "AI-TF"
+  },
+  {
+    "users": 0,
+    "id": "AI-SH"
+  },
+  {
+    "users": 2,
+    "id": "AI-EE"
   }
 ]

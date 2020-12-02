@@ -1,51 +1,46 @@
 [
   {
-    "date": "2020-10-25",
-    "list": [
-      {
-        "users": 0,
-        "id": "LC-FR"
-      },
-      {
-        "users": 2,
-        "id": "LC-12"
-      },
-      {
-        "users": 0,
-        "id": "LC-11"
-      },
-      {
-        "users": 0,
-        "id": "LC-10"
-      },
-      {
-        "users": 0,
-        "id": "LC-08"
-      },
-      {
-        "users": 0,
-        "id": "LC-07"
-      },
-      {
-        "users": 1,
-        "id": "LC-06"
-      },
-      {
-        "users": 0,
-        "id": "LC-05"
-      },
-      {
-        "users": 0,
-        "id": "LC-03"
-      },
-      {
-        "users": 7,
-        "id": "LC-02"
-      },
-      {
-        "users": 0,
-        "id": "LC-01"
-      }
-    ]
+    "users": 0,
+    "id": "LC-FR"
+  },
+  {
+    "users": 2,
+    "id": "LC-12"
+  },
+  {
+    "users": 0,
+    "id": "LC-11"
+  },
+  {
+    "users": 0,
+    "id": "LC-10"
+  },
+  {
+    "users": 0,
+    "id": "LC-08"
+  },
+  {
+    "users": 0,
+    "id": "LC-07"
+  },
+  {
+    "users": 1,
+    "id": "LC-06"
+  },
+  {
+    "users": 0,
+    "id": "LC-05"
+  },
+  {
+    "users": 0,
+    "id": "LC-03"
+  },
+  {
+    "users": 7,
+    "id": "LC-02"
+  },
+  {
+    "users": 0,
+    "id": "LC-01"
   }
 ]

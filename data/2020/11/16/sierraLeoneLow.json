@@ -1,27 +1,22 @@
 [
   {
-    "date": "2020-11-16",
-    "list": [
-      {
-        "users": 42,
-        "id": "SL-NW"
-      },
-      {
-        "users": 4,
-        "id": "SL-W"
-      },
-      {
-        "users": 2050,
-        "id": "SL-S"
-      },
-      {
-        "users": 568,
-        "id": "SL-E"
-      },
-      {
-        "users": 2969,
-        "id": "SL-N"
-      }
-    ]
+    "users": 42,
+    "id": "SL-NW"
+  },
+  {
+    "users": 4,
+    "id": "SL-W"
+  },
+  {
+    "users": 2050,
+    "id": "SL-S"
+  },
+  {
+    "users": 568,
+    "id": "SL-E"
+  },
+  {
+    "users": 2969,
+    "id": "SL-N"
   }
 ]

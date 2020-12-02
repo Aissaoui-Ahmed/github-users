@@ -1,23 +1,18 @@
 [
   {
-    "date": "2020-11-20",
-    "list": [
-      {
-        "users": 0,
-        "id": "BN-BE"
-      },
-      {
-        "users": 0,
-        "id": "BN-BM"
-      },
-      {
-        "users": 0,
-        "id": "BN-TE"
-      },
-      {
-        "users": 0,
-        "id": "BN-TU"
-      }
-    ]
+    "users": 0,
+    "id": "BN-BE"
+  },
+  {
+    "users": 0,
+    "id": "BN-BM"
+  },
+  {
+    "users": 0,
+    "id": "BN-TE"
+  },
+  {
+    "users": 0,
+    "id": "BN-TU"
   }
 ]

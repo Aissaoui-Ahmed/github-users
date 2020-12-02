@@ -1,31 +1,26 @@
 [
   {
-    "date": "2020-10-04",
-    "list": [
-      {
-        "users": 0,
-        "id": "KW-FA"
-      },
-      {
-        "users": 0,
-        "id": "KW-MU"
-      },
-      {
-        "users": 1,
-        "id": "KW-HA"
-      },
-      {
-        "users": 0,
-        "id": "KW-KU"
-      },
-      {
-        "users": 4,
-        "id": "KW-AH"
-      },
-      {
-        "users": 0,
-        "id": "KW-JA"
-      }
-    ]
+    "users": 0,
+    "id": "KW-FA"
+  },
+  {
+    "users": 0,
+    "id": "KW-MU"
+  },
+  {
+    "users": 1,
+    "id": "KW-HA"
+  },
+  {
+    "users": 0,
+    "id": "KW-KU"
+  },
+  {
+    "users": 4,
+    "id": "KW-AH"
+  },
+  {
+    "users": 0,
+    "id": "KW-JA"
   }
 ]

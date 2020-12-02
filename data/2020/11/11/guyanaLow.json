@@ -1,47 +1,42 @@
 [
   {
-    "date": "2020-11-11",
-    "list": [
-      {
-        "users": 0,
-        "id": "GY-ES"
-      },
-      {
-        "users": 0,
-        "id": "GY-EB"
-      },
-      {
-        "users": 0,
-        "id": "GY-UT"
-      },
-      {
-        "users": 0,
-        "id": "GY-CU"
-      },
-      {
-        "users": 0,
-        "id": "GY-DE"
-      },
-      {
-        "users": 0,
-        "id": "GY-BA"
-      },
-      {
-        "users": 0,
-        "id": "GY-UD"
-      },
-      {
-        "users": 0,
-        "id": "GY-PT"
-      },
-      {
-        "users": 0,
-        "id": "GY-PM"
-      },
-      {
-        "users": 0,
-        "id": "GY-MA"
-      }
-    ]
+    "users": 0,
+    "id": "GY-ES"
+  },
+  {
+    "users": 0,
+    "id": "GY-EB"
+  },
+  {
+    "users": 0,
+    "id": "GY-UT"
+  },
+  {
+    "users": 0,
+    "id": "GY-CU"
+  },
+  {
+    "users": 0,
+    "id": "GY-DE"
+  },
+  {
+    "users": 0,
+    "id": "GY-BA"
+  },
+  {
+    "users": 0,
+    "id": "GY-UD"
+  },
+  {
+    "users": 0,
+    "id": "GY-PT"
+  },
+  {
+    "users": 0,
+    "id": "GY-PM"
+  },
+  {
+    "users": 0,
+    "id": "GY-MA"
   }
 ]

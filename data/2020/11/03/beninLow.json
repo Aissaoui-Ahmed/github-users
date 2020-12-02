@@ -1,55 +1,50 @@
 [
   {
-    "date": "2020-11-03",
-    "list": [
-      {
-        "users": 1,
-        "id": "BJ-ZO"
-      },
-      {
-        "users": 110,
-        "id": "BJ-PL"
-      },
-      {
-        "users": 0,
-        "id": "BJ-OU"
-      },
-      {
-        "users": 9,
-        "id": "BJ-LI"
-      },
-      {
-        "users": 0,
-        "id": "BJ-KO"
-      },
-      {
-        "users": 0,
-        "id": "BJ-DO"
-      },
-      {
-        "users": 0,
-        "id": "BJ-CO"
-      },
-      {
-        "users": 0,
-        "id": "BJ-BO"
-      },
-      {
-        "users": 0,
-        "id": "BJ-AK"
-      },
-      {
-        "users": 0,
-        "id": "BJ-AL"
-      },
-      {
-        "users": 2,
-        "id": "BJ-MO"
-      },
-      {
-        "users": 19,
-        "id": "BJ-AQ"
-      }
-    ]
+    "users": 1,
+    "id": "BJ-ZO"
+  },
+  {
+    "users": 110,
+    "id": "BJ-PL"
+  },
+  {
+    "users": 0,
+    "id": "BJ-OU"
+  },
+  {
+    "users": 9,
+    "id": "BJ-LI"
+  },
+  {
+    "users": 0,
+    "id": "BJ-KO"
+  },
+  {
+    "users": 0,
+    "id": "BJ-DO"
+  },
+  {
+    "users": 0,
+    "id": "BJ-CO"
+  },
+  {
+    "users": 0,
+    "id": "BJ-BO"
+  },
+  {
+    "users": 0,
+    "id": "BJ-AK"
+  },
+  {
+    "users": 0,
+    "id": "BJ-AL"
+  },
+  {
+    "users": 2,
+    "id": "BJ-MO"
+  },
+  {
+    "users": 19,
+    "id": "BJ-AQ"
   }
 ]

@@ -1,31 +1,26 @@
 [
   {
-    "date": "2020-11-01",
-    "list": [
-      {
-        "users": 0,
-        "id": "ER-DK"
-      },
-      {
-        "users": 0,
-        "id": "ER-DU"
-      },
-      {
-        "users": 0,
-        "id": "ER-SK"
-      },
-      {
-        "users": 0,
-        "id": "ER-GB"
-      },
-      {
-        "users": 0,
-        "id": "ER-MA"
-      },
-      {
-        "users": 0,
-        "id": "ER-AN"
-      }
-    ]
+    "users": 0,
+    "id": "ER-DK"
+  },
+  {
+    "users": 0,
+    "id": "ER-DU"
+  },
+  {
+    "users": 0,
+    "id": "ER-SK"
+  },
+  {
+    "users": 0,
+    "id": "ER-GB"
+  },
+  {
+    "users": 0,
+    "id": "ER-MA"
+  },
+  {
+    "users": 0,
+    "id": "ER-AN"
   }
 ]

@@ -1,55 +1,50 @@
 [
   {
-    "date": "2020-10-29",
-    "list": [
-      {
-        "users": 36,
-        "id": "NL-DR"
-      },
-      {
-        "users": 21,
-        "id": "NL-FL"
-      },
-      {
-        "users": 24,
-        "id": "NL-FR"
-      },
-      {
-        "users": 77,
-        "id": "NL-GE"
-      },
-      {
-        "users": 1700,
-        "id": "NL-GR"
-      },
-      {
-        "users": 155,
-        "id": "NL-LI"
-      },
-      {
-        "users": 96,
-        "id": "NL-NB"
-      },
-      {
-        "users": 63,
-        "id": "NL-NH"
-      },
-      {
-        "users": 58,
-        "id": "NL-OV"
-      },
-      {
-        "users": 3296,
-        "id": "NL-UT"
-      },
-      {
-        "users": 79,
-        "id": "NL-ZE"
-      },
-      {
-        "users": 63,
-        "id": "NL-ZH"
-      }
-    ]
+    "users": 36,
+    "id": "NL-DR"
+  },
+  {
+    "users": 21,
+    "id": "NL-FL"
+  },
+  {
+    "users": 24,
+    "id": "NL-FR"
+  },
+  {
+    "users": 77,
+    "id": "NL-GE"
+  },
+  {
+    "users": 1700,
+    "id": "NL-GR"
+  },
+  {
+    "users": 155,
+    "id": "NL-LI"
+  },
+  {
+    "users": 96,
+    "id": "NL-NB"
+  },
+  {
+    "users": 63,
+    "id": "NL-NH"
+  },
+  {
+    "users": 58,
+    "id": "NL-OV"
+  },
+  {
+    "users": 3296,
+    "id": "NL-UT"
+  },
+  {
+    "users": 79,
+    "id": "NL-ZE"
+  },
+  {
+    "users": 63,
+    "id": "NL-ZH"
   }
 ]

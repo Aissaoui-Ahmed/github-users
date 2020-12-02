@@ -1,83 +1,78 @@
 [
   {
-    "date": "2020-11-10",
-    "list": [
-      {
-        "users": 9,
-        "id": "IQ-WA"
-      },
-      {
-        "users": 1,
-        "id": "IQ-SD"
-      },
-      {
-        "users": 0,
-        "id": "IQ-NI"
-      },
-      {
-        "users": 3,
-        "id": "IQ-MA"
-      },
-      {
-        "users": 15,
-        "id": "IQ-KA"
-      },
-      {
-        "users": 13,
-        "id": "IQ-DI"
-      },
-      {
-        "users": 0,
-        "id": "IQ-DA"
-      },
-      {
-        "users": 4,
-        "id": "IQ-DQ"
-      },
-      {
-        "users": 461,
-        "id": "IQ-BG"
-      },
-      {
-        "users": 8,
-        "id": "IQ-BB"
-      },
-      {
-        "users": 18,
-        "id": "IQ-KI"
-      },
-      {
-        "users": 8,
-        "id": "IQ-SU"
-      },
-      {
-        "users": 4,
-        "id": "IQ-HA"
-      },
-      {
-        "users": 8,
-        "id": "IQ-AR"
-      },
-      {
-        "users": 3,
-        "id": "IQ-NA"
-      },
-      {
-        "users": 0,
-        "id": "IQ-QA"
-      },
-      {
-        "users": 0,
-        "id": "IQ-MU"
-      },
-      {
-        "users": 1,
-        "id": "IQ-BA"
-      },
-      {
-        "users": 2,
-        "id": "IQ-AN"
-      }
-    ]
+    "users": 9,
+    "id": "IQ-WA"
+  },
+  {
+    "users": 1,
+    "id": "IQ-SD"
+  },
+  {
+    "users": 0,
+    "id": "IQ-NI"
+  },
+  {
+    "users": 3,
+    "id": "IQ-MA"
+  },
+  {
+    "users": 15,
+    "id": "IQ-KA"
+  },
+  {
+    "users": 13,
+    "id": "IQ-DI"
+  },
+  {
+    "users": 0,
+    "id": "IQ-DA"
+  },
+  {
+    "users": 4,
+    "id": "IQ-DQ"
+  },
+  {
+    "users": 461,
+    "id": "IQ-BG"
+  },
+  {
+    "users": 8,
+    "id": "IQ-BB"
+  },
+  {
+    "users": 18,
+    "id": "IQ-KI"
+  },
+  {
+    "users": 8,
+    "id": "IQ-SU"
+  },
+  {
+    "users": 4,
+    "id": "IQ-HA"
+  },
+  {
+    "users": 8,
+    "id": "IQ-AR"
+  },
+  {
+    "users": 3,
+    "id": "IQ-NA"
+  },
+  {
+    "users": 0,
+    "id": "IQ-QA"
+  },
+  {
+    "users": 0,
+    "id": "IQ-MU"
+  },
+  {
+    "users": 1,
+    "id": "IQ-BA"
+  },
+  {
+    "users": 2,
+    "id": "IQ-AN"
   }
 ]

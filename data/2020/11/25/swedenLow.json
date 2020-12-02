@@ -1,91 +1,86 @@
 [
   {
-    "date": "2020-11-25",
-    "list": [
-      {
-        "users": 4,
-        "id": "SE-AC"
-      },
-      {
-        "users": 17384,
-        "id": "SE-AB"
-      },
-      {
-        "users": 5,
-        "id": "SE-BD"
-      },
-      {
-        "users": 1250,
-        "id": "SE-C"
-      },
-      {
-        "users": 2,
-        "id": "SE-D"
-      },
-      {
-        "users": 8,
-        "id": "SE-E"
-      },
-      {
-        "users": 236,
-        "id": "SE-F"
-      },
-      {
-        "users": 3,
-        "id": "SE-G"
-      },
-      {
-        "users": 232,
-        "id": "SE-H"
-      },
-      {
-        "users": 25,
-        "id": "SE-I"
-      },
-      {
-        "users": 22,
-        "id": "SE-K"
-      },
-      {
-        "users": 110,
-        "id": "SE-M"
-      },
-      {
-        "users": 7,
-        "id": "SE-N"
-      },
-      {
-        "users": 14,
-        "id": "SE-O"
-      },
-      {
-        "users": 12,
-        "id": "SE-S"
-      },
-      {
-        "users": 287,
-        "id": "SE-T"
-      },
-      {
-        "users": 3,
-        "id": "SE-U"
-      },
-      {
-        "users": 20,
-        "id": "SE-W"
-      },
-      {
-        "users": 4,
-        "id": "SE-X"
-      },
-      {
-        "users": 2,
-        "id": "SE-Y"
-      },
-      {
-        "users": 8,
-        "id": "SE-Z"
-      }
-    ]
+    "users": 4,
+    "id": "SE-AC"
+  },
+  {
+    "users": 17384,
+    "id": "SE-AB"
+  },
+  {
+    "users": 5,
+    "id": "SE-BD"
+  },
+  {
+    "users": 1250,
+    "id": "SE-C"
+  },
+  {
+    "users": 2,
+    "id": "SE-D"
+  },
+  {
+    "users": 8,
+    "id": "SE-E"
+  },
+  {
+    "users": 236,
+    "id": "SE-F"
+  },
+  {
+    "users": 3,
+    "id": "SE-G"
+  },
+  {
+    "users": 232,
+    "id": "SE-H"
+  },
+  {
+    "users": 25,
+    "id": "SE-I"
+  },
+  {
+    "users": 22,
+    "id": "SE-K"
+  },
+  {
+    "users": 110,
+    "id": "SE-M"
+  },
+  {
+    "users": 7,
+    "id": "SE-N"
+  },
+  {
+    "users": 14,
+    "id": "SE-O"
+  },
+  {
+    "users": 12,
+    "id": "SE-S"
+  },
+  {
+    "users": 287,
+    "id": "SE-T"
+  },
+  {
+    "users": 3,
+    "id": "SE-U"
+  },
+  {
+    "users": 20,
+    "id": "SE-W"
+  },
+  {
+    "users": 4,
+    "id": "SE-X"
+  },
+  {
+    "users": 2,
+    "id": "SE-Y"
+  },
+  {
+    "users": 8,
+    "id": "SE-Z"
   }
 ]

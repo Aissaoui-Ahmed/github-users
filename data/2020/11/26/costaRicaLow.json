@@ -1,39 +1,34 @@
 [
   {
-    "date": "2020-11-26",
-    "list": [
-      {
-        "users": 158,
-        "id": "CR-A"
-      },
-      {
-        "users": 255,
-        "id": "CR-C"
-      },
-      {
-        "users": 34,
-        "id": "CR-G"
-      },
-      {
-        "users": 257,
-        "id": "CR-H"
-      },
-      {
-        "users": 23,
-        "id": "CR-L"
-      },
-      {
-        "users": 0,
-        "id": "CR-LA"
-      },
-      {
-        "users": 28,
-        "id": "CR-P"
-      },
-      {
-        "users": 13053,
-        "id": "CR-SJ"
-      }
-    ]
+    "users": 158,
+    "id": "CR-A"
+  },
+  {
+    "users": 255,
+    "id": "CR-C"
+  },
+  {
+    "users": 34,
+    "id": "CR-G"
+  },
+  {
+    "users": 257,
+    "id": "CR-H"
+  },
+  {
+    "users": 23,
+    "id": "CR-L"
+  },
+  {
+    "users": 0,
+    "id": "CR-LA"
+  },
+  {
+    "users": 28,
+    "id": "CR-P"
+  },
+  {
+    "users": 13053,
+    "id": "CR-SJ"
   }
 ]

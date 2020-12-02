@@ -1,51 +1,46 @@
 [
   {
-    "date": "2020-11-08",
-    "list": [
-      {
-        "users": 17,
-        "id": "MZ-N"
-      },
-      {
-        "users": 15,
-        "id": "MZ-S"
-      },
-      {
-        "users": 8,
-        "id": "MZ-I"
-      },
-      {
-        "users": 442,
-        "id": "MZ-MPM"
-      },
-      {
-        "users": 5,
-        "id": "MZ-Q"
-      },
-      {
-        "users": 668,
-        "id": "MZ-G"
-      },
-      {
-        "users": 1,
-        "id": "MZ-B"
-      },
-      {
-        "users": 14,
-        "id": "MZ-T"
-      },
-      {
-        "users": 3,
-        "id": "MZ-A"
-      },
-      {
-        "users": 1,
-        "id": "MZ-P"
-      },
-      {
-        "users": 442,
-        "id": "MZ-L"
-      }
-    ]
+    "users": 17,
+    "id": "MZ-N"
+  },
+  {
+    "users": 15,
+    "id": "MZ-S"
+  },
+  {
+    "users": 8,
+    "id": "MZ-I"
+  },
+  {
+    "users": 442,
+    "id": "MZ-MPM"
+  },
+  {
+    "users": 5,
+    "id": "MZ-Q"
+  },
+  {
+    "users": 668,
+    "id": "MZ-G"
+  },
+  {
+    "users": 1,
+    "id": "MZ-B"
+  },
+  {
+    "users": 14,
+    "id": "MZ-T"
+  },
+  {
+    "users": 3,
+    "id": "MZ-A"
+  },
+  {
+    "users": 1,
+    "id": "MZ-P"
+  },
+  {
+    "users": 442,
+    "id": "MZ-L"
   }
 ]

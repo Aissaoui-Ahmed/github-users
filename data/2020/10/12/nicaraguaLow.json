@@ -1,83 +1,78 @@
 [
   {
-    "date": "2020-10-12",
-    "list": [
-      {
-        "users": 0,
-        "id": "NI-LKN"
-      },
-      {
-        "users": 0,
-        "id": "NI-LKM"
-      },
-      {
-        "users": 6,
-        "id": "NI-SJ"
-      },
-      {
-        "users": 24,
-        "id": "NI-RI"
-      },
-      {
-        "users": 2,
-        "id": "NI-NS"
-      },
-      {
-        "users": 4,
-        "id": "NI-MT"
-      },
-      {
-        "users": 12,
-        "id": "NI-MS"
-      },
-      {
-        "users": 471,
-        "id": "NI-MN"
-      },
-      {
-        "users": 5,
-        "id": "NI-MD"
-      },
-      {
-        "users": 1370,
-        "id": "NI-LE"
-      },
-      {
-        "users": 2,
-        "id": "NI-JI"
-      },
-      {
-        "users": 1859,
-        "id": "NI-GR"
-      },
-      {
-        "users": 10,
-        "id": "NI-ES"
-      },
-      {
-        "users": 4,
-        "id": "NI-CO"
-      },
-      {
-        "users": 4,
-        "id": "NI-CI"
-      },
-      {
-        "users": 9,
-        "id": "NI-CA"
-      },
-      {
-        "users": 0,
-        "id": "NI-AS"
-      },
-      {
-        "users": 0,
-        "id": "NI-BO"
-      },
-      {
-        "users": 0,
-        "id": "NI-AN"
-      }
-    ]
+    "users": 0,
+    "id": "NI-LKN"
+  },
+  {
+    "users": 0,
+    "id": "NI-LKM"
+  },
+  {
+    "users": 6,
+    "id": "NI-SJ"
+  },
+  {
+    "users": 24,
+    "id": "NI-RI"
+  },
+  {
+    "users": 2,
+    "id": "NI-NS"
+  },
+  {
+    "users": 4,
+    "id": "NI-MT"
+  },
+  {
+    "users": 12,
+    "id": "NI-MS"
+  },
+  {
+    "users": 471,
+    "id": "NI-MN"
+  },
+  {
+    "users": 5,
+    "id": "NI-MD"
+  },
+  {
+    "users": 1370,
+    "id": "NI-LE"
+  },
+  {
+    "users": 2,
+    "id": "NI-JI"
+  },
+  {
+    "users": 1859,
+    "id": "NI-GR"
+  },
+  {
+    "users": 10,
+    "id": "NI-ES"
+  },
+  {
+    "users": 4,
+    "id": "NI-CO"
+  },
+  {
+    "users": 4,
+    "id": "NI-CI"
+  },
+  {
+    "users": 9,
+    "id": "NI-CA"
+  },
+  {
+    "users": 0,
+    "id": "NI-AS"
+  },
+  {
+    "users": 0,
+    "id": "NI-BO"
+  },
+  {
+    "users": 0,
+    "id": "NI-AN"
   }
 ]

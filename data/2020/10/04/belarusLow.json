@@ -1,35 +1,30 @@
 [
   {
-    "date": "2020-10-04",
-    "list": [
-      {
-        "users": 1091,
-        "id": "BY-BR"
-      },
-      {
-        "users": 14,
-        "id": "BY-HM"
-      },
-      {
-        "users": 2,
-        "id": "BY-HO"
-      },
-      {
-        "users": 53,
-        "id": "BY-HR"
-      },
-      {
-        "users": 3,
-        "id": "BY-MA"
-      },
-      {
-        "users": 12910,
-        "id": "BY-MI"
-      },
-      {
-        "users": 1,
-        "id": "BY-VI"
-      }
-    ]
+    "users": 1091,
+    "id": "BY-BR"
+  },
+  {
+    "users": 14,
+    "id": "BY-HM"
+  },
+  {
+    "users": 2,
+    "id": "BY-HO"
+  },
+  {
+    "users": 53,
+    "id": "BY-HR"
+  },
+  {
+    "users": 3,
+    "id": "BY-MA"
+  },
+  {
+    "users": 12910,
+    "id": "BY-MI"
+  },
+  {
+    "users": 1,
+    "id": "BY-VI"
   }
 ]

@@ -1,47 +1,42 @@
 [
   {
-    "date": "2020-10-19",
-    "list": [
-      {
-        "users": 8,
-        "id": "LT-AL"
-      },
-      {
-        "users": 839,
-        "id": "LT-KU"
-      },
-      {
-        "users": 118,
-        "id": "LT-KL"
-      },
-      {
-        "users": 4,
-        "id": "LT-MR"
-      },
-      {
-        "users": 18,
-        "id": "LT-PN"
-      },
-      {
-        "users": 32,
-        "id": "LT-SA"
-      },
-      {
-        "users": 1,
-        "id": "LT-TA"
-      },
-      {
-        "users": 7,
-        "id": "LT-TE"
-      },
-      {
-        "users": 5,
-        "id": "LT-UT"
-      },
-      {
-        "users": 3046,
-        "id": "LT-VL"
-      }
-    ]
+    "users": 8,
+    "id": "LT-AL"
+  },
+  {
+    "users": 839,
+    "id": "LT-KU"
+  },
+  {
+    "users": 118,
+    "id": "LT-KL"
+  },
+  {
+    "users": 4,
+    "id": "LT-MR"
+  },
+  {
+    "users": 18,
+    "id": "LT-PN"
+  },
+  {
+    "users": 32,
+    "id": "LT-SA"
+  },
+  {
+    "users": 1,
+    "id": "LT-TA"
+  },
+  {
+    "users": 7,
+    "id": "LT-TE"
+  },
+  {
+    "users": 5,
+    "id": "LT-UT"
+  },
+  {
+    "users": 3046,
+    "id": "LT-VL"
   }
 ]

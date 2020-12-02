@@ -1,47 +1,42 @@
 [
   {
-    "date": "2020-10-24",
-    "list": [
-      {
-        "users": 0,
-        "id": "BW-CH"
-      },
-      {
-        "users": 2253,
-        "id": "BW-CE"
-      },
-      {
-        "users": 0,
-        "id": "BW-GH"
-      },
-      {
-        "users": 0,
-        "id": "BW-KG"
-      },
-      {
-        "users": 0,
-        "id": "BW-KL"
-      },
-      {
-        "users": 0,
-        "id": "BW-KW"
-      },
-      {
-        "users": 269,
-        "id": "BW-NE"
-      },
-      {
-        "users": 291,
-        "id": "BW-NW"
-      },
-      {
-        "users": 302,
-        "id": "BW-SE"
-      },
-      {
-        "users": 2034,
-        "id": "BW-SO"
-      }
-    ]
+    "users": 0,
+    "id": "BW-CH"
+  },
+  {
+    "users": 2253,
+    "id": "BW-CE"
+  },
+  {
+    "users": 0,
+    "id": "BW-GH"
+  },
+  {
+    "users": 0,
+    "id": "BW-KG"
+  },
+  {
+    "users": 0,
+    "id": "BW-KL"
+  },
+  {
+    "users": 0,
+    "id": "BW-KW"
+  },
+  {
+    "users": 269,
+    "id": "BW-NE"
+  },
+  {
+    "users": 291,
+    "id": "BW-NW"
+  },
+  {
+    "users": 302,
+    "id": "BW-SE"
+  },
+  {
+    "users": 2034,
+    "id": "BW-SO"
   }
 ]

@@ -1,59 +1,54 @@
 [
   {
-    "date": "2020-10-19",
-    "list": [
-      {
-        "users": 3309,
-        "id": "CA-AB"
-      },
-      {
-        "users": 1889,
-        "id": "CA-BC"
-      },
-      {
-        "users": 564,
-        "id": "CA-MB"
-      },
-      {
-        "users": 826,
-        "id": "CA-NB"
-      },
-      {
-        "users": 26,
-        "id": "CA-NL"
-      },
-      {
-        "users": 993,
-        "id": "CA-NS"
-      },
-      {
-        "users": 7,
-        "id": "CA-NT"
-      },
-      {
-        "users": 11,
-        "id": "CA-NU"
-      },
-      {
-        "users": 17304,
-        "id": "CA-ON"
-      },
-      {
-        "users": 86,
-        "id": "CA-PE"
-      },
-      {
-        "users": 3717,
-        "id": "CA-QC"
-      },
-      {
-        "users": 356,
-        "id": "CA-SK"
-      },
-      {
-        "users": 78,
-        "id": "CA-YT"
-      }
-    ]
+    "users": 3309,
+    "id": "CA-AB"
+  },
+  {
+    "users": 1889,
+    "id": "CA-BC"
+  },
+  {
+    "users": 564,
+    "id": "CA-MB"
+  },
+  {
+    "users": 826,
+    "id": "CA-NB"
+  },
+  {
+    "users": 26,
+    "id": "CA-NL"
+  },
+  {
+    "users": 993,
+    "id": "CA-NS"
+  },
+  {
+    "users": 7,
+    "id": "CA-NT"
+  },
+  {
+    "users": 11,
+    "id": "CA-NU"
+  },
+  {
+    "users": 17304,
+    "id": "CA-ON"
+  },
+  {
+    "users": 86,
+    "id": "CA-PE"
+  },
+  {
+    "users": 3717,
+    "id": "CA-QC"
+  },
+  {
+    "users": 356,
+    "id": "CA-SK"
+  },
+  {
+    "users": 78,
+    "id": "CA-YT"
   }
 ]

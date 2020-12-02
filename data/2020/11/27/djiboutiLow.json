@@ -1,31 +1,26 @@
 [
   {
-    "date": "2020-11-27",
-    "list": [
-      {
-        "users": 16,
-        "id": "DJ-AR"
-      },
-      {
-        "users": 1,
-        "id": "DJ-AS"
-      },
-      {
-        "users": 0,
-        "id": "DJ-DI"
-      },
-      {
-        "users": 28,
-        "id": "DJ-DJ"
-      },
-      {
-        "users": 0,
-        "id": "DJ-OB"
-      },
-      {
-        "users": 0,
-        "id": "DJ-TA"
-      }
-    ]
+    "users": 16,
+    "id": "DJ-AR"
+  },
+  {
+    "users": 1,
+    "id": "DJ-AS"
+  },
+  {
+    "users": 0,
+    "id": "DJ-DI"
+  },
+  {
+    "users": 28,
+    "id": "DJ-DJ"
+  },
+  {
+    "users": 0,
+    "id": "DJ-OB"
+  },
+  {
+    "users": 0,
+    "id": "DJ-TA"
   }
 ]

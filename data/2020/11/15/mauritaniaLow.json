@@ -1,59 +1,54 @@
 [
   {
-    "date": "2020-11-15",
-    "list": [
-      {
-        "users": 10,
-        "id": "MR-07"
-      },
-      {
-        "users": 0,
-        "id": "MR-03"
-      },
-      {
-        "users": 0,
-        "id": "MR-05"
-      },
-      {
-        "users": 0,
-        "id": "MR-08"
-      },
-      {
-        "users": 0,
-        "id": "MR-04"
-      },
-      {
-        "users": 0,
-        "id": "MR-10"
-      },
-      {
-        "users": 0,
-        "id": "MR-01"
-      },
-      {
-        "users": 0,
-        "id": "MR-02"
-      },
-      {
-        "users": 0,
-        "id": "MR-12"
-      },
-      {
-        "users": 51,
-        "id": "MR-13"
-      },
-      {
-        "users": 0,
-        "id": "MR-09"
-      },
-      {
-        "users": 0,
-        "id": "MR-11"
-      },
-      {
-        "users": 0,
-        "id": "MR-06"
-      }
-    ]
+    "users": 10,
+    "id": "MR-07"
+  },
+  {
+    "users": 0,
+    "id": "MR-03"
+  },
+  {
+    "users": 0,
+    "id": "MR-05"
+  },
+  {
+    "users": 0,
+    "id": "MR-08"
+  },
+  {
+    "users": 0,
+    "id": "MR-04"
+  },
+  {
+    "users": 0,
+    "id": "MR-10"
+  },
+  {
+    "users": 0,
+    "id": "MR-01"
+  },
+  {
+    "users": 0,
+    "id": "MR-02"
+  },
+  {
+    "users": 0,
+    "id": "MR-12"
+  },
+  {
+    "users": 51,
+    "id": "MR-13"
+  },
+  {
+    "users": 0,
+    "id": "MR-09"
+  },
+  {
+    "users": 0,
+    "id": "MR-11"
+  },
+  {
+    "users": 0,
+    "id": "MR-06"
   }
 ]

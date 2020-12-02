@@ -1,155 +1,150 @@
 [
   {
-    "date": "2020-11-28",
-    "list": [
-      {
-        "users": 4,
-        "id": "IN-DN"
-      },
-      {
-        "users": 4,
-        "id": "IN-AN"
-      },
-      {
-        "users": 956,
-        "id": "IN-AP"
-      },
-      {
-        "users": 30,
-        "id": "IN-AR"
-      },
-      {
-        "users": 888,
-        "id": "IN-AS"
-      },
-      {
-        "users": 1001,
-        "id": "IN-BR"
-      },
-      {
-        "users": 4379,
-        "id": "IN-CH"
-      },
-      {
-        "users": 417,
-        "id": "IN-CT"
-      },
-      {
-        "users": 32127,
-        "id": "IN-DL"
-      },
-      {
-        "users": 0,
-        "id": "IN-DNDD"
-      },
-      {
-        "users": 1364,
-        "id": "IN-GA"
-      },
-      {
-        "users": 5372,
-        "id": "IN-GJ"
-      },
-      {
-        "users": 501,
-        "id": "IN-HP"
-      },
-      {
-        "users": 2132,
-        "id": "IN-HR"
-      },
-      {
-        "users": 707,
-        "id": "IN-JH"
-      },
-      {
-        "users": 14,
-        "id": "IN-LK"
-      },
-      {
-        "users": 4181,
-        "id": "IN-KA"
-      },
-      {
-        "users": 5199,
-        "id": "IN-KL"
-      },
-      {
-        "users": 2,
-        "id": "IN-LD"
-      },
-      {
-        "users": 5858,
-        "id": "IN-MH"
-      },
-      {
-        "users": 62,
-        "id": "IN-ML"
-      },
-      {
-        "users": 74,
-        "id": "IN-MN"
-      },
-      {
-        "users": 879,
-        "id": "IN-MP"
-      },
-      {
-        "users": 44,
-        "id": "IN-MZ"
-      },
-      {
-        "users": 30,
-        "id": "IN-NL"
-      },
-      {
-        "users": 1233,
-        "id": "IN-OR"
-      },
-      {
-        "users": 3597,
-        "id": "IN-PB"
-      },
-      {
-        "users": 270,
-        "id": "IN-PY"
-      },
-      {
-        "users": 2876,
-        "id": "IN-RJ"
-      },
-      {
-        "users": 116,
-        "id": "IN-SK"
-      },
-      {
-        "users": 1287,
-        "id": "IN-TG"
-      },
-      {
-        "users": 2328,
-        "id": "IN-TN"
-      },
-      {
-        "users": 98,
-        "id": "IN-TR"
-      },
-      {
-        "users": 2032,
-        "id": "IN-UP"
-      },
-      {
-        "users": 572,
-        "id": "IN-UT"
-      },
-      {
-        "users": 2507,
-        "id": "IN-WB"
-      },
-      {
-        "users": 175,
-        "id": "IN-JK"
-      }
-    ]
+    "users": 4,
+    "id": "IN-DN"
+  },
+  {
+    "users": 4,
+    "id": "IN-AN"
+  },
+  {
+    "users": 956,
+    "id": "IN-AP"
+  },
+  {
+    "users": 30,
+    "id": "IN-AR"
+  },
+  {
+    "users": 888,
+    "id": "IN-AS"
+  },
+  {
+    "users": 1001,
+    "id": "IN-BR"
+  },
+  {
+    "users": 4379,
+    "id": "IN-CH"
+  },
+  {
+    "users": 417,
+    "id": "IN-CT"
+  },
+  {
+    "users": 32127,
+    "id": "IN-DL"
+  },
+  {
+    "users": 0,
+    "id": "IN-DNDD"
+  },
+  {
+    "users": 1364,
+    "id": "IN-GA"
+  },
+  {
+    "users": 5372,
+    "id": "IN-GJ"
+  },
+  {
+    "users": 501,
+    "id": "IN-HP"
+  },
+  {
+    "users": 2132,
+    "id": "IN-HR"
+  },
+  {
+    "users": 707,
+    "id": "IN-JH"
+  },
+  {
+    "users": 14,
+    "id": "IN-LK"
+  },
+  {
+    "users": 4181,
+    "id": "IN-KA"
+  },
+  {
+    "users": 5199,
+    "id": "IN-KL"
+  },
+  {
+    "users": 2,
+    "id": "IN-LD"
+  },
+  {
+    "users": 5858,
+    "id": "IN-MH"
+  },
+  {
+    "users": 62,
+    "id": "IN-ML"
+  },
+  {
+    "users": 74,
+    "id": "IN-MN"
+  },
+  {
+    "users": 879,
+    "id": "IN-MP"
+  },
+  {
+    "users": 44,
+    "id": "IN-MZ"
+  },
+  {
+    "users": 30,
+    "id": "IN-NL"
+  },
+  {
+    "users": 1233,
+    "id": "IN-OR"
+  },
+  {
+    "users": 3597,
+    "id": "IN-PB"
+  },
+  {
+    "users": 270,
+    "id": "IN-PY"
+  },
+  {
+    "users": 2876,
+    "id": "IN-RJ"
+  },
+  {
+    "users": 116,
+    "id": "IN-SK"
+  },
+  {
+    "users": 1287,
+    "id": "IN-TG"
+  },
+  {
+    "users": 2328,
+    "id": "IN-TN"
+  },
+  {
+    "users": 98,
+    "id": "IN-TR"
+  },
+  {
+    "users": 2032,
+    "id": "IN-UP"
+  },
+  {
+    "users": 572,
+    "id": "IN-UT"
+  },
+  {
+    "users": 2507,
+    "id": "IN-WB"
+  },
+  {
+    "users": 175,
+    "id": "IN-JK"
   }
 ]
