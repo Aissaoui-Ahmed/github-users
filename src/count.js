@@ -28,11 +28,10 @@ const countUsers = async () => {
         const directory = `./data/${moment().format('YYYY')}/${moment().format('MM')}/${moment().format('DD')}`;
         if (!existsSync(fileJSON)) {
           mkdirSync(directory, { recursive: true });
+          writeFileSync(fileJSON, '[]');
         }
-
-        const { size } = statSync(directory);
-
-        if (!size) {
+        const { size } = statSync(fileJSON);
+        if (size < 3) {
           const list = [];
           for (let j = 0; j < countryInfo.length; j += 1) {
             const stateName = countryInfo[j].name;
