@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "GitHub users on map",
   "scripts": {
-    "start": "node src/count.js",
-    "data": "node src/get_data.js"
+    "start": "node src/count.js && npm run total",
+    "data": "node src/get_data.js",
+    "total": "node src/total.js"
   },
   "keywords": [
     "map",
@@ -23,7 +24,7 @@
     "moment": "^2.27.0"
   },
   "devDependencies": {
-    "@amcharts/amcharts4-geodata": "^4.1.19",
+    "@amcharts/amcharts4-geodata": "^4.1.20",
     "eslint": "^7.5.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
