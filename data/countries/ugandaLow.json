@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Buvuma",
+    "id": "UG-120",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Ntungamo",
+    "id": "UG-411",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Isingiro",
+    "id": "UG-417",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kabale",
+    "id": "UG-404",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kisoro",
+    "id": "UG-408",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Rakai",
+    "id": "UG-110",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kaabong",
+    "id": "UG-315",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kitgum",
+    "id": "UG-305",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Lamwo",
+    "id": "UG-327",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Amuru",
+    "id": "UG-319",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Adjumani",
+    "id": "UG-301",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Moyo",
+    "id": "UG-309",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Yumbe",
+    "id": "UG-313",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Koboko",
+    "id": "UG-316",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Moroto",
+    "id": "UG-308",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kapchorwa",
+    "id": "UG-206",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Bukwa",
+    "id": "UG-218",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Amudat",
+    "id": "UG-324",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Busia",
+    "id": "UG-202",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Tororo",
+    "id": "UG-212",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Manafwa",
+    "id": "UG-221",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Bududa",
+    "id": "UG-223",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Maracha",
+    "id": "UG-320",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Arua",
+    "id": "UG-303",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Zombo",
+    "id": "UG-331",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Nebbi",
+    "id": "UG-310",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Buliisa",
+    "id": "UG-419",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Hoima",
+    "id": "UG-403",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Ntoroko",
+    "id": "UG-423",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Bundibugyo",
+    "id": "UG-401",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kabarole",
+    "id": "UG-405",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kasese",
+    "id": "UG-406",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Rubirizi",
+    "id": "UG-424",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Rukungiri",
+    "id": "UG-412",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kanungu",
+    "id": "UG-414",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kamuli",
+    "id": "UG-205",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Luuka",
+    "id": "UG-229",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Buyende",
+    "id": "UG-226",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Jinja",
+    "id": "UG-204",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Apac",
+    "id": "UG-302",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Nakasongola",
+    "id": "UG-109",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Masindi",
+    "id": "UG-409",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kayunga",
+    "id": "UG-112",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Luweero",
+    "id": "UG-104",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Amolatar",
+    "id": "UG-314",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Mityana",
+    "id": "UG-115",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kiboga",
+    "id": "UG-103",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Butambala",
+    "id": "UG-119",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Gomba",
+    "id": "UG-121",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Wakiso",
+    "id": "UG-113",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Nakaseke",
+    "id": "UG-116",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kyankwanzi",
+    "id": "UG-123",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kaberamaido",
+    "id": "UG-213",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Dokolo",
+    "id": "UG-318",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kyenjojo",
+    "id": "UG-415",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kamwenge",
+    "id": "UG-413",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kyegegwa",
+    "id": "UG-421",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Sembabule",
+    "id": "UG-111",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kibale",
+    "id": "UG-407",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Mubende",
+    "id": "UG-107",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Oyam",
+    "id": "UG-321",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Lira",
+    "id": "UG-307",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kole",
+    "id": "UG-326",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Pader",
+    "id": "UG-312",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Ibanda",
+    "id": "UG-416",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Mbarara",
+    "id": "UG-410",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Gulu",
+    "id": "UG-304",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kiryandongo",
+    "id": "UG-420",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Lwengo",
+    "id": "UG-124",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Bukomansimbi",
+    "id": "UG-118",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kalungu",
+    "id": "UG-122",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kampala",
+    "id": "UG-102",
+    "TYPE": "City",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kaliro",
+    "id": "UG-220",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Agago",
+    "id": "UG-322",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kotido",
+    "id": "UG-306",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Abim",
+    "id": "UG-317",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Otuke",
+    "id": "UG-330",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Alebtong",
+    "id": "UG-323",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Amuria",
+    "id": "UG-216",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Katakwi",
+    "id": "UG-207",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Serere",
+    "id": "UG-232",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Soroti",
+    "id": "UG-211",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Pallisa",
+    "id": "UG-210",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Mbarara",
+    "id": "UG-410",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Lyantonde",
+    "id": "UG-114",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Masaka",
+    "id": "UG-105",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Mukono",
+    "id": "UG-108",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Nakapiripirit",
+    "id": "UG-311",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kween",
+    "id": "UG-228",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Buhweju",
+    "id": "UG-325",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Sheema",
+    "id": "UG-425",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Mitooma",
+    "id": "UG-422",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Bushenyi",
+    "id": "UG-402",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Bulambuli",
+    "id": "UG-225",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Sironko",
+    "id": "UG-215",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Bugiri",
+    "id": "UG-201",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Nwoya",
+    "id": "UG-329",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Mbale",
+    "id": "UG-209",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Budaka",
+    "id": "UG-217",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Butaleja",
+    "id": "UG-219",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kibuku",
+    "id": "UG-227",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Napak",
+    "id": "UG-328",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kumi",
+    "id": "UG-208",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Ngora",
+    "id": "UG-231",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Bukedea",
+    "id": "UG-224",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Namutumba",
+    "id": "UG-222",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Kalangala",
+    "id": "UG-101",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Mpigi",
+    "id": "UG-106",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Namayingo",
+    "id": "UG-230",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Iganga",
+    "id": "UG-203",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Buikwe",
+    "id": "UG-117",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  },
+  {
+    "name": "Mayuge",
+    "id": "UG-214",
+    "TYPE": "District",
+    "CNTRY": "Uganda"
+  }
+]

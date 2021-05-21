@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Saint Georges",
+    "id": "MS-SG",
+    "TYPE": "Parish",
+    "CNTRY": "Montserrat"
+  },
+  {
+    "name": "Saint Anthony",
+    "id": "MS-SA",
+    "TYPE": "Parish",
+    "CNTRY": "Montserrat"
+  },
+  {
+    "name": "Saint Peter",
+    "id": "MS-SP",
+    "TYPE": "Parish",
+    "CNTRY": "Montserrat"
+  }
+]

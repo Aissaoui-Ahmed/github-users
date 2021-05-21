@@ -1,0 +1,26 @@
+[
+  {
+    "name": "La Trinité",
+    "id": "MQ-TR",
+    "CNTRY": "Martinique",
+    "TYPE": "Arrondissment"
+  },
+  {
+    "name": "Fort-de-France",
+    "id": "MQ-FF",
+    "CNTRY": "Martinique",
+    "TYPE": "Arrondissment"
+  },
+  {
+    "name": "Le Marin",
+    "id": "MQ-MA",
+    "CNTRY": "Martinique",
+    "TYPE": "Arrondissment"
+  },
+  {
+    "name": "Saint-Pierre",
+    "id": "MQ-SP",
+    "CNTRY": "Martinique",
+    "TYPE": "Arrondissment"
+  }
+]

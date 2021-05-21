@@ -1,0 +1,121 @@
+[
+  {
+    "id": "CU-13",
+    "name": "Santiago de Cuba",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-12",
+    "name": "Granma",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-06",
+    "name": "Cienfuegos",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-01",
+    "name": "Pinar del Río",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-15",
+    "name": "Artemisa",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-03",
+    "name": "La Habana",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-16",
+    "name": "Mayabeque",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-10",
+    "name": "Las Tunas",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-04",
+    "name": "Matanzas",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-05",
+    "name": "Villa Clara",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-07",
+    "name": "Sancti Spíritus",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-99",
+    "name": "Isla de la Juventud",
+    "CNTRY": "Cuba",
+    "TYPE": "Municipio Especial",
+    "TYPE_EN": "Special Municipality"
+  },
+  {
+    "id": "CU-11",
+    "name": "Holguín",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-08",
+    "name": "Ciego de Ávila",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-09",
+    "name": "Camagüey",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "CU-14",
+    "name": "Guantánamo",
+    "CNTRY": "Cuba",
+    "TYPE": "Provincia",
+    "TYPE_EN": "Province"
+  },
+  {
+    "id": "US-NBGB",
+    "name": "US Naval Base Guantanamo Bay",
+    "CNTRY": "USA",
+    "TYPE": "US Territory",
+    "TYPE_EN": "US Territory"
+  }
+]

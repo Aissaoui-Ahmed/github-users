@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Ghazni",
+    "id": "AF-GHA",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Nangarhar",
+    "id": "AF-NAN",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Daykundi",
+    "id": "AF-DAY",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Samangan",
+    "id": "AF-SAM",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Baghlan",
+    "id": "AF-BGL",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Ghor",
+    "id": "AF-GHO",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Sar-e Pol",
+    "id": "AF-SAR",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Parwan",
+    "id": "AF-PAR",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Bamyan",
+    "id": "AF-BAM",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Wardak",
+    "id": "AF-WAR",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Kapisa",
+    "id": "AF-KAP",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Logar",
+    "id": "AF-LOG",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Laghman",
+    "id": "AF-LAG",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Kabul",
+    "id": "AF-KAB",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Panjshir",
+    "id": "AF-PAN",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Urozgan",
+    "id": "AF-URU",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Helmand",
+    "id": "AF-HEL",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Kandahar",
+    "id": "AF-KAN",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Zabul",
+    "id": "AF-ZAB",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Paktika",
+    "id": "AF-PKA",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Paktia",
+    "id": "AF-PIA",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Khost",
+    "id": "AF-KHO",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Nuristan",
+    "id": "AF-NUR",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Kunar",
+    "id": "AF-KNR",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Farah",
+    "id": "AF-FRA",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Nimroz",
+    "id": "AF-NIM",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Herat",
+    "id": "AF-HER",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Badghis",
+    "id": "AF-BDG",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Faryab",
+    "id": "AF-FYB",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Jowzjan",
+    "id": "AF-JOW",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Balkh",
+    "id": "AF-BAL",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Kunduz",
+    "id": "AF-KDZ",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Takhar",
+    "id": "AF-TAK",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  },
+  {
+    "name": "Badakhshan",
+    "id": "AF-BDS",
+    "TYPE": "Velayat",
+    "TYPE_EN": "Province",
+    "CNTRY": "Afghanistan"
+  }
+]

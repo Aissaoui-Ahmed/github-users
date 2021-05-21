@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Irbid",
+    "id": "JO-IR",
+    "NAME_EN": "Irbid",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "Mādabā",
+    "id": "JO-MD",
+    "NAME_EN": "Madaba",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "Al Karak",
+    "id": "JO-KA",
+    "NAME_EN": "Karak",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "Aţ Ţafīlah",
+    "id": "JO-AT",
+    "NAME_EN": "Tafilah",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "Ma‘ān",
+    "id": "JO-MN",
+    "NAME_EN": "Ma'an",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "Al Balqā’",
+    "id": "JO-BA",
+    "NAME_EN": "Balqa",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "Al Mafraq",
+    "id": "JO-MA",
+    "NAME_EN": "Mafraq",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "Az Zarqā’",
+    "id": "JO-AZ",
+    "NAME_EN": "Zarqa",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "‘Ajlūn",
+    "id": "JO-AJ",
+    "NAME_EN": "Ajloun",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "Jerash",
+    "id": "JO-JA",
+    "NAME_EN": "Jerash",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "Al ‘Aqabah",
+    "id": "JO-AQ",
+    "NAME_EN": "Aqaba",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  },
+  {
+    "name": "Al ‘A̅şimah",
+    "id": "JO-AM",
+    "NAME_EN": "Amman",
+    "CNTRY": "Jordan",
+    "TYPE": "Muhafazah",
+    "TYPE_EN": "Governorate"
+  }
+]

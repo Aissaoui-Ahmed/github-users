@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Zanzan",
+    "id": "CI-ZZ",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Yamoussoukro",
+    "id": "CI-YM",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District autonome"
+  },
+  {
+    "name": "Woroba",
+    "id": "CI-WR",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Vallée du Bandama",
+    "id": "CI-VB",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Savanes",
+    "id": "CI-SV",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Sassandra-Marahoué",
+    "id": "CI-SM",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Montagnes",
+    "id": "CI-MG",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Lagunes",
+    "id": "CI-LG",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Lacs",
+    "id": "CI-LC",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Gôh-Djiboua",
+    "id": "CI-GD",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Denguélé",
+    "id": "CI-DN",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Comoé",
+    "id": "CI-CM",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Bas-Sassandra",
+    "id": "CI-BS",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District"
+  },
+  {
+    "name": "Abidjan",
+    "id": "CI-AB",
+    "CNTRY": "Côte d'Ivoire",
+    "TYPE": "District autonome"
+  }
+]

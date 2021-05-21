@@ -1,0 +1,100 @@
+[
+  {
+    "id": "JM-05",
+    "name": "Saint Mary",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-04",
+    "name": "Portland",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-03",
+    "name": "Saint Thomas",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-01",
+    "name": "Kingston",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-02",
+    "name": "Saint Andrew",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-14",
+    "name": "Saint Catherine",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-13",
+    "name": "Clarendon",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-12",
+    "name": "Manchester",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-11",
+    "name": "Saint Elizabeth",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-10",
+    "name": "Westmoreland",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-09",
+    "name": "Hanover",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-08",
+    "name": "Saint James",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-07",
+    "name": "Trelawny",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  },
+  {
+    "id": "JM-06",
+    "name": "Saint Ann",
+    "CNTRY": "Jamaica",
+    "TYPE": "Parish",
+    "TYPE_EN": "Parish"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "South",
+    "id": "LB-JA",
+    "CNTRY": "Lebanon",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate"
+  },
+  {
+    "name": "North",
+    "id": "LB-AS",
+    "CNTRY": "Lebanon",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate"
+  },
+  {
+    "name": "Nabatîyé",
+    "id": "LB-NA",
+    "CNTRY": "Lebanon",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate"
+  },
+  {
+    "name": "Mount Lebanon",
+    "id": "LB-JL",
+    "CNTRY": "Lebanon",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate"
+  },
+  {
+    "name": "Béqaa",
+    "id": "LB-BI",
+    "CNTRY": "Lebanon",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate"
+  },
+  {
+    "name": "Beirut",
+    "id": "LB-BA",
+    "CNTRY": "Lebanon",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate"
+  },
+  {
+    "name": "Baalbek-Hermel",
+    "id": "LB-BH",
+    "CNTRY": "Lebanon",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate"
+  },
+  {
+    "name": "Aakkâr",
+    "id": "LB-AK",
+    "CNTRY": "Lebanon",
+    "TYPE": "Muhafazah",
+    "TYPE_ENG": "Governorate"
+  }
+]

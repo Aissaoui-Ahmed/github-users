@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Nippes",
+    "id": "HT-NI",
+    "CNTRY": "Haiti",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Artibonite",
+    "id": "HT-AR",
+    "CNTRY": "Haiti",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Nord",
+    "id": "HT-ND",
+    "CNTRY": "Haiti",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Nord-Ouest",
+    "id": "HT-NO",
+    "CNTRY": "Haiti",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Grand'Anse",
+    "id": "HT-GA",
+    "CNTRY": "Haiti",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Sud",
+    "id": "HT-SD",
+    "CNTRY": "Haiti",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Sud-Est",
+    "id": "HT-SE",
+    "CNTRY": "Haiti",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Ouest",
+    "id": "HT-OU",
+    "CNTRY": "Haiti",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Centre",
+    "id": "HT-CE",
+    "CNTRY": "Haiti",
+    "TYPE": "Department"
+  },
+  {
+    "name": "Nord-Est",
+    "id": "HT-NE",
+    "CNTRY": "Haiti",
+    "TYPE": "Department"
+  }
+]

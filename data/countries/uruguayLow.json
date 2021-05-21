@@ -1,0 +1,135 @@
+[
+  {
+    "id": "UY-LA",
+    "name": "Lavalleja",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-FD",
+    "name": "Florida",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-FS",
+    "name": "Flores",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-DU",
+    "name": "Durazno",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-TA",
+    "name": "Tacuarembó",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-RN",
+    "name": "Río Negro",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-SO",
+    "name": "Soriano",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-CO",
+    "name": "Colonia",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-SJ",
+    "name": "San José",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-MO",
+    "name": "Montevideo",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-CA",
+    "name": "Canelones",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-MA",
+    "name": "Maldonado",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-TT",
+    "name": "Treinta y Tres",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-RO",
+    "name": "Rocha",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-CL",
+    "name": "Cerro Largo",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-RV",
+    "name": "Rivera",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-SA",
+    "name": "Salto",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-AR",
+    "name": "Artigas",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  },
+  {
+    "id": "UY-PA",
+    "name": "Paysandú",
+    "CNTRY": "Uruguay",
+    "TYPE": "Departamento",
+    "TYPE_EN": "Department"
+  }
+]
