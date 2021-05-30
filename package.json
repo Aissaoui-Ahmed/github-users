@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "GitHub users on map",
   "scripts": {
-    "start": "node src/count.js",
-    "data": "node src/get_data.js"
+    "start": "node src/count.js && npm run world",
+    "data": "node src/get_data.js",
+    "world":"node src/total.js"
   },
   "keywords": [
     "map",
