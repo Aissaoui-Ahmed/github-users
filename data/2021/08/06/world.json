@@ -176,6 +176,10 @@
     "CNTRYNAME": "costaRica"
   },
   {
+    "users": 269,
+    "CNTRYNAME": "croatia"
+  },
+  {
     "users": 141,
     "CNTRYNAME": "curacao"
   },
@@ -212,6 +216,10 @@
     "CNTRYNAME": "egypt"
   },
   {
+    "users": 8,
+    "CNTRYNAME": "equatorialGuinea"
+  },
+  {
     "users": 0,
     "CNTRYNAME": "eritrea"
   },
@@ -240,12 +248,68 @@
     "CNTRYNAME": "france"
   },
   {
+    "users": 11,
+    "CNTRYNAME": "frenchGuiana"
+  },
+  {
     "users": 5,
     "CNTRYNAME": "gabon"
   },
   {
+    "users": 57,
+    "CNTRYNAME": "gambia"
+  },
+  {
+    "users": 1813,
+    "CNTRYNAME": "georgia"
+  },
+  {
     "users": 60444,
     "CNTRYNAME": "germany"
+  },
+  {
+    "users": 10922,
+    "CNTRYNAME": "ghana"
+  },
+  {
+    "users": 439,
+    "CNTRYNAME": "greece"
+  },
+  {
+    "users": 2,
+    "CNTRYNAME": "greenland"
+  },
+  {
+    "users": 20,
+    "CNTRYNAME": "guineaBissau"
+  },
+  {
+    "users": 80,
+    "CNTRYNAME": "guinea"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "guyana"
+  },
+  {
+    "users": 3645,
+    "CNTRYNAME": "honduras"
+  },
+  {
+    "users": 16324,
+    "CNTRYNAME": "hongKong"
+  },
+  {
+    "users": 8804,
+    "CNTRYNAME": "hungary"
+  },
+  {
+    "users": 14905,
+    "CNTRYNAME": "indonesia"
+  },
+  {
+    "users": 18576,
+    "CNTRYNAME": "ireland"
   },
   {
     "users": 27644,
@@ -262,5 +326,9 @@
   {
     "users": 39678,
     "CNTRYNAME": "uk"
+  },
+  {
+    "users": 819515,
+    "CNTRYNAME": "wo"
   }
 ]
