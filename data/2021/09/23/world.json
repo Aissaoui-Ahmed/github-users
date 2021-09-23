@@ -212,6 +212,10 @@
     "CNTRYNAME": "egypt"
   },
   {
+    "users": 9,
+    "CNTRYNAME": "equatorialGuinea"
+  },
+  {
     "users": 0,
     "CNTRYNAME": "eritrea"
   },
@@ -240,12 +244,36 @@
     "CNTRYNAME": "france"
   },
   {
+    "users": 11,
+    "CNTRYNAME": "frenchGuiana"
+  },
+  {
     "users": 4,
     "CNTRYNAME": "gabon"
   },
   {
+    "users": 62,
+    "CNTRYNAME": "gambia"
+  },
+  {
+    "users": 1870,
+    "CNTRYNAME": "georgia"
+  },
+  {
     "users": 61299,
     "CNTRYNAME": "germany"
+  },
+  {
+    "users": 11112,
+    "CNTRYNAME": "ghana"
+  },
+  {
+    "users": 2,
+    "CNTRYNAME": "greenland"
+  },
+  {
+    "users": 83,
+    "CNTRYNAME": "guinea"
   },
   {
     "users": 28110,
@@ -262,5 +290,9 @@
   {
     "users": 40276,
     "CNTRYNAME": "uk"
+  },
+  {
+    "users": 774833,
+    "CNTRYNAME": "wo"
   }
 ]
