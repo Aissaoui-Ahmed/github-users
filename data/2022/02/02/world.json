@@ -132,6 +132,10 @@
     "CNTRYNAME": "burundi"
   },
   {
+    "users": 1679,
+    "CNTRYNAME": "cambodia"
+  },
+  {
     "users": 83786,
     "CNTRYNAME": "cameroon"
   },
@@ -142,6 +146,10 @@
   {
     "users": 9011,
     "CNTRYNAME": "capeVerde"
+  },
+  {
+    "users": 26,
+    "CNTRYNAME": "caymanIslands"
   },
   {
     "users": 14,
@@ -166,6 +174,10 @@
   {
     "users": 10227,
     "CNTRYNAME": "colombia"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "comoros"
   },
   {
     "users": 34,
@@ -336,8 +348,108 @@
     "CNTRYNAME": "israel"
   },
   {
+    "users": 3028,
+    "CNTRYNAME": "italy"
+  },
+  {
+    "users": 63250,
+    "CNTRYNAME": "japan"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "kazakhstan"
+  },
+  {
+    "users": 1988,
+    "CNTRYNAME": "kenya"
+  },
+  {
+    "users": 5,
+    "CNTRYNAME": "kuwait"
+  },
+  {
+    "users": 1373,
+    "CNTRYNAME": "kyrgyzstan"
+  },
+  {
+    "users": 9,
+    "CNTRYNAME": "laos"
+  },
+  {
+    "users": 3054,
+    "CNTRYNAME": "latvia"
+  },
+  {
+    "users": 17,
+    "CNTRYNAME": "libya"
+  },
+  {
+    "users": 28,
+    "CNTRYNAME": "liechtenstein"
+  },
+  {
+    "users": 5145,
+    "CNTRYNAME": "lithuania"
+  },
+  {
+    "users": 2856,
+    "CNTRYNAME": "luxembourg"
+  },
+  {
+    "users": 504,
+    "CNTRYNAME": "madagascarProvince"
+  },
+  {
+    "users": 168,
+    "CNTRYNAME": "mali"
+  },
+  {
+    "users": 1172,
+    "CNTRYNAME": "moldova"
+  },
+  {
+    "users": 703,
+    "CNTRYNAME": "mongolia"
+  },
+  {
+    "users": 616,
+    "CNTRYNAME": "montenegro"
+  },
+  {
+    "users": 28,
+    "CNTRYNAME": "morocco"
+  },
+  {
+    "users": 2886,
+    "CNTRYNAME": "myanmar"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "northKorea"
+  },
+  {
+    "users": 2012,
+    "CNTRYNAME": "northMacedonia"
+  },
+  {
+    "users": 15,
+    "CNTRYNAME": "saintLucia"
+  },
+  {
+    "users": 43098,
+    "CNTRYNAME": "southKorea"
+  },
+  {
     "users": 29771,
     "CNTRYNAME": "spain"
+  },
+  {
+    "users": 7237,
+    "CNTRYNAME": "sriLanka"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "stKittsNevis"
   },
   {
     "users": 15056,
@@ -352,7 +464,7 @@
     "CNTRYNAME": "uk"
   },
   {
-    "users": 1029507,
+    "users": 1170404,
     "CNTRYNAME": "wo"
   }
 ]
