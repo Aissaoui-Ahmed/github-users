@@ -376,6 +376,10 @@
     "CNTRYNAME": "kenya"
   },
   {
+    "users": 225,
+    "CNTRYNAME": "kosovo"
+  },
+  {
     "users": 5,
     "CNTRYNAME": "kuwait"
   },
@@ -572,6 +576,10 @@
     "CNTRYNAME": "saintVincent"
   },
   {
+    "users": 0,
+    "CNTRYNAME": "samoa"
+  },
+  {
     "users": 148,
     "CNTRYNAME": "sanMarino"
   },
@@ -618,6 +626,10 @@
   {
     "users": 19210,
     "CNTRYNAME": "somalia"
+  },
+  {
+    "users": 2310,
+    "CNTRYNAME": "southAfrica"
   },
   {
     "users": 44199,
@@ -728,7 +740,23 @@
     "CNTRYNAME": "venezuela"
   },
   {
-    "users": 2040068,
+    "users": 25653,
+    "CNTRYNAME": "vietnam"
+  },
+  {
+    "users": 2068256,
     "CNTRYNAME": "wo"
+  },
+  {
+    "users": 30,
+    "CNTRYNAME": "yemen"
+  },
+  {
+    "users": 13735,
+    "CNTRYNAME": "zambia"
+  },
+  {
+    "users": 1948,
+    "CNTRYNAME": "zimbabwe"
   }
 ]
