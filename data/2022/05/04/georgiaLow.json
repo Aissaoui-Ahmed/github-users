@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "users": 5,
+    "id": "GE-AB"
+  },
+  {
+    "users": 2,
+    "id": "GE-AJ"
+  },
+  {
+    "users": 0,
+    "id": "GE-GU"
+  },
+  {
+    "users": 2,
+    "id": "GE-IM"
+  },
+  {
+    "users": 0,
+    "id": "GE-KA"
+  },
+  {
+    "users": 2,
+    "id": "GE-KK"
+  },
+  {
+    "users": 0,
+    "id": "GE-MM"
+  },
+  {
+    "users": 0,
+    "id": "GE-RL"
+  },
+  {
+    "users": 0,
+    "id": "GE-SJ"
+  },
+  {
+    "users": 0,
+    "id": "GE-SK"
+  },
+  {
+    "users": 0,
+    "id": "GE-SZ"
+  },
+  {
+    "users": 2561,
+    "id": "GE-TB"
+  }
+]
