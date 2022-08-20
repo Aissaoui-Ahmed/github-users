@@ -240,8 +240,16 @@
     "CNTRYNAME": "france"
   },
   {
+    "users": 12,
+    "CNTRYNAME": "frenchGuiana"
+  },
+  {
     "users": 4,
     "CNTRYNAME": "gabon"
+  },
+  {
+    "users": 3023,
+    "CNTRYNAME": "georgia"
   },
   {
     "users": 68913,
@@ -262,5 +270,9 @@
   {
     "users": 44903,
     "CNTRYNAME": "uk"
+  },
+  {
+    "users": 895058,
+    "CNTRYNAME": "wo"
   }
 ]
