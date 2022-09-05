@@ -400,8 +400,32 @@
     "CNTRYNAME": "madagascarProvince"
   },
   {
+    "users": 608,
+    "CNTRYNAME": "malawi"
+  },
+  {
+    "users": 8611,
+    "CNTRYNAME": "malaysia"
+  },
+  {
+    "users": 7,
+    "CNTRYNAME": "maldives"
+  },
+  {
     "users": 196,
     "CNTRYNAME": "mali"
+  },
+  {
+    "users": 9533,
+    "CNTRYNAME": "malta"
+  },
+  {
+    "users": 103,
+    "CNTRYNAME": "mauritania"
+  },
+  {
+    "users": 72588,
+    "CNTRYNAME": "mexico"
   },
   {
     "users": 1273,
@@ -420,8 +444,20 @@
     "CNTRYNAME": "morocco"
   },
   {
+    "users": 2804,
+    "CNTRYNAME": "mozambique"
+  },
+  {
     "users": 3240,
     "CNTRYNAME": "myanmar"
+  },
+  {
+    "users": 8,
+    "CNTRYNAME": "namibia"
+  },
+  {
+    "users": 98,
+    "CNTRYNAME": "niger"
   },
   {
     "users": 0,
@@ -464,7 +500,7 @@
     "CNTRYNAME": "uk"
   },
   {
-    "users": 1301323,
+    "users": 1395683,
     "CNTRYNAME": "wo"
   }
 ]
