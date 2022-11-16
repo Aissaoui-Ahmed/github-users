@@ -112,6 +112,10 @@
     "CNTRYNAME": "brazil"
   },
   {
+    "users": 12,
+    "CNTRYNAME": "britishIndianOceanTerritory"
+  },
+  {
     "users": 2,
     "CNTRYNAME": "bruneiDarussalam"
   },
@@ -176,6 +180,10 @@
     "CNTRYNAME": "costaRica"
   },
   {
+    "users": 320,
+    "CNTRYNAME": "croatia"
+  },
+  {
     "users": 172,
     "CNTRYNAME": "curacao"
   },
@@ -212,6 +220,10 @@
     "CNTRYNAME": "egypt"
   },
   {
+    "users": 12,
+    "CNTRYNAME": "equatorialGuinea"
+  },
+  {
     "users": 0,
     "CNTRYNAME": "eritrea"
   },
@@ -240,12 +252,96 @@
     "CNTRYNAME": "france"
   },
   {
+    "users": 12,
+    "CNTRYNAME": "frenchGuiana"
+  },
+  {
     "users": 4,
     "CNTRYNAME": "gabon"
   },
   {
+    "users": 75,
+    "CNTRYNAME": "gambia"
+  },
+  {
+    "users": 3490,
+    "CNTRYNAME": "georgia"
+  },
+  {
     "users": 70999,
     "CNTRYNAME": "germany"
+  },
+  {
+    "users": 13032,
+    "CNTRYNAME": "ghana"
+  },
+  {
+    "users": 520,
+    "CNTRYNAME": "greece"
+  },
+  {
+    "users": 2,
+    "CNTRYNAME": "greenland"
+  },
+  {
+    "users": 27,
+    "CNTRYNAME": "guineaBissau"
+  },
+  {
+    "users": 123,
+    "CNTRYNAME": "guinea"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "guyana"
+  },
+  {
+    "users": 4344,
+    "CNTRYNAME": "honduras"
+  },
+  {
+    "users": 19630,
+    "CNTRYNAME": "hongKong"
+  },
+  {
+    "users": 10234,
+    "CNTRYNAME": "hungary"
+  },
+  {
+    "users": 3,
+    "CNTRYNAME": "iceland"
+  },
+  {
+    "users": 142772,
+    "CNTRYNAME": "india2020"
+  },
+  {
+    "users": 20555,
+    "CNTRYNAME": "indonesia"
+  },
+  {
+    "users": 15584,
+    "CNTRYNAME": "iran"
+  },
+  {
+    "users": 1036,
+    "CNTRYNAME": "iraq"
+  },
+  {
+    "users": 21362,
+    "CNTRYNAME": "ireland"
+  },
+  {
+    "users": 5492,
+    "CNTRYNAME": "israel"
+  },
+  {
+    "users": 3475,
+    "CNTRYNAME": "italy"
+  },
+  {
+    "users": 68235,
+    "CNTRYNAME": "japan"
   },
   {
     "users": 33581,
@@ -262,5 +358,9 @@
   {
     "users": 46360,
     "CNTRYNAME": "uk"
+  },
+  {
+    "users": 1260366,
+    "CNTRYNAME": "wo"
   }
 ]
