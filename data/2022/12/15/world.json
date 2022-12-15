@@ -156,6 +156,10 @@
     "CNTRYNAME": "centralAfricanRepublic"
   },
   {
+    "users": 157,
+    "CNTRYNAME": "chad"
+  },
+  {
     "users": 1487,
     "CNTRYNAME": "channelIslands"
   },
@@ -232,6 +236,10 @@
     "CNTRYNAME": "egypt"
   },
   {
+    "users": 3111,
+    "CNTRYNAME": "elSalvador"
+  },
+  {
     "users": 13,
     "CNTRYNAME": "equatorialGuinea"
   },
@@ -242,6 +250,10 @@
   {
     "users": 36,
     "CNTRYNAME": "estonia"
+  },
+  {
+    "users": 23,
+    "CNTRYNAME": "eswatini"
   },
   {
     "users": 86,
@@ -362,6 +374,10 @@
   {
     "users": 2660,
     "CNTRYNAME": "kenya"
+  },
+  {
+    "users": 268,
+    "CNTRYNAME": "kosovo"
   },
   {
     "users": 6,
@@ -556,8 +572,28 @@
     "CNTRYNAME": "saintLucia"
   },
   {
+    "users": 7433,
+    "CNTRYNAME": "saintVincent"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "samoa"
+  },
+  {
+    "users": 160,
+    "CNTRYNAME": "sanMarino"
+  },
+  {
+    "users": 16,
+    "CNTRYNAME": "saoTomePrincipe"
+  },
+  {
     "users": 153,
     "CNTRYNAME": "saudiArabia"
+  },
+  {
+    "users": 2916,
+    "CNTRYNAME": "senegal"
   },
   {
     "users": 313,
@@ -568,16 +604,40 @@
     "CNTRYNAME": "seychelles"
   },
   {
+    "users": 7211,
+    "CNTRYNAME": "sierraLeone"
+  },
+  {
     "users": 1673,
     "CNTRYNAME": "singapore"
+  },
+  {
+    "users": 4,
+    "CNTRYNAME": "slovakia"
+  },
+  {
+    "users": 2934,
+    "CNTRYNAME": "slovenia"
   },
   {
     "users": 7242,
     "CNTRYNAME": "solomonIslands"
   },
   {
+    "users": 20583,
+    "CNTRYNAME": "somalia"
+  },
+  {
+    "users": 2777,
+    "CNTRYNAME": "southAfrica"
+  },
+  {
     "users": 52023,
     "CNTRYNAME": "southKorea"
+  },
+  {
+    "users": 299,
+    "CNTRYNAME": "southSudan"
   },
   {
     "users": 33992,
@@ -600,12 +660,56 @@
     "CNTRYNAME": "sudan"
   },
   {
+    "users": 214,
+    "CNTRYNAME": "suriname"
+  },
+  {
+    "users": 43,
+    "CNTRYNAME": "svalbard"
+  },
+  {
     "users": 25328,
     "CNTRYNAME": "sweden"
   },
   {
     "users": 16747,
     "CNTRYNAME": "switzerland"
+  },
+  {
+    "users": 28,
+    "CNTRYNAME": "syria"
+  },
+  {
+    "users": 261,
+    "CNTRYNAME": "tajikistan"
+  },
+  {
+    "users": 2465,
+    "CNTRYNAME": "tanzania"
+  },
+  {
+    "users": 3177,
+    "CNTRYNAME": "thailand"
+  },
+  {
+    "users": 131,
+    "CNTRYNAME": "timorLeste"
+  },
+  {
+    "users": 79,
+    "CNTRYNAME": "togo"
+  },
+  {
+    "users": 4092,
+    "CNTRYNAME": "tunisia"
+  },
+  {
+    "users": 67543,
+    "CNTRYNAME": "turkey"
+  },
+  {
+    "users": 278,
+    "CNTRYNAME": "turkmenistan"
   },
   {
     "users": 11448,
@@ -616,7 +720,43 @@
     "CNTRYNAME": "uk"
   },
   {
-    "users": 1750399,
+    "users": 42678,
+    "CNTRYNAME": "ukraine"
+  },
+  {
+    "users": 402928,
+    "CNTRYNAME": "usa"
+  },
+  {
+    "users": 1181,
+    "CNTRYNAME": "uzbekistan"
+  },
+  {
+    "users": 51,
+    "CNTRYNAME": "vatican"
+  },
+  {
+    "users": 4785,
+    "CNTRYNAME": "venezuela"
+  },
+  {
+    "users": 30630,
+    "CNTRYNAME": "vietnam"
+  },
+  {
+    "users": 2358855,
     "CNTRYNAME": "wo"
+  },
+  {
+    "users": 40,
+    "CNTRYNAME": "yemen"
+  },
+  {
+    "users": 15218,
+    "CNTRYNAME": "zambia"
+  },
+  {
+    "users": 2248,
+    "CNTRYNAME": "zimbabwe"
   }
 ]
