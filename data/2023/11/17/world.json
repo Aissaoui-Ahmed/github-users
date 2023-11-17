@@ -376,6 +376,14 @@
     "CNTRYNAME": "laos"
   },
   {
+    "users": 3657,
+    "CNTRYNAME": "latvia"
+  },
+  {
+    "users": 26,
+    "CNTRYNAME": "libya"
+  },
+  {
     "users": 32,
     "CNTRYNAME": "liechtenstein"
   },
@@ -386,6 +394,22 @@
   {
     "users": 3730,
     "CNTRYNAME": "luxembourg"
+  },
+  {
+    "users": 944,
+    "CNTRYNAME": "madagascarProvince"
+  },
+  {
+    "users": 1536,
+    "CNTRYNAME": "moldova"
+  },
+  {
+    "users": 1125,
+    "CNTRYNAME": "montenegro"
+  },
+  {
+    "users": 71,
+    "CNTRYNAME": "morocco"
   },
   {
     "users": 0,
@@ -424,7 +448,7 @@
     "CNTRYNAME": "uk"
   },
   {
-    "users": 1565644,
+    "users": 1573003,
     "CNTRYNAME": "wo"
   }
 ]
