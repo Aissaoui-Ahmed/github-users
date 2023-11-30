@@ -400,8 +400,32 @@
     "CNTRYNAME": "madagascarProvince"
   },
   {
+    "users": 800,
+    "CNTRYNAME": "malawi"
+  },
+  {
+    "users": 10376,
+    "CNTRYNAME": "malaysia"
+  },
+  {
+    "users": 7,
+    "CNTRYNAME": "maldives"
+  },
+  {
     "users": 289,
     "CNTRYNAME": "mali"
+  },
+  {
+    "users": 10876,
+    "CNTRYNAME": "malta"
+  },
+  {
+    "users": 134,
+    "CNTRYNAME": "mauritania"
+  },
+  {
+    "users": 90131,
+    "CNTRYNAME": "mexico"
   },
   {
     "users": 1541,
@@ -420,8 +444,40 @@
     "CNTRYNAME": "morocco"
   },
   {
+    "users": 3700,
+    "CNTRYNAME": "mozambique"
+  },
+  {
     "users": 3939,
     "CNTRYNAME": "myanmar"
+  },
+  {
+    "users": 10,
+    "CNTRYNAME": "namibia"
+  },
+  {
+    "users": 169,
+    "CNTRYNAME": "nepal"
+  },
+  {
+    "users": 7897,
+    "CNTRYNAME": "netherlands"
+  },
+  {
+    "users": 15398,
+    "CNTRYNAME": "newZealand"
+  },
+  {
+    "users": 6445,
+    "CNTRYNAME": "nicaragua"
+  },
+  {
+    "users": 144,
+    "CNTRYNAME": "niger"
+  },
+  {
+    "users": 35123,
+    "CNTRYNAME": "nigeria"
   },
   {
     "users": 0,
@@ -432,8 +488,92 @@
     "CNTRYNAME": "northMacedonia"
   },
   {
+    "users": 13056,
+    "CNTRYNAME": "norway"
+  },
+  {
+    "users": 5685,
+    "CNTRYNAME": "oman"
+  },
+  {
+    "users": 22070,
+    "CNTRYNAME": "pakistan"
+  },
+  {
+    "users": 23423,
+    "CNTRYNAME": "palestine"
+  },
+  {
+    "users": 3843,
+    "CNTRYNAME": "panama"
+  },
+  {
+    "users": 7196,
+    "CNTRYNAME": "paraguay"
+  },
+  {
+    "users": 16579,
+    "CNTRYNAME": "peru"
+  },
+  {
+    "users": 13316,
+    "CNTRYNAME": "philippines"
+  },
+  {
+    "users": 488,
+    "CNTRYNAME": "poland"
+  },
+  {
+    "users": 27167,
+    "CNTRYNAME": "portugal"
+  },
+  {
+    "users": 39902,
+    "CNTRYNAME": "puertoRico"
+  },
+  {
+    "users": 5,
+    "CNTRYNAME": "qatar"
+  },
+  {
+    "users": 11478,
+    "CNTRYNAME": "romania"
+  },
+  {
+    "users": 37570,
+    "CNTRYNAME": "russia"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "rwanda"
+  },
+  {
+    "users": 168,
+    "CNTRYNAME": "saintHelena"
+  },
+  {
     "users": 25,
     "CNTRYNAME": "saintLucia"
+  },
+  {
+    "users": 198,
+    "CNTRYNAME": "saudiArabia"
+  },
+  {
+    "users": 394,
+    "CNTRYNAME": "serbia"
+  },
+  {
+    "users": 1770,
+    "CNTRYNAME": "seychelles"
+  },
+  {
+    "users": 1904,
+    "CNTRYNAME": "singapore"
+  },
+  {
+    "users": 8317,
+    "CNTRYNAME": "solomonIslands"
   },
   {
     "users": 60311,
@@ -452,6 +592,18 @@
     "CNTRYNAME": "stKittsNevis"
   },
   {
+    "users": 67,
+    "CNTRYNAME": "stPierreMiquelon"
+  },
+  {
+    "users": 30,
+    "CNTRYNAME": "sudan"
+  },
+  {
+    "users": 27479,
+    "CNTRYNAME": "sweden"
+  },
+  {
     "users": 18738,
     "CNTRYNAME": "switzerland"
   },
@@ -464,7 +616,7 @@
     "CNTRYNAME": "uk"
   },
   {
-    "users": 1587552,
+    "users": 2030867,
     "CNTRYNAME": "wo"
   }
 ]
