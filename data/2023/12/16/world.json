@@ -112,6 +112,10 @@
     "CNTRYNAME": "brazil"
   },
   {
+    "users": 19,
+    "CNTRYNAME": "britishIndianOceanTerritory"
+  },
+  {
     "users": 2,
     "CNTRYNAME": "bruneiDarussalam"
   },
@@ -128,6 +132,10 @@
     "CNTRYNAME": "burundi"
   },
   {
+    "users": 2335,
+    "CNTRYNAME": "cambodia"
+  },
+  {
     "users": 119481,
     "CNTRYNAME": "cameroon"
   },
@@ -138,6 +146,10 @@
   {
     "users": 13415,
     "CNTRYNAME": "capeVerde"
+  },
+  {
+    "users": 34,
+    "CNTRYNAME": "caymanIslands"
   },
   {
     "users": 15,
@@ -164,6 +176,10 @@
     "CNTRYNAME": "colombia"
   },
   {
+    "users": 0,
+    "CNTRYNAME": "comoros"
+  },
+  {
     "users": 61,
     "CNTRYNAME": "congoDR"
   },
@@ -174,6 +190,10 @@
   {
     "users": 18230,
     "CNTRYNAME": "costaRica"
+  },
+  {
+    "users": 368,
+    "CNTRYNAME": "croatia"
   },
   {
     "users": 188,
@@ -212,6 +232,10 @@
     "CNTRYNAME": "egypt"
   },
   {
+    "users": 21,
+    "CNTRYNAME": "equatorialGuinea"
+  },
+  {
     "users": 0,
     "CNTRYNAME": "eritrea"
   },
@@ -240,16 +264,192 @@
     "CNTRYNAME": "france"
   },
   {
+    "users": 14,
+    "CNTRYNAME": "frenchGuiana"
+  },
+  {
     "users": 5,
     "CNTRYNAME": "gabon"
+  },
+  {
+    "users": 82,
+    "CNTRYNAME": "gambia"
+  },
+  {
+    "users": 4944,
+    "CNTRYNAME": "georgia"
   },
   {
     "users": 79698,
     "CNTRYNAME": "germany"
   },
   {
+    "users": 14963,
+    "CNTRYNAME": "ghana"
+  },
+  {
+    "users": 584,
+    "CNTRYNAME": "greece"
+  },
+  {
+    "users": 2,
+    "CNTRYNAME": "greenland"
+  },
+  {
+    "users": 40,
+    "CNTRYNAME": "guineaBissau"
+  },
+  {
+    "users": 160,
+    "CNTRYNAME": "guinea"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "guyana"
+  },
+  {
+    "users": 4947,
+    "CNTRYNAME": "honduras"
+  },
+  {
+    "users": 22639,
+    "CNTRYNAME": "hongKong"
+  },
+  {
+    "users": 11560,
+    "CNTRYNAME": "hungary"
+  },
+  {
+    "users": 3,
+    "CNTRYNAME": "iceland"
+  },
+  {
+    "users": 187228,
+    "CNTRYNAME": "india2020"
+  },
+  {
+    "users": 25470,
+    "CNTRYNAME": "indonesia"
+  },
+  {
+    "users": 19480,
+    "CNTRYNAME": "iran"
+  },
+  {
+    "users": 1267,
+    "CNTRYNAME": "iraq"
+  },
+  {
+    "users": 23565,
+    "CNTRYNAME": "ireland"
+  },
+  {
+    "users": 6212,
+    "CNTRYNAME": "israel"
+  },
+  {
+    "users": 4137,
+    "CNTRYNAME": "italy"
+  },
+  {
+    "users": 75475,
+    "CNTRYNAME": "japan"
+  },
+  {
+    "users": 3,
+    "CNTRYNAME": "kazakhstan"
+  },
+  {
+    "users": 3342,
+    "CNTRYNAME": "kenya"
+  },
+  {
+    "users": 7,
+    "CNTRYNAME": "kuwait"
+  },
+  {
+    "users": 2682,
+    "CNTRYNAME": "kyrgyzstan"
+  },
+  {
+    "users": 17,
+    "CNTRYNAME": "laos"
+  },
+  {
+    "users": 3850,
+    "CNTRYNAME": "latvia"
+  },
+  {
+    "users": 26,
+    "CNTRYNAME": "libya"
+  },
+  {
+    "users": 32,
+    "CNTRYNAME": "liechtenstein"
+  },
+  {
+    "users": 6887,
+    "CNTRYNAME": "lithuania"
+  },
+  {
+    "users": 3769,
+    "CNTRYNAME": "luxembourg"
+  },
+  {
+    "users": 973,
+    "CNTRYNAME": "madagascarProvince"
+  },
+  {
+    "users": 288,
+    "CNTRYNAME": "mali"
+  },
+  {
+    "users": 1555,
+    "CNTRYNAME": "moldova"
+  },
+  {
+    "users": 973,
+    "CNTRYNAME": "mongolia"
+  },
+  {
+    "users": 1139,
+    "CNTRYNAME": "montenegro"
+  },
+  {
+    "users": 74,
+    "CNTRYNAME": "morocco"
+  },
+  {
+    "users": 3978,
+    "CNTRYNAME": "myanmar"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "northKorea"
+  },
+  {
+    "users": 2643,
+    "CNTRYNAME": "northMacedonia"
+  },
+  {
+    "users": 25,
+    "CNTRYNAME": "saintLucia"
+  },
+  {
+    "users": 60629,
+    "CNTRYNAME": "southKorea"
+  },
+  {
     "users": 39541,
     "CNTRYNAME": "spain"
+  },
+  {
+    "users": 11076,
+    "CNTRYNAME": "sriLanka"
+  },
+  {
+    "users": 0,
+    "CNTRYNAME": "stKittsNevis"
   },
   {
     "users": 18843,
@@ -262,5 +462,9 @@
   {
     "users": 51865,
     "CNTRYNAME": "uk"
+  },
+  {
+    "users": 1597041,
+    "CNTRYNAME": "wo"
   }
 ]
