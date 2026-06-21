@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Aissaoui-Ahmed/users-github#readme",
   "dependencies": {
     "@aissaoui-ahmed/accents": "^1.0.5-2",
-    "@octokit/graphql": "^4.5.1",
+    "@octokit/graphql": "^8.2.0",
     "moment": "^2.29.4"
   },
   "devDependencies": {
